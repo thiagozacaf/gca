@@ -1,0 +1,691 @@
+--- PÁGINA 1 ---
+AesthPlastSurg(2024)48:5315–5328
+https://doi.org/10.1007/s00266-024-03956-9
+REVIEW BREAST SURGERY
+The Risk of Breast Implant-Associated Anaplastic Large Cell
+Lymphoma; A Systematic Review and Meta-Analysis
+Ali Mohamed Elameen1 • Mohamed Awad AlMarakby2 • Tarek Ibrahim Atta3 •
+Asmaa Ali Dahy2
+Received:5December2023/Accepted:16February2024/Publishedonline:9May2024
+(cid:2)TheAuthor(s)2024
+Abstract with a similar risk among patients seeking aesthetic and
+Background Breast implant-associated anaplastic large reconstructivesurgeries.Theriskwas0to1caseper1000
+cell lymphoma (BIA-ALCL) is an emerging disorder that cases among patients with textured breast implants. There
+has gained global attention throughout the past era. The was a significant association between the history of breast
+presentmeta-analysiswasperformedtoretrievetheriskof cancer and BIA-ALCL (P = 0.0016).
+BIA-ALCL from population-based epidemiological stud- Conclusion This meta-analysis confirmed the association
+ies. Factors associated with BIA-ALCL were evaluated to between breast implants and ALCL. There was a similar
+identify patients at higher risk of BIA-ALCL. risk of BIA-ALCL among patients with aesthetic or
+Methods A systematic literature search was executed reconstructive surgeries. Patients with a history of breast
+throughout 12 databases. All epidemiological studies cancer were at higher risk of BIA-ALCL.
+encompassing patients with breast implants either for aes- Level of Evidence III This journal requires that authors
+thetic or reconstructive purposes and reported the risk of assign a level of evidence to each article. For a full
+BIA-ALCLwereincluded.Studiesreportedtheriskfactors description of these Evidence-Based Medicine ratings,
+of BIA-ALCL were included. please refer to the Table of Contents or the online
+Results The present meta-analysis included 17 articles, Instructions to Authors www.springer.com/00266.
+encompassing525,475patientswithbreastimplants.There
+were254patientswithBIA-ALCLwithameandurationto Keywords BIA-ALCL(cid:2)Anaplasticlarge celllymphoma(cid:2)
+the diagnosis of BIA-ALCL of 13.16 years (95% CI Breast implants
+11.7–14.6, P\0.001). There were 44 patients with tex-
+tured breast implants and two with smooth implants.
+Patients with breast implants were 28.86 times more at Introduction
+high risk of BI-ALCL (95% CI 3.123–266.681). The risk
+ranged from 0 to 1 per 1000 cases with breast implants, Aestheticandreconstructivebreastsurgeriesareamongthe
+most performed surgical procedures worldwide. In the
+USA, more than 500,000 patients are undergoing aesthetic
+& MohamedAwadAlMarakby breast surgeries annually, in which augmentation mam-
+Mohamed.Elmarakby@azhar.edu.eg moplasty is the most common procedure [1, 2]. The more
+patientsarediagnosedwithbreastcancer,themorewomen
+1 DepartmentofPlasticandReconstructiveSurgery,El-Sahel
+seek breast reconstruction surgeries. Implant-based breast
+TeachingHospital,Cairo,Egypt
+reconstruction (IBBR) is the most carried out reconstruc-
+2 DepartmentofPlasticandReconstructiveSurgery,Facultyof
+tive surgery after mastectomy. IBBR accounts for more
+MedicineForGirls,Al-AzharUniversity,GameatAlAzhar,
+than 80% of all women subjecting to breast reconstruction
+NasrCity,Cairo,Egypt
+[3].Worldwide,morethan35millionwomenaresubjected
+3 DepartmentofPlasticandReconstructiveSurgery,EL
+toimplant-basedbreastsurgeries,withnearly450thousand
+HelmeyaMilitaryHospital,MilitaryMedicalAcademy,
+Cairo,Egypt breast implants used yearly in the USA [4, 5]. The
+123
+
+--- PÁGINA 2 ---
+5316 AesthPlastSurg(2024)48:5315–5328
+increasing demand for implant-based breast surgeries evaluated to identify patients at higher risk of BIA-ALCL.
+reflects the ultimate need for women to recreate aestheti- Recognizingsuchevidenceiscrucialtoensuringthesafety
+cally pleasant breasts with acceptable functional and of implant-based breast surgeries and optimizing preven-
+physical outcomes [6]. tive measures for patients at higher risk of BIA-ALCL.
+The advancement in implant manufacturing techniques
+considerably improved the outcomes of breast surgeries.
+Implantsmaintaintheanatomicalboundariesofthebreasts, Materials and Methods
+allowing for more aesthetically appealing natural breast
+[7]. Breast implants are categorized based on surface ThePreferredReportingItemsforSystematicReviewsand
+roughness, filling materials, and shape. Based on the sur- Meta-Analysis (PRISMA) guidelines [19] and the recom-
+face of the implants, these devices are assorted into tex- mendations of the Cochrane Collaboration [20] were fol-
+tured or smooth implants. Recently, there has been an lowed while conducting the present study. This systematic
+increased usage rate of smooth breast implants at the review was reported based on the guidelines of Meta-
+expense of textured breast implants [8]. This might be analysis of observational studies in epidemiology [21]
+attributed to the considerable degree of biofilm formation (Supplementary Table 1).
+and seroma associated with textured breast implants [9].
+The biofilm surrounding the textured implants may stim- Study Selection
+ulate lymphocyte production, which triggers a cycle of
+inflammation that ultimately results in breast implant-as- All epidemiological studies encompassed patients with
+sociatedanaplasticlargecelllymphoma(BIA-ALCL)[10]. breast implants either for aesthetic or reconstructive pur-
+BIA-ALCL has raised concerns about the safety and poses and reported the number of patients who developed
+future of breast implants. It is a rare type of T-Cell lym- BIA-ALCL apart from the total cohort were included.
+phoma that arises around the breast implants. It is the Studies reported the risk factors of BIA-ALCL in patients
+disease of the breast implant capsule and not of the breast with breast implants were included. There was no restric-
+tissue itself [11]. However, lack of knowledge is a signif- tion on the patient’s age, sex, race, or place. On the con-
+icant barrier to managing patients with BIA-ALCL trary,non-epidemiology-basedstudiesorthosethatdidnot
+appropriately, with little being known regarding the rela- report the associations between breast implants and
+tionshipbetweenbreastimplantsandALCL.Thisresultsin anaplastic large cell lymphoma (ALCL) were ousted.
+considerable debate about the future safety of breast Studieswithunextractabledata,guidelines,reviewarticles,
+implants in aesthetic and reconstructive settings [12]. case reports, non-human studies, case series, comments,
+The growing interest in BIA-ALCL reflects its impli- editorials, posters, letters, and books were excluded. The
+cations for implant-based breast surgeries. A possible screening processes were performed blindly to retrieve the
+correlation between breast implants and ALCL could possibly relevant articles. The disquerycrepancy between
+change the reconstructive options, choice of breast thereviewerswassolvedbydiscussion.Thescreeningand
+implants, and the future of other implanted devices [13]. eligibility processes were reported using PRISMA flow
+The exact number of patients with BIA-ALCL is chal- chart.
+lenging to determine due to the lack of global disease
+awareness[14].Despitetheprogressincalculatingtherisk Data Source
+of BIA-ALCL, the results of previously published sys-
+tematic reviews are inconsistent [15, 16]. There is a con- A comprehensive systematic literature review was carried
+siderable variation in the estimated current risk of BIA- out throughout twelve databases from inception until 16
+ALCL. This variation may be due to underreporting, April 2023. The following databases were searched: Goo-
+duplicated cases, misdiagnosis, difficulty obtaining a valid gle Scholar, PubMed, Web of Science (ISI), SIGLE, Sco-
+clinical history from the affected cases, differences in the pus, Virtual Health Library (VHL), Clinical trials,
+diagnostic approaches, and inadequate data related to the ControlledTrials(RCT),NYAM,CochraneCollaboration,
+total number of patients with breast implants [17]. EMBASE,andWHOInternationalClinicalTrialsRegistry
+Acomprehensiveunderstandingofbreastimplantsafety Platform (ICTRP). No restrictions were employed on
+remains a common goal of plastic and reconstructive sur- patients’ age, ethnicity, race, language, or place. The
+geons [18]. Herein, the current meta-analysis was per- search strategy applied individualized controlled vocabu-
+formedtoretrievetheriskofBIA-ALCLfrompopulation- larytermsbasedoneachsearcheddatabase’sguidelines.A
+based epidemiological studies. This risk was categorized combination of medical subject headings and text words
+based on the type of breast implant and breast surgery. was used to retrieve a wide range of potentially eligible
+Furthermore, factors associated with BIA-ALCL were articles.Citationtracking,cross-referencing,andscreening
+123
+
+--- PÁGINA 3 ---
+AesthPlastSurg(2024)48:5315–5328 5317
+of all references of previously published systematic with the asymmetrical distribution of the included studies
+reviews were performed. The following keywords were within the funnel plot along the middle line and based on
+used in every possible combination; ‘Breast’, ‘Mammary’, Egger’s regression test (P-value\0.10). The trim and fill
+‘Implant’, ‘Implants’, ‘Prosthesis’, ‘Expander’, ‘BIA- methodofDuvallandTweediewasexecutedtoinvestigate
+ALCL’, ‘Anaplastic’,’ Lymphoma,’ ‘Lymphomas’, the impact of publication bias on the overall significance
+‘lymphoproliferative’. level [24].
+Random-effects meta-regression was conducted to
+Data Extraction explore the potential associations with BIA-ALCL. Sub-
+group analysis was performed based on the type of breast
+The demographic characteristics of the included studies surgery, the types of breast implants, and based on study
+wereretrieved.Thisincludedstudy’stitle,thefirstauthor’s regions. The data were analysed using Comprehensive
+second name, study design, year of publication, study Meta-Analysis v3 software. The significance was revealed
+period, and study region. Furthermore, patients’ demo- at the value of P\0.05 [25].
+graphic characteristics were extracted, including the total
+number of patients with breast implants, the number of
+patients who developed BIA-ALCL, patients’ age at the Results
+diagnosisofBIA-ALCL,diagnosticworkup,andhistoryof
+breast cancer. The data related to breast implants were A systematic literature search of 12 databases revealed
+extracted, including the reasons for breast implants, time 4029 articles. Of them, 995 reports were excluded as
+from implants to the diagnosis of BIA-ALCL, times of duplicates,resultingin3034articleseligibleforscreening.
+breast implants, types of breast implants, side of the The title and abstract screening process excluded 2984
+implants, and the number of implants. The data related to studies,yielding50articlessuitableforfull-textscreening.
+BIA-ALCL were retrieved, including the lymphoma Consequently, 36 studies were excluded, resulting in 14
+localization, type of ALCL, stage of BIA-ALCL, and articles included for data extraction, in which one study
+treatment-related data. The data were extracted indepen- wasexcluded.Fourstudieswereidentifiedthroughmanual
+dently in a well-structured Microsoft Excel spreadsheet. searching,resultingin17articlesthatwerefinallyincluded
+for systematic review and meta-analysis. The literature
+Quality Assessment of the Included Studies search process, identification of studies, and eligibility are
+shown in Fig. 1
+The quality of the observational studies was calculated
+using the National Institute of Health (NIH) quality Demographic Characteristics and Quality
+assessment tool [22]. The quality of the included studies of the Included Studies
+was assorted into good, fair, and bad when the score was
+[65%, 30–65%, and\30%, respectively. The present systematic review and meta-analysis included
+17 articles, encompassing 525475 patients with breast
+Statistical Analysis implants [26–42]. There were ten articles of prospective
+studydesignandsevenreportsofretrospectivedesign.Ten
+The pooled summary of odds ratio (OR) was computed by articles included data from the USA. There were 254
+pooling the effect sizes from all the included articles to patientswithBIA-ALCLthroughoutthefollow-upperiods,
+confirm the association between breast implants and which ranged from five to 30.9 years. The average age at
+ALCL. The cumulative incidence of BIA-ALCL was diagnosis of BIA-ALCL ranged from 24 to 77 years, with
+estimatedbypoolingtheincidencevalueandtheir95%CI an average time from implants to diagnosis ranging from
+(confidence intervals) to calculate the pooled cumulative one to 39 years with a mean duration of 13.16 years (95%
+incidence.TheprevalenceofBIA-ALCLwascalculatedby CI 11.7–14.6, P\0.001). There were 42 patients with a
+calculating the event rate and 95% CIs for each study and history of breast cancer (Table 1).
+followed by pooling the effect sizes of all studies to eval- There were 44 patients with textured breast implants,
+uatethesummaryriskwith95%CI.Thefixed-effectmodel and two with smooth implants had BIA-ALCL. Further-
+wasusedwhenafixedpopulationeffectsizewasassumed. more, there were 28 patients with stage I BIA-ALCL and
+Conversely, the random-effects model was implemented sixwithstageIIBIA-ALCL.Thirty-threepatientsreceived
+when the statistical heterogeneity was established. Statis- surgical therapy; 15 patients were treated with
+ticalheterogeneitywascalculatedusingHigginsI2statistic, chemotherapy in addition to the surgical treatment. The
+and the Cochrane Q (v2 test), at the value of[50% and included observational studies revealed a fair quality of
+P\0.10, respectively [23]. Publication bias was revealed
+123
+
+--- PÁGINA 4 ---
+5318 AesthPlastSurg(2024)48:5315–5328
+Fig.1 PRISMA2020flowdiagramforupdatedsystematicreviewswhichincludedsearchesofdatabases,registers,othersources,andscreening
+four studies [26, 28, 36, 40]. The quality of the remaining bias on the significant level of the overall estimate
+13 articles was good (Table 2). (P\0.001) (Fig. 2A and B).
+Subgroupanalysisbasedonthestudyregionsrevealeda
+The Risk of BIA-ALCL relatively high prevalence of BIA-ALCL in the European
+region. The prevalence of BIA-ALCL ranged from 0 to 7
+Total Risk of BIA-ALCL cases per 1000 patients with breast implants in Europe
+(eventrate0,95%CI0–0.7;P\0.001),incontrastto0to
+Fourteen studies included 525475 patients with breast 1 case per 1000 patients inthe USA (event rate 0, 95% CI
+implants and reported the number of cases of BIA-ALCL 0–0.1; P\0.001) (Fig. 2C).
+[26–31,35–42].Intherandom-effectsmodel(I2 = 96.08%,
+P\0.001), the risk of BIA-ALCL ranged from 0 to 1 per Cumulative Risk of BIA-ALCL
+1000casesofbreastimplants(eventrate0,95%CI0–0.1;
+P\0.001). Evidence of publication bias was detected by Twostudiesincluded12919caseswithbreastimplantsthat
+the asymmetrical distribution of studies along the middle reported the cumulative incidence of BIA-ALCL per 1000
+lineofthefunnelplotandbasedonEgger’sregressiontest patients per year [27, 37]. In the random-effects model
+(Intercept = - 5.43, P = 0.00124). The trim and fill (I2 = 98.023%, P\0.001), the cumulative risk of BIA-
+methodwasappliedtoassesstheimpactofpublicationbias ALCL per 1000 persons per year was 1.159 (0.087 to
+on the overall estimate after imputing possible missing 15.381, P = 0.911) (Fig. 2D).
+studies. This revealed no significant impact of publication
+123
+
+--- PÁGINA 5 ---
+AesthPlastSurg(2024)48:5315–5328 5319
+Table1 DemographiccharacteristicsoftheincludedstudieswithpatientswithBIA-ALCL
+StudyID Studyregion Studydesign Registration Studyperiod BIA- Total Ageat
+number ALCL cohort diagnosis
+Cases
+Number Number Median/range
+1 Adametal. Sweden Prospective NA NR 0 42,035 NR
+[26] cohort
+2 Boeretal.[29] Netherlands Population-based NA 1990and2016 32 3000 59(24–87)
+case-control
+3 Cordeiroetal. USA Prospective NA December1992to 10 3546 60(53–73)
+[27] cohortstudy December2017
+4 Coroneosetal. USA Prospective NA February2007to 1 99993 NR
+[28] cohort March2010
+5 Kinslowetal. USA Retrospective NA 2000to2018 5 56784 50–54(40–59)
+[30]
+6 Largentetal. France Retrospective NA NR 3 89382 59.33±9.39*
+[31]
+7 Maxwelletal. USA Prospective, NCT00690339 February2001and 1 941 NR
+[35] multicenter February2002
+8 McGuireetal. USA Retrospective NA NR 4 17655 NR
+[36]
+9 Nelsonetal. USA Retrospective NA July1,1991andJune 11 9373 54.57
+[37] 30,2017 (50.39–77.33)
+10 Nelsonetal. USA Retrospective NA 1995-2016 0 3310 NR
+[38] cohort
+11 Singhetal. USA Prospective NCT00443274 Marchof2010to 0 55279 NR
+[39] cohort October1,2015
+12 Spearetal. USA Prospective NA Januaryof1999and 0 715 NR
+[40] cohort Juneof2000
+13 Vaseetal.[41] Denmark Prospective NA 1973–2010 0 19,885 NR
+cohort
+14 Wangetal. USA Prospective NA 1January1995and31 2 123392 NR
+[42] cohort December2012,
+15 Loch- Australiaand Prospective NA 2007and2016 55 NR NR
+Wilkinson NewZealand cohort
+etal.[32]
+16 Loch- Australia Prospective NA October2015toMay 104 NR NR
+Wilkinson cohort 2019
+etal.[33]
+17 Magnusson Australiaand Prospective NA Januaryof2017and 26 NR NR
+etal.[34] NewZealand cohort Aprilof2018
+StudyID Reasonsforbreastimplants Typeofreconstruction Historyofbreastcancer Previoustherapies
+Aesthetic Reconstruction Unilateral Bilateral Radiotherapy Chemotherapy
+Number Number Number Number Number Number Number
+1 Adametal.[26] 0 0 NR NR NR 0 0
+2 Boeretal.[29] 22 10 NR NR 10 NR NR
+3 Cordeiroetal.[27] 0 10 NR NR 10 NR NR
+4 Coroneosetal.[28] NR NR NR NR NR NR NR
+5 Kinslowetal.[30] 0 5 NR NR 5 NR NR
+6 Largentetal.[31] 0 3 3 NR 3 1 2
+7 Maxwelletal.[35] 0 1 NR NR 1 0 0
+8 McGuireetal.[36] 2 2 NR NR 2 NR NR
+9 Nelsonetal.[37] 0 11 1 10 11 NR NR
+123
+
+--- PÁGINA 6 ---
+5320 AesthPlastSurg(2024)48:5315–5328
+Table1 continued
+StudyID Reasonsforbreast Typeof Historyofbreastcancer Previoustherapies
+implants reconstruction
+Aesthetic Reconstruction Unilateral Bilateral Radiotherapy Chemotherapy
+Number Number Number Number Number Number Number
+10 Nelsonetal.[38] 0 0 NR NR 0 0 0
+11 Singhetal.[39] 0 0 NR NR 0 0 0
+12 Spearetal.[40] 0 0 NR NR 0 0 0
+13 Vaseetal.[41] 0 0 NR NR 0 0 0
+14 Wangetal.[42] NR NR NR NR NR NR NR
+15 Loch-Wilkinsonetal.[32] NR NR NR NR NR NR NR
+16 Loch-Wilkinsonetal.[33] NR NR NR NR NR NR NR
+17 Magnussonetal.[34] NR NR NR NR NR NR NR
+BIA-ALCLbreastimplantassociatedanaplasticlargecelllymphoma,NAnonapplicable,NRnon-reported
+*Datareportedusingmeanandstandarddeviation
+TheRiskofBIA-ALCLBasedontheTypeofBreastSurgery encompassing 234807 patients with breast implants
+[26, 27, 29, 31, 36, 38–41]. In the random-effects model
+The risk of BIA-ALCL among patients seeking breast (I2 = 94.97%, P\0.001), the risk of BIA-ALCL ranged
+implants for aesthetic purposes was evaluated among from 0 to one per 1000 cases (event rate 0; 95% CI
+twelve articles, including 301905 patients 0–0.001; P\0.001) (Fig. 4A).
+[26, 27, 29–31, 35–41]. The prevalence of BIA-ALCL
+ranged from 0 to 1 case per 1000 patients with breast Factors Associated with BIA-ALCL
+implants (Event rate= 0, 95% CI 0–0.1, P\0.001) in the
+random-effects model (I2 = 91.99%, P\0.001). Twelve Association between types of breast implants and ALCL
+articles included 301905 patients with breast implants for
+reconstructive purposes [26, 27, 29–31, 35–41]. In the Four articles reported the association between breast
+random-effects model (I2 = 91.3%, P\0.001), the implants and ALCL [29, 32–34]. In the random-effects
+prevalence of BIA-ALCL among patients with breast model (I2 = 72.28%, P = 0.013), patients with breast
+implants for reconstructive surgeries ranged from 0 to 1 implants were 28.86 times more vulnerable to developing
+caseper1000patientswithbreastimplants(Eventrate=0, BIA-ALCL(OR28.86,95%CI3.123–266.681,P = 0.003)
+95% CI 0–0.1, P\0.001) (Fig. 3A and B). (Fig. 4B).
+Two articles [32, 34] reported the association between
+The Risk of BIA-ALCL Based on the Types of Breast polyurethane breast implants and BIA-ALCL. In the ran-
+Implants dom-effects model (I2 = 0%, P = 0.75), patients with
+polyurethane breast implants were at 17.86 times higher
+Ninearticlesincluded226525patientswithbreastimplants risk of developing BIA-ALCL (OR 17.86, 95%CI; 1.71 to
+thatreportedthe prevalenceofBIA-ALCLamongpatients 185.99, P = 0.016). In this respect, two studies [32, 33]
+with textured implants [26, 27, 29, 31, 37–41]. The risk of evaluated the association between biocell textured breast
+BIA-ALCL was 0 (95% CI 0–0.001) with a risk ranging implants and BIA-ALCL. The risk of BIA-ALCL was
+from0tooneper1000caseswithtexturedbreastimplants 6.971 times among patients with biocell textured implants
+(P\0.001) in the random-effects model (I2 = 93.48%, (OR 6.971, 95% CI 1.857–26.177, P = 0.004) in the ran-
+P\0.001). (Fig. 3C) dom-effects model (I2 = 0%, P = 0.688) (Fig. 4C and D).
+Five articles included 177634 patients with breast
+implants and reported the risk of BIA-ALCL among Association between BIA-ALCL and Follow-up periods
+patientswithsmoothimplants[29,31,37,39,40].Therisk
+of BIA-ALCL was 0 among patients with smooth breast Fourteen articles comprised 525290 patients with breast
+implants (P\0.001) in the random-effects model implants included for meta-regression analysis
+(I2 = 52.64%, P = 0.076) (Fig. 3D). [26–31, 35–42]. The analysis revealed no statistically sig-
+The risk of BIA-ALCL among patients with silicone nificant impact of follow-up periods on the risk of BIA-
+breast implants was evaluated within nine articles ALACL (Coefficient = 0.0902, 95% CI - 0.041, 0.22;
+123
+
+--- PÁGINA 7 ---
+AesthPlastSurg(2024)48:5315–5328 5321
+Table2 CharacteristicsofpatientswithBIA-ALCLandqualityassessmentoftheincludedstudies
+StudyID TimetoBIA-ALCL Typesofimplants Fillingmaterial StageofBIA-ALCL
+diagnosis
+Textured Smooth Silicone Saline I II
+Number Number Number Number Number Number
+1 Adametal.[26] NR 0 0 0 0 NR NR
+2 Boeretal.[29] 13(1–39) 22 0 32 0 21 5
+3 Cordeiroetal.[27] 11.7(7.4–15.8) 10 0 5 5 7 1
+4 Coroneosetal.[28] NR NR NR NR NR NR NR
+5 Kinslowetal.[30] NR NR NR NR NR NR NR
+6 Largentetal.[31] NR 2 1 1 NR NR NR
+7 Maxwelletal.[35] NR NR NR NR NR NR NR
+8 McGuireetal.[36] 3.5–11.6 NR NR 4 0 NR NR
+9 Nelsonetal.[37] 10.26years(6.43–15.52) 10 1 NR NR NR NR
+10 Nelsonetal.[38] NR 0 0 0 0 NR NR
+11 Singhetal.[39] NR 0 0 0 0 NR NR
+12 Spearetal.[40] NR 0 0 0 NA NR NR
+13 Vaseetal.[41] NR 0 0 0 0 NR NR
+14 Wangetal.[42] NR NR NR NR NR NR NR
+15 Loch-Wilkinsonetal.[32] 7.46years NR NR NR NR NR NR
+16 Loch-Wilkinsonetal.[33] NR NR NR NR NR NR NR
+17 Magnussonetal.[34] NR NR NR NR NR NR NR
+StudyID Stageof TreatmentofBIA-ALCL Follow-upperiod Quality
+BIA-ALCL assessment
+III IV Surgical Surgical Chemotherapyand
+therapy therapyand hematopoietic
+chemotherapy stem
+celltransplant
+Number Number Number Number Number % Decision
+1 Adametal.[26] NR NR NR NR NR 11.7years(1to14) 61.5 Fair
+2 Boeretal.[29] 3 3 11 12 9 33(2–240months) 69.23 Good
+3 Cordeiroetal.[27] 2 0 9 1 NR 8.1years(3 69.23 Good
+months–30.9
+years).
+4 Coroneosetal.[28] NR NR NR NR 1 7years 61.5 Fair
+5 Kinslowetal.[30] NR NR NR NR NR 81(46–125)months 69.23 Good
+6 Largentetal.[31] NR NR NR 2 NR 10years 69.23 Good
+7 Maxwelletal.[35] NR NR NR NR NR 10years 76.92 Good
+8 McGuireetal.[36] NR NR NR NR NR 10years 61.5 Fair
+9 Nelsonetal.[37] NR NR NR NR NR 26years 76.92 Good
+10 Nelsonetal.[38] NR NR NR NR NR 6.8years 69.23 Good
+11 Singhetal.[39] NR NR NR 0 NR 5years 69.23 Good
+12 Spearetal.[40] NR NR NR 0 NR 10years 61.5 Fair
+13 Vaseetal.[41] NR NR NR NR NR 37years 69.23 Good
+14 Wangetal.[42] NR NR NR NR NR 17years 69.23 Good
+15 Loch-Wilkinsonetal. NR NR NR NR NR 9years 69.23 Good
+[32]
+16 Loch-Wilkinsonetal. NR NR NR NR NR NR 69.23 Good
+[33]
+17 Magnussonetal.[34] NR NR NR NR NR NR 69.23 Good
+BIA-ALCLbreastimplantassociatedanaplasticlargecelllymphoma,NAnonapplicable,NRnon-reported
+123
+
+--- PÁGINA 8 ---
+5322 AesthPlastSurg(2024)48:5315–5328
+123
+
+--- PÁGINA 9 ---
+AesthPlastSurg(2024)48:5315–5328 5323
+bFig.2 Forestplotofsummaryanalysisofthe(A)Eventrateand95% history of breast cancer were at higher risk of BIA-ALCL.
+CI of the prevalence of BIA-ALCL among patients with breast These findings highlight the ultimate role of comprehen-
+implants. (B) Funnel plots showing evidence of publication bias on
+sive counselling for patients seeking implant-based breast
+the left side and after imputing the studies on the right side.
+(C)Subgroupanalysisoftheeventrateand95%CIoftheprevalence surgeries regardless of the type of surgery and type of
+of BIA-ALCL among patients with breast implants based on the breast implants. This counselling should include the risk
+regions of the included studies. (D) Cumulative incidence of BIA- and symptoms of BIA-ALCL with close follow-up for the
+ALCLper1000patientsperyearamongpatientswithbreastimplants.
+most susceptible patients [45].
+Thesizeoftheblacksquaresisproportionaltothestatisticalweight
+ofeachtrial.Theblackdiamondrepresentsthepooledpointestimate. The current meta-analysis showed a relatively similar
+Thepositioningofbothdiamondsandsquares(alongwith95%CIs) risk of BIA-ALCL between textured and smooth implants.
+beyondtheverticalline(unitvalue)suggestsasignificantoutcome Consistent with this finding, Nava et al., highlighted the
+non-exclusive association between textured implants and
+BIA-ALCL [46]. These findings highlighted a potential
+P = 0.18) with proportional of the total between study risk of publication bias in this issue as many previously
+variance explained by the model (R2) of 0.18. (Fig. 4E) published studies revealed only risk of BIA-ALCL with
+textured implants. Lynch et al. reported a risk of BIA-
+Association between BIA-ALCL and history of breast ALCL associated with textured implants ranging from
+cancer 1:355 to1:5100.However,thissystematic review reported
+no BIA-ALCL associated with smooth breast implants
+The association between the history of breast cancer and [15]. Furthermore, Gidengil et al. reported most cases of
+the risk of BIA-ALCL was evaluated within 13 articles, BIA-ALCL were associated with textured implants. They
+including 401898 patients with breast implants highlighted the limited interpretation of these findings
+[26–31, 35–41]. The random meta-regression model without knowledge of the total number of patients with
+revealed a statistically significant positive association texturedimplantsandothertypesofimplantsinthegeneral
+between the history of breast cancer and BIA-ALCL population [47]. The lack of accurate data about the
+(P = 0.0016) with a coefficient of 2.63 (95% CI 0.47, denominator in the previously published studies conveys a
+4.97).Themodelexplained22%ofthetotalbetweenstudy high risk of bias regarding the precise risk of BIA-ALCL.
+variance with R2 of 0.22 (Fig. 4F). The present meta-analysis included only epidemiology-
+based studies that identified the denominator to tackle the
+limitations of the previously published reviews.
+Discussion The current meta-analysis revealed a relatively higher
+riskofBIA-ALCLinEuropethanintheUSA.IntheUSA,
+BIA-ALCL is an emerging disorder that has gained global the use of textured implants peaked in 2016 with a uti-
+attention throughout the past era [43]. The knowledge lization rate of nearly 18% and 41% for aesthetic and
+regarding the prevalence, risk factors, and management of reconstructive breast surgeries. Based on the Dutch Breast
+BIA-ALCL needs to be more extensive. The current liter- Implant Registry, textured implants are used in 88% of
+atureisinsufficienttodrawconclusiveevidenceforcurrent cases, while smooth implants are used in 7 to 11% of
+clinicalpractice.Thisisbecausemostpreviouslypublished aesthetic breast surgeries in Europe. The substantial vari-
+systematic reviews are based on case reports without ation in the risk of BIA-ALCL between the USA and
+quantitative data synthesis [44]. Therefore, the present Europe may reveal the role of ethnicity and genetic pre-
+meta-analysis was conducted to retrieve the available evi- disposition in developing BIA-ALCL. Furthermore, the
+dence from well-structured epidemiological studies on the large proportion of patients with textured implants outside
+prevalence and risk factors of BIA-ALCL. the USA may be associated with the high rate of reporting
+The present study confirmed the association between cases with BIA-ALCL associated with textured implants
+breast implants and ALCL. The risk ofBIA-ALCL ranged [48, 49]. Noteworthy, most of the data from the USA is
+from 0 to 1 per 1000 cases, with a similar risk of BIA- related to the FDA alert of implant safety and the signifi-
+ALCL among patients who received breast implants for cantnumberofimplant-basedbreastsurgeries.BIA-ALCL
+reconstruction and aesthetic purposes. The risk of BIA- is extremely rare in Africa, Asia, and Latin America, with
+ALCL was relatively low among patients with textured or no epidemiology-based studies including patients from
+smoothbreastimplants.Breastimplantsincreasetheriskof these regions. This reflects the risk of underreporting bias
+BIA-ALCL 28.86 times more than the risk of ALCL and highlights the need to establish validated registries in
+among the general population, with a higher risk among theseregionstoestimatetheriskofBIA-ALCLaccurately.
+patients with polyurethane breast implants. Patients with a Thepresentmeta-analysisrevealedahigherriskofBIA-
+ALCL associated with breast implants. This risk was
+123
+
+--- PÁGINA 10 ---
+5324 AesthPlastSurg(2024)48:5315–5328
+Fig.3 Forestplotofsummary
+analysisofthe(A)Eventrate
+and95%CIoftheprevalenceof
+BIA-ALCLamongpatients
+seekingbreastimplantsfor
+aestheticpurposes.(B)Event
+rateand95%CIofthe
+prevalenceofBIA-ALCL
+amongpatientsseekingbreast
+implantsforreconstructive
+purposes.(C)Eventrateand
+95%CIoftheprevalenceof
+BIA-ALCLamongpatientswith
+texturedbreastimplants.
+(D)Eventrateand95%CIof
+theprevalenceofBIAALCL
+amongpatientswithsmooth
+breastimplants.Thesizeofthe
+blacksquaresisproportionalto
+thestatisticalweightofeach
+trial.Theblackdiamond
+representsthepooledpoint
+estimate.Thepositioningof
+bothdiamondsandsquares
+(alongwith95%CIs)beyond
+theverticalline(unitvalue)
+suggestsasignificantoutcome
+123
+
+--- PÁGINA 11 ---
+AesthPlastSurg(2024)48:5315–5328 5325
+Fig.4 Forestplotofsummary
+analysisofthe(A)Eventrate
+and95%CIoftheprevalenceof
+BIA-ALCLamongpatientswith
+siliconebreastimplants.
+(B)Oddsratio(OR)and95%CI
+oftheassociationbetween
+breastimplantsandALCL.
+(C)Oddsratio(OR)and95%
+CIoftheassociationbetween
+polyurethanebreastimplants
+andALCL.(D)Oddsratio(OR)
+and95%CIoftheassociation
+betweenbiocelltexturedbreast
+implantsandALCL.
+(E)Weightedrandom-effects
+metaregressionanalysis
+regressingriskofBIA-ALCL
+againstthefollow-upperiod.
+(F)Weightedrandom-effects
+metaregressionanalysis
+regressingriskofBIA-ALCL
+againstthehistoryofbreast
+cancer.Thesizeoftheblack
+squaresisproportionaltothe
+statisticalweightofeachtrial.
+Theblackdiamondrepresents
+thepooledpointestimate.The
+positioningofbothdiamonds
+andsquares(alongwith95%
+CIs)beyondtheverticalline
+(unitvalue)suggestsa
+significantoutcome
+123
+
+--- PÁGINA 12 ---
+5326 AesthPlastSurg(2024)48:5315–5328
+approximately threefold higher among patients with poly- attributable to the difference in the demographic charac-
+urethane breast implants than those with textured biocell teristics, surgical data, implant types, study designs, diag-
+breast implants. This finding may reveal a proportionate nosticworkups,andfollow-upperiods.Therandom-effects
+relationship between the risk of BIA-ALCL and surface model, subgroup analysis, and meta-regression analysis
+texturization. Parallel with these findings, Girardi et al., were performed to mitigate the potential impacts of this
+reported an association between ALCL and breast heterogeneityontheoveralleffectestimates.Subsequently,
+implants,withcomprehensiveknowledgeaboutthedisease the published prospective and retrospective studies com-
+that should be given to all patients before breast implant prised incomplete data on history, presentation, histology,
+surgeries [50]. These findings infer a more significant and management. The rarity of BIA-ALCL is challenging
+association between breast implants and ALCL but not an for healthcare providers with inadequate experience
+exclusive causal relationship. There is an urgent need for regarding diagnosis, reporting, and management of the
+more data about the etiopathogenesis of BIA-ALCL since disease.
+the number of events is small owing to the rarity of the
+disease.Theassociationbetweenimplanttypesandtherisk
+ofBIA-ALCLnecessitatesfurtherevaluationandshouldbe Conclusions
+studiedinthecontextofotherconfounders.Thisisbecause
+of the limited clinical data in the literature regarding the The current meta-analysis confirmed the association
+implanttypes,texturization,manufacturing,andtheriskof between breast implants and ALCL. The estimated risk of
+BIA-ALCL [4, 51]. the disease ranged from 0 to 1 case per 1000 patients with
+There was a considerable risk of BIA-ALCL among breastimplants.TherewasarelativelysimilarriskofBIA-
+patients with a history of breast cancer. This finding ALCL among patients with aesthetic or reconstructive
+demonstrates some patients’ immunological and genetic surgeries and patients with smooth or textured breast
+predisposition to develop BIA-ALCL. Parallel with these implants. Patients with a history of breast cancer were at
+findings, Jabagi et al., reported a higher risk of haemato- higher risk of BIA-ALCL. This knowledge could help
+logical malignancies after post-operative breast cancer clinicians identify the current risk and the predictors of
+treatment,particularlyamongyoungpatientswhoreceived BIA-ALCL among breast implant patients. Identifying
+radiotherapy or chemotherapy [52]. Wang et al., reported such evidence is critical for preventing the potential
+anincreasedriskofnon-Hodgkinlymphomaafterradiation repercussionsofBIA-ALCLonthefutureofimplant-based
+therapy among patients with breast ductal carcinoma [53]. breast surgeries.
+Exposure to high dosages of ionizing radiation results in
+chromosomal alterations and somatic mutations. This
+increases the risk of myeloid malignancies, leukaemias, Funding OpenaccessfundingprovidedbyTheScience,Technology
+& Innovation Funding Authority (STDF) in cooperation with The
+and lymphomas, particularly in the irradiated organs
+EgyptianKnowledgeBank(EKB).
+[54, 55]. Alkylating chemotherapeutic agents induce
+mutationsofthegenesresponsibleforcellproliferationand Declarations
+tumoursuppressors,activatingtheoncogeniccascade.This
+Conflictofinterest Theauthorsdeclarethattheyhavenoconflictsof
+results in abnormal cell differentiation and proliferation,
+interesttodisclose.
+resulting in haematological malignancies [56, 57]. These
+findings highlighted the importance of close follow-up for Informed Consent For this type of study, informed consent is not
+patients with a history of breast cancer and subjected to required.
+implant-based breast surgeries either for reconstructive or
+HumanandAnimalRights Thisarticledoesnotcontainanystudies
+aesthetic purposes.
+withhumanparticipantsoranimalsperformedbyanyoftheauthors.
+The present systematic review and meta-analysis gath-
+ered the dispersed evidence related to the risk of BIA- Supplementary InformationThe online version contains
+supplementary material available at https://doi.org/10.1007/s00266-
+ALCL in the literature. The study included only epidemi-
+024-03956-9.
+ologicalstudies,allowingforestimatingthecurrentriskof
+BIA-ALCL among the largest cohort in the literature. Open Access This article is licensed under a Creative Commons
+However, some limitations were to be considered while Attribution 4.0 International License, which permits use, sharing,
+adaptation,distributionandreproductioninanymediumorformat,as
+interpreting the retrieved evidence for the current clinical
+long as you give appropriate credit to the original author(s) and the
+practice. Many of the included articles were retrospective
+source,providealinktotheCreativeCommonslicence,andindicate
+designs with a considerable risk of information bias. Fur- ifchangesweremade.Theimagesorotherthirdpartymaterialinthis
+thermore, there was significant statistical heterogeneity articleareincludedinthearticle’sCreativeCommonslicence,unless
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnot
+between most of the included studies. This variation was
+123
+
+--- PÁGINA 13 ---
+AesthPlastSurg(2024)48:5315–5328 5327
+includedinthearticle’sCreativeCommonslicenceandyourintended associatedanaplasticlargecelllymphoma:asystematicreviewof
+useisnotpermittedbystatutoryregulationorexceedsthepermitted epidemiologicalstudies.AnnBreastSurg5:30.https://doi.org/10.
+use, you will need to obtain permission directly from the copyright 21037/abs-20-96
+holder.Toviewacopyofthislicence,visithttp://creativecommons. 16. Leberfinger AN, Behar BJ, Williams NC, Rakszawski KL,
+org/licenses/by/4.0/. Potochny JD, Mackay DR, Ravnic DJ (2017) Breast implant–
+associated anaplastic large cell lymphoma: a systematic review.
+JAMASurg152(12):1161–1168
+References
+17. Real DSS, Resendes BSA (2023) Breast implant-associated
+anaplastic large-cell lymphoma: a systematic literature review.
+1. (2018) Cosmetic Surgery National Data Bank Statistics. Aes- RevisBrasileiradeCirurgiaPla´st34:531–538
+theticSurgeryJournal38(Suppl.3):1–24 18. Rohrich RJ, Kaplan J (2020) Are breast implants safe? Plast
+2. Gupta V, Yeslev M, Winocour J, Bamba R, Rodriguez-Feo C, ReconstructSurg145(2):587–589
+Grotting JC, Higdon KK (2017) Aesthetic breast surgery and 19. PageMJ,McKenzieJE,BossuytPM,BoutronI,HoffmannTC,
+concomitant procedures: incidence and risk factors for major Mulrow CD, Shamseer L, Tetzlaff JM, Akl EA, Brennan SE,
+complicationsin73,608cases.AestheticSurgJ37(5):515–527 Chou R (2021) The PRISMA 2020 statement: an updated
+3. American Society of Plastic Surgeons (2020) Plastic surgery guideline for reporting systematic reviews. Int J Surg
+statisticsreport 1(88):105906
+4. CollettDJ,RakhorstH,LennoxP,MagnussonM,CooterR,Deva 20. Olsen O (2019) The guidelines on non-randomised studies.
+AK (2019) Current risk estimate of breast implant–associated CochraneReviews
+anaplasticlargecelllymphomaintexturedbreastimplants.Plast 21. Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD,
+ReconstructSurg143(3S):30S-40S Rennie D, Moher D, Becker BJ, Sipe TA, Thacker SB (2000)
+5. MarraA,VialeG,PileriSA,PravettoniG,VialeG,DeLorenzi Meta-analysis of observational studies in epidemiology: a pro-
+F, Nole` F, Veronesi P, Curigliano G (2020) Breast implant-as- posalforreporting.JAMA283(15):2008–2012
+sociated anaplastic large cell lymphoma: a comprehensive 22. National Heart, Lung and Blood Institute (2014) National Insti-
+review.CancerTreatRev1(84):101963 tute of Health quality assessment tool for observational cohort
+6. JalalabadiF,DovalAF,NeeseV,AndrewsE(2021)SpiegelAJ and cross-sectional studies. In: Bethesda: National Heart. Lung,
+(2021) Breast implant utilization trends in USA versus Europe andBloodInstitute
+and the impact of BIA-ALCL publications. Plast Reconstruct 23. Higgins JP, Thompson SG, Deeks JJ, Altman DG (2003) Mea-
+SurgGlobalOpen9(3):e3449 suringinconsistencyinmeta-analyses.BMJ327(7414):557
+7. Williams DC, Seifman MA, Hunter-Smith DJ (2019) Patient 24. DuvalS,TweedieR(2000)Trimandfill:asimplefunnel-plot–
+relatedoutcomemeasuresforbreastaugmentationmammoplasty: based method of testing and adjusting for publication bias in
+asystematicreview.GlandSurg8(4):425 meta-analysis.Biometrics56(2):455–463
+8. Vishwanath S, Pellegrini B, Parker E, Earnest A, Kalbasi S, 25. Borenstein M (2022) Comprehensive meta-analysis software.
+Gartoulla P, Elder E, Farrell G, Moore C, Cooter RD, Ahern S SystRevHealthResMetaAnalContext22:535–548
+(2021) Breast device surgery in Australia early results from the 26. AdamsWPJr,CulbertsonEJ,DevaAK,MagnussonMR,LaytC,
+Australian Breast Device Registry. J Plast Reconstruct Aesthet Jewell ML, Mallucci P, Hede´n P (2017) Macrotextured breast
+Surg74(10):2719–2730 implantswithdefinedstepstominimizebacterialcontamination
+9. TandonVJ,DeLongMR,BallardTN,ClemensMW,BrandtKE, around the device: experience in 42,000 implants. Plast Recon-
+Kenkel JM, Cederna PS (2018) Evolving trends in textured structSurg140(3):427–431
+implantuseforcosmeticaugmentationintheUnitedStates.Plast 27. Cordeiro PG, Ghione P, Ni A, Hu Q, Ganesan N, Galasso N,
+ReconstructSurg142(6):1456–1461 DoganA,HorwitzSM(2020)Riskofbreastimplantassociated
+10. Mehdi AS, Bitar G, Sharma RK, Iyengar S, El-Sharkawi D, anaplasticlargecelllymphoma(BIA-ALCL)inacohortof3546
+Tasoulis MK, Attygalle AD, Cunningham D, Sharma B, RMH women prospectively followed long term after reconstruction
+BIA-ALCL Working Group (2022) Breast implant-associated with textured breast implants. J Plast Reconstruct Aesthet Surg
+anaplastic large cell lymphoma (BIA-ALCL): A good practice 73(5):841–846
+guide, pictorial review, and new perspectives. Clin Radiol 28. CoroneosCJ,SelberJC,OffodileAC,ButlerCE,ClemensMW
+77(2):79–87 (2019) US FDA breast implant postapproval studies: long-term
+11. SharmaK,GilmourA,JonesG,O’DonoghueJM,ClemensMW outcomesin99,993patients.AnnSurg269(1):30–36
+(2022) A Systematic review of outcomes following breast 29. de Boer M, van Leeuwen FE, Hauptmann M, Overbeek LI, de
+implantassociatedanaplasticlargecelllymphoma(BIA-ALCL). BoerJP,HijmeringNJ,SerneeA,KlazenCA,LobbesMB,van
+JPRASOpen.https://doi.org/10.1016/j.jpra.2022.08.008 derHulstRR,RakhorstHA(2018)Breastimplantsandtheriskof
+12. Mehta-Shah N, Ghione P (2020) An updated approach and anaplastic large-cell lymphoma in the breast. JAMA Oncol
+understanding of breast implant-associated anaplastic large cell 4(3):335–341
+lymphoma.JNatlComprCancerNetw20(3):309–315 30. Kinslow CJ, DeStephano DM, Rohde CH, Kachnic LA, Cheng
+13. McKernanCD,VorstenboschJ,ChuJJ,NelsonJA(2022)Breast SK,NeugutAI,HorowitzDP(2022)Riskofanaplasticlargecell
+implantsafety:anoverviewofcurrentregulationsandscreening lymphoma following postmastectomy implant reconstruction in
+guidelines.JGenIntMed37(1):212–216 women with breast cancer and ductal carcinoma in situ. JAMA
+14. CunhaA,HortaR,BarreiroD(2021)Epidemiologicalprofilein NetwOpen5(11):e2243396
+Portugal of breast implant-associated anaplastic large cell lym- 31. Largent J, Oefelein M, Kaplan H, Okerson T, Boyle P (2011)
+phoma:across-sectionalstudy.ActaMedPort34(9):572–579 Risk of lymphoma in women with breast implants: Analysis of
+15. Lynch EB, DeCoster RC, Vyas KS, Rinker BD, Yang M, Vas- clinicalstudies.JClinOncol29((15_suppl)):1588
+conez HC, Clemens MW (2021)Current risk of breast implant-
+123
+
+--- PÁGINA 14 ---
+5328 AesthPlastSurg(2024)48:5315–5328
+32. Loch-Wilkinson A, Beath KJ, Knight RJ, Wessels WL, Mag- 45. U.S. Food and Drug Administration (2020) The FDA requests
+nussonM,PapadopoulosT,ConnellT,LoftsJ,LockeM,Hopper Allergan voluntarily recall Natrelle BIOCELL textured breast
+I,CooterR(2017)Breastimplant–associatedanaplasticlargecell implantsandtissueexpandersfromthemarkettoprotectpatients.
+lymphoma in Australia and New Zealand: high-surface-area FDASafetyCommunication,2019
+textured implants are associated with increased risk. Plast 46. Nava MB, Chiodini P, Catanuto G, Rocco N (2021) Is Breast
+ReconstructSurg140(4):645–654 ImplantAssociated—AnaplasticLargeCellLymphomalinkedto
+33. Loch-Wilkinson A, Beath KJ, Magnusson MR, Cooter R, Shaw texturedimplants?AesthetPlastSurg45:1–9
+K, French J, Vickery K, Prince HM, Deva AK (2020) Breast 47. Gidengil CA, Predmore Z, Mattke S, van Busum K, Kim B
+implant-associatedanaplasticlargecelllymphomainAustralia:a (2015)Breastimplant–associatedanaplasticlargecelllymphoma:
+longitudinal study of implant and other related risk factors. asystematicreview.PlastReconstructSurg135(3):713–720
+AesthetSurgJ40(8):838–846 48. Matros E, Shamsunder MG, Rubenstein RN, Polanco TO,
+34. MagnussonM,BeathK,CooterR,LockeM,PrinceHM,ElderE, McCarthy CM, Nelson JA, Gutowski K, Steering Committee
+DevaAK(2019)Theepidemiologyofbreastimplant–associated TOPS (2021) Textured and smooth implant use reported in the
+anaplastic large cell lymphoma in Australia and New Zealand tracking operations and outcomes for plastic surgeons database:
+confirmsthehighestriskforgrade4surfacebreastimplants.Plast epidemiologic implications for BIA-ALCL. Plast Reconstruct
+ReconstructSurg143(5):1285–1292 SurgGlobalOpen9(3):e3499
+35. MaxwellGP,VanNattaBW,BengtsonBP,MurphyDK(2015) 49. BechererBE,deBoerM,SpronkPE,BrugginkAH,deBoerJP,
+Ten-year results from the Natrelle 410 anatomical form- van Leeuwen FE, Mureau MA, van der Hulst RR, de Jong D,
+stable silicone breast implant core study. Aesthet Surg J Rakhorst HA (2019) The Dutch Breast Implant Registry: regis-
+35(2):145–155 tration of breast implant–associated anaplastic large cell lym-
+36. McGuireP,ReismanNR,MurphyDK(2017)Riskfactoranalysis phoma—a proof of concept. Plast Reconstruct Surg
+forcapsularcontracture,malposition,andlateseromainsubjects 143(5):1298–1306
+receivingNatrelle410form-stablesiliconebreastimplants.Plast 50. Girardi JDM, Brito GV (2019) Existe associac¸a˜o do uso de
+ReconstructSurg139(1):1 implantes mama´rios texturizados com linfoma anapla´sico de
+37. NelsonJA,DabicS,MehraraBJ,CordeiroPG,DisaJJ,PusicAL, ce´lulasgrandes?VigilaˆnciaSanita´riaEmDebate7(4):85-95
+MatrosE,DayanJH,AllenRJJr,CoriddiM,PolancoTO(2021) 51. Hwang K, Kim H, Kim HM, Kim JH (2021) Risk ofanaplastic
+Breast implant-associated anaplastic large cell lymphoma inci- large-cell lymphoma (ALCL) in cases of late seroma formation
+dence:determininganaccuraterisk.AnnSurg272(3):403 afterbreastimplantinsertion.Eplast21:e4
+38. Nelson JA, McKernan CD, Rubenstein RN, Shamsunder MG, 52. JabagiMJ,GoncalvesA,VeyN,LeTriT,ZureikM,Dray-Spira
+PoultonR,DabicS,MehraraBJ,DisaJJ,CordeiroPG,McCarthy R (2019) Risk of hematologic malignant neoplasms after post-
+CM(2023)Riskofbreastimplant-associatedanaplasticlargecell operativetreatmentofbreastcancer.Cancers11(10):1463
+lymphoma (BIA-ALCL) in patients with temporary exposure to 53. WangK,LiZ,ChenX,ZhangJ,XiongY,ZhongG,ShiY,LiQ,
+textured tissue expanders: an analysis of 3310 patients. Plast Zhang X, Li H, Xiang T (2021)Risk of hematologic malignan-
+ReconstructSurg13:10–97 ciesafterbreastductalcarcinomainsitutreatmentwithionizing
+39. SinghN,PichaGJ,HardasB,SchumacherA,MurphyDK(2017) radiation.NPJBreastCancer7(1):21
+Five-year safety data for more than 55,000 subjects following 54. Schubauer-BeriganMK,DanielsRD,FlemingDA,MarkeyAM,
+breastimplantation:comparisonofrareadverseeventrateswith Couch JR, Ahrenholz SH, Burphy JS, Anderson JL, Tseng CY
+siliconeimplantsversusnationalnormsandsalineimplants.Plast (2007) Risk of chronic myeloid and acute leukemia mortality
+ReconstructSurg140(4):666–679 after exposure to ionizing radiation among workers at four US
+40. Spear SL, Murphy DK (2014) Natrelle round silicone breast nuclear weapons facilities and a nuclear naval shipyard. Radiat
+implants: core study results at 10 years. Plast Reconstruct Surg Res167(2):222–232
+133(6):1354 55. Gillis NK, Ball M, Zhang Q, Ma Z, Zhao Y, Yoder SJ, Balasis
+41. VaseMØ,FriisS,BautzA,BendixK,SørensenHT,d’AmoreF ME, Mesa TE, Sallman DA, Lancet JE, Komrokji RS (2017)
+(2013) Breast implants and anaplastic large-cell lymphoma: a Clonal haemopoiesis and therapy-related myeloid malignancies
+Danish population-based cohort studybreast implants and inelderlypatients:aproof-of-concept,case-controlstudy.Lancet
+anaplasticlarge-celllymphoma.CancerEpidemiolBiomarkPrev Oncol18(1):112–121
+22(11):2126–2129 56. Zhang B, Zhang X, Li M, Kong L, Deng X, Yu J (2016) How
+42. Wang SS, Deapen D, Voutsinas J, Lacey JV Jr, Lu Y, Ma H, breast cancer chemotherapy increases the risk of leukemia:
+Clarke CA, Weisenburger D, Forman S, Bernstein L (2016) thoughts about a case of diffuse large B-cell lymphoma and
+Breast implants and anaplastic large cell lymphomas among leukemia after breast cancer chemotherapy. Cancer Biol Ther
+femalesintheCaliforniaTeachersStudycohort.BrJHaematol 17(2):125–128
+74(3):480 57. Krishnan B, Morgan GJ (2017) Non-Hodgkin lymphoma sec-
+43. Clemens MW, Jacobsen ED, Horwitz SM (2019) 2019 NCCN ondarytocancerchemotherapy.CancerEpidemiolBiomarkPrev
+consensus guidelines on the diagnosis and treatment of breast 16(3):377–380
+implant-associatedanaplasticlargecelllymphoma(BIA-ALCL).
+AesthetSurgJ39(Supplement_1):S3–S13
+Publisher’s Note Springer Nature remains neutral with regard to
+44. Rupani A, Frame JD, Kamel D (2015) Lymphomas associated
+jurisdictionalclaimsinpublishedmapsandinstitutionalaffiliations.
+with breast implants: a review of the literature. Aesthet Surg J
+35(5):533–544
+123

@@ -1,0 +1,489 @@
+--- PÁGINA 1 ---
+Original artiCle
+Cosmetic
+Postmarket Study of Silimed’s Silicone Gel
+Polyurethane Foam–covered Breast Implants:
+Interim Results (2018–2024)
+Celso Eduardo J. Boechat*
+Background: Silimed silicone gel polyurethane (PU) foam–covered breast implants
+Fabio N. da Silva, PhD†
+are used worldwide. There is extensive clinical experience with the long-term use
+Annalu P. dos Reis*
+of these implants, but scientific evidence on this topic remains limited. This report
+Bruno L. da Silva Ramos*
+assessed the interim data on the performance and safety of these implants.
+Lunna P. Borges, MBA‡
+Methods: This is a postmarketing, phase IV, open-label, nonrandomized, single-
+Pedro Emmanuel A.A. do Brasil,
+arm trial. Participants were selected consecutively based on their attendance at the
+PhD§
+research center during the enrollment period. The main eligibility criteria were
+primary or revision augmentation and the absence of conditions possibly increas-
+ing the short-term risk of adverse events. Silimed’s PU breast implants were the
+intervention. Safety was assessed by monitoring adverse events. Outcomes of major
+interest were implant rupture, reoperation, and capsular contracture. Efficacy was
+measured through satisfaction, and quality of life was measured by the BEQ55
+questionnaire. Patient demographics, surgical details, implant characteristics, and
+postoperative results were recorded.
+Results: This study enrolled 342 patients. The satisfaction rate was 88.69% for pri-
+mary augmentation and 86.00% for revision. After 5 years, no instances of capsular
+contracture or implant rupture were reported. Reoperations occurred in 1.76%:
+5 involved implant replacement, and 1 did not. The seromas identified during
+the study occurred within 8 weeks after surgery; therefore, there were no cases of
+breast implant–associated anaplastic large cell lymphoma .
+Conclusions: Silimed PU breast implants demonstrated favorable safety and high
+July efficacy over the follow-up period. The low incidence of capsular contracture and
+the absence of breast implant–associated anaplastic large cell lymphoma support
+the use of PU implants in breast augmentation. (Plast Reconstr Surg Glob Open
+2025;13:e6986; doi: 10.1097/GOX.0000000000006986; Published online 22 July 2025.)
+INTRODUCTION the first silicone breast implants in 1963.1 Despite their
+Breast augmentation has been among the most per- impact, first-generation implants faced challenges, nota-
+formed aesthetic procedures since the introduction of bly, a high incidence of capsular contracture.2,3 Over time,
+silicone gel-filled implants have undergone extensive
+technical improvements.2
+From the *Hospital Municipal Barata Ribeiro da Prefeitura da
+Silicone gel polyurethane (PU) foam–covered
+Cidade do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil;
+implants have been developed to reduce capsular con-
+†Hospital Federal de Ipanema, Rio de Janeiro, Rio de Janeiro, Brazil;
+tracture, providing greater stability than earlier models.2,4
+‡Lunna P Borges Escritório LTDA, Rio de Janeiro, Rio de Janeiro,
+Silimed enhanced this stability by vulcanizing the foam to
+Brazil; and §Laboratório de Pesquisa em Imunizações e Vigilância em
+the silicone shell instead of using an adhesive. It has been
+Saúde (LIVS), Instituto Nacional de Infectologia Evandro Chagas -
+reported that this technique nearly eliminates the risk of
+Fundação Oswaldo Cruz, Rio de Janeiro, Rio de Janeiro, Brazil.
+foam-layer delamination.5 As far as we are aware, there
+Received for publication December 3, 2024; accepted May 23, 2025.
+is no previous clinical evidence with long-term follow-up
+The datasets generated or analyzed during the current study are not
+or any other ongoing study testing vulcanized PU-coated
+publicly available.
+implants.
+Copyright © 2025 The Authors. Published by Wolters Kluwer Health, A key advantage of these implants is their enhanced
+Inc. on behalf of The American Society of Plastic Surgeons. This fixation, enabled by the PU foam’s unique “velcro effect.”
+is an open-access article distributed under the terms of the Creative The porous 3-dimensional structure allows fibroblasts
+Commons Attribution-Non Commercial-No Derivatives License 4.0
+(CCBY-NC-ND), where it is permissible to download and share the
+work provided it is properly cited. The work cannot be changed in
+Disclosure statements are at the end of this article,
+any way or used commercially without permission from the journal.
+following the correspondence information.
+DOI: 10.1097/GOX.0000000000006986
+www.PRSGlobalOpen.com 1
+
+--- PÁGINA 2 ---
+PRS Global Open • 2025
+and macrophages to infiltrate, creating an incorporating
+Takeaways
+capsule while remaining disorganized enough to delay
+capsular contracture. Instead, microcapsules of collagen Question: Can Silimed silicone gel polyurethane foam–
+form around the foam’s struts, creating an adhesive net- covered breast implants provide long-term safety and effi-
+work that anchors to surrounding tissues. This prevents cacy for breast augmentation and revision surgery?
+concentric contraction of the capsule, the leading cause
+Findings: In a prospective study of 342 patients over 5
+of capsular contracture.5
+years, the implants demonstrated no cases of capsular
+PU implants are less susceptible to rotation and mal-
+contracture or rupture, with a reoperation rate of 1.76%.
+positioning.6 The foam’s velcro-like adhesion anchors the
+High patient satisfaction and improved quality-of-life
+implant to the surrounding tissue, preventing shifts or
+scores were consistently reported.
+rotations within the breast pocket. PU also reduces early
+Meaning: This study highlighted Silimed polyurethane
+movement before capsule formation.5
+foam–covered implants as a safe and effective option for
+There is robust evidence of the long-term safety and
+breast augmentation, delivering durable aesthetic and
+efficacy of breast implants. Indeed, 10-year studies on
+psychological benefits over time.
+various implants have shown low complication rates and
+high patient satisfaction.7,8 However, no core studies exist
+for Silimed’s PU implants beyond the 3-year preliminary Device Description
+data.9,10 Therefore, the present report showed interim Silimed PU breast implants feature a durable silicone
+findings on the safety and benefits of Silimed PU breast elastomer shell filled with transparent high-performance
+implants in augmentation and revision surgery, based on silicone cohesive gel (HSC+). The shells include a low-
+a postmarket study. bleed treatment to minimize silicone diffusion and have
+an inner elastomer impermeable to silicone oils. They are
+all sterile and intended for single use. PU implants range
+METHODS
+from 95 to 695 mL and come in round or anatomical
+shapes across 5 models: advance, maximum, natural,
+Ethics enhance, and nuance (Fig. 2). Each model offers distinct
+The Rio de Janeiro Ethics Committee approved this anatomical and aesthetic requirements. A 3-dimensional
+study in July 2018, and all participants provided written representation of these models is available at https://sil-
+consent according to the Declaration of Helsinki and the imed.com/en/breast-implants. The PU implants were
+Declaration of the Americas. Ethics approval was obtained registered with Agência Nacional de Vigilância Sanitária
+under CAEE 91001018.6.0000.5279 on the Brazilian eth- (10102180060) and had "Conformité Européenne" (CE)
+ics website (https://plataformabrasil.saude.gov.br/login. marking (1434-MDD-083/2020).
+jsf). The protocol is registered on Clinicaltrials.gov (reg-
+istry number NCT03356132). Endpoints and Assessments
+Safety was evaluated based on adverse events and
+Study Design and Settings subsequent breast procedures reported by investigators,
+This phase IV, prospective, nonrandomized, open-label whereas efficacy was assessed based on patients’ quality of
+trial evaluated the safety and efficacy of Silimed PU breast life, self-esteem, and satisfaction ratings from patients and
+implants for augmentation and revision surgery. Women surgeons. Key adverse events included implant rupture,
+sought plastic surgery of their own will, decided with their capsular contracture, and reoperation. Most implant rup-
+surgeon on the best approach, including the implant of tures are asymptomatic.11 Random magnetic resonance
+choice, and were enrolled after Silimed implants were imaging was planned for one-third of the sample at 3, 6, 8,
+in place. All the research procedures were performed and 10 years postsurgery to detect ruptures according to
+at a plastic surgery clinic in Rio de Janeiro, Brazil. The established guidelines.12
+enrolled participants were required to have Silimed All adverse events reported by the investigator were ana-
+implants and to sign a consent form within 21 days post- lyzed, except for Baker grade I or II capsular contracture,
+surgery. Participants were enrolled consecutively until the which has not been considered pathological in the litera-
+target sample size was achieved. Regular contact with par- ture.13 Other implant-related adverse events were docu-
+ticipants by study coordinators was planned to reinforce mented, recorded, and graded at each visit, as reported
+adherence to the study and capture any clinically relevant by the participants. Global self-esteem was assessed using
+adverse events between scheduled visits. the cross-cultural validation of the Rosenberg Self-Esteem
+This report included data from participants evalu- Scale (RSES).14 Scores were normalized to a 0–100 range
+ated between July 31, 2018, and January 31, 2024. One- and measured at inclusion visits on days 60, 180, and 365
+third of the participants in each group were randomly and annually thereafter.
+selected for the serial magnetic resonance imaging The Breast Evaluation Questionnaire, a validated
+cohort. The inclusion and exclusion criteria are summa- 55-question self-assessment tool cross-culturally validated
+rized in Figure 1. The participants included were divided into Portuguese (BEQ55-Brazil), was used to evaluate
+into 2 groups: primary breast augmentation and revision participants’ quality of life.15 The questionnaire covers
+breast augmentation. Both groups received Silimed PU satisfaction with breast size, shape, and firmness; com-
+breast implants. fort with breast appearance in various contexts; and the
+2
+
+--- PÁGINA 3 ---
+Boechat et al • Postmarket Study of Silimed PU Breast Implants
+Fig. 1. inclusion and exclusion criteria.
+Fig. 2. Silimed silicone gel PU foam–covered breast implants.
+perceived importance of breast appearance to oneself a Likert scale, the participants and the study physician
+and others. The scores were normalized to a range of evaluated their satisfaction with the aesthetic outcome
+0–100 and assessed at the same intervals as RSES. Using during all scheduled face-to-face visits. All assessments
+3
+
+--- PÁGINA 4 ---
+PRS Global Open • 2025
+occurred at inclusion, on days 60, 180, 365, and annually average body mass index of 23.79 and 24.01 kg/m2. Most
+thereafter. participants were White. Mixed-race participants com-
+prised over a third of the primary group and a quarter of
+Statistical Analysis the revision group, whereas the Black and indigenous cat-
+The sample size was calculated based on a prior study egories were less represented (Table 1).
+to ensure sufficient power to detect significant differences The maximum implant model was the most used in
+between groups.16 Data were collected using standardized both groups, whereas the natural model appeared less fre-
+case report forms after surgery and at each follow-up visit. quently in the primary and revision procedures. The
+Descriptive statistics were used to summarize patient and nuance model accounted for a modest share in both
+surgical characteristics, presenting counts or proportions groups. The enhance model was minimally used in pri-
+of categorical variables and central tendencies of continu- mary augmentations but was more common in revisions
+ous variables recorded at baseline by group. (Table 2).
+Adverse event risks were estimated using Kaplan– Most participants underwent inframammary incisions
+Meier survival curves and expressed as 1 minus survival. in primary augmentation, with fewer opting for periareo-
+Each participant contributed until the first adverse lar or other incisions. Revision procedures showed lower
+event. Beneficial effects were assessed via satisfaction use of inframammary incisions and higher use of periare-
+(Likert scale) and continuous scores (RSES and BEQ55- olar incisions. The median incision sizes were consistent
+Brazil) and analyzed as time-based trajectories for each in primary augmentation but were slightly smaller in revi-
+group. Means and measures of dispersions were calcu- sions (Table 2).
+lated for each follow-up with 95% confidence intervals. Subglandular placement was the most common
+Statistical analyses were performed using R Software implant position in both groups, with subfascial place-
+(version 4.2.1). ment following closely in primary augmentations and
+less so in revisions. Antibiotic use varied, with some par-
+RESULTS ticipants receiving none, whereas others had antibiotics
+applied to the pocket, implant, or both. (Table 2).
+Most of the 49 revision participants were enrolled
+Subjects and Surgical Characteristics
+directly in the revision group. In this group, a variety of
+As of January 31, 2024, the study included 342 women:
+trademarks and surface roughness were observed in the
+293 with primary augmentation and 49 with revision
+primary surgery. Among the several possible motivations
+augmentation. Thirty-nine participants discontinued
+for revision surgery, adverse events related to the previous
+treatment, primarily due to loss to follow-up (22 cases:
+implant were the most common, accounting for 57% of
+19 primary and 3 revision augmentation) or withdrawal
+cases. Additional reasons were the patient’s desire to
+requests (12 cases: 10 primary and 2 revision augmenta-
+change the volume/model/format of the implant and the
+tion). Five participants underwent reoperations, 3 shifted
+unsatisfactory aesthetic result of the previous surgery
+to the revision group, and 1 from the revision group with-
+(Table 3). For the 5 patients initially enrolled in the pri-
+drew consent after reoperation. Another patient in the
+mary augmentation group, the reasons for revision sur-
+primary group underwent reoperation without implant
+gery were “unsatisfactory aesthetic result” (1), “fluid
+replacement. No similar cases were observed in the revi-
+collection” (1), and “participant’s desire” (3).
+sion group. All the participants had 1-year follow-up data,
+35.09% had complete 2-year follow-up data, 19.30% had
+complete 3-year follow-up data, 8.77% had complete Safety Outcomes
+4-year follow-up data, and 1.46% had complete 5-year No capsular contracture or rupture cases were reported
+follow-up data. during follow-up. Reoperation occurred in 1.76% of all
+Among the 342 participants, the mean age was 33 years cases, with 5 cases involving implant replacement and 1
+in the primary group and 40 in the revision group. Median case without replacement. Outcomes of greatest interest
+weight was similar, at 63.00 and 63.50 kg, respectively, with were observed in fewer than 2% of cases (Table 4).
+Table 1. Subjects’ Demographic Data by Indication (Patient-based Analysis)
+Primary Augmentation Revision Augmentation
+N = 293 N = 49
+Age, median (IQR), y 33.00 (27.00–39.00) 40.00 (30.00–49.00)
+Weight, median (IQR), kg 63.00 (57.00–68.00) 63.50 (59.75–70.25)
+BMI, mean (SD), kg/m2 23.79 (2.60) 24.01 (2.56)
+Race, n (%)
+Asian 6 (2.05) 0 (0.00)
+Black 33 (11.26) 2 (4.08)
+Indigenous 3 (1.02) 0 (0.00)
+Mixed race 109 (37.20) 13 (26.53)
+White 142 (48.46) 34 (69.39)
+BMI, body mass index; IQR, interquartile range.
+4
+
+--- PÁGINA 5 ---
+Boechat et al • Postmarket Study of Silimed PU Breast Implants
+Table 2. Implant Device and Surgical Characteristics by Indication
+Primary Augmentation Revision Augmentation
+N = 293 N = 49
+Implant type, n (%)
+Advance 5 (1.71) 0 (0.00)
+Enhance 3 (1.02) 3 (6.12)
+Maximum 230 (78.50) 40 (81.63)
+Natural 35 (11.95) 1 (2.04)
+Nuance 14 (4.78) 3 (6.12)
+Other 0 (0.00) 1 (2.04)
+Not informed 6 (2.05) 1 (2.04)
+Incision type, n (%)
+Inframammary 196 (66.89) 20 (40.82)
+Periareolar 14 (4.78) 4 (8.16)
+Others 81 (27.65) 22 (44.90)
+Not informed 2 (0.68) 3 (6.12)
+Incision size, median (IQR)
+Left 5.00 (4.00–6.00) 4.00 (4.00–6.00)
+Right 5.00 (4.00–6.00) 4.00 (4.00–6.00)
+Implant position, n (%)
+Subfascial 124 (42.32) 14 (28.57)
+Subglandular 126 (43.00) 25 (51.02)
+Submuscular 2 (0.68) 3 (6.12)
+Dual plane 2 (0.68) 1 (2.04)
+Not informed 39 (13.31) 6 (12.24)
+Antibiotic use, n (%)
+Used in the pocket 15 (5.12) 0 (0.00)
+Used in the implant 56 (19.11) 15 (30.61)
+Both 37 (12.63) 5 (10.20)
+Not used 74 (25.26) 13 (26.53)
+Not informed 111 (37.88) 16 (32.65)
+Results are expressed as the number of subjects and their respective percentage of the total number of subjects.
+IQR, interquartile range.
+Table 3. Reasons for Revision Surgery in the Revision for revision procedures. Comfort scores were 85.15 for pri-
+Group mary and 84.13 for revision augmentations. Satisfaction
+was rated as 88.69% for primary and 86.00% for revision
+Reason N
+augmentations (Fig. 3).
+Subject’s desire to change volume/model/format 10
+Self-esteem levels remained consistently high, exceed-
+Adverse event related to the removed implant 28
+ing 80 in both groups during all visits. Both groups showed
+Not informed 3
+stable self-esteem over time with minimal variations
+Other 2
+(Fig. 4).
+Unsatisfactory aesthetic result 6
+Satisfaction with primary augmentation remained
+Total 49
+consistently high, with most patients reporting being
+N, the number of subjects.
+“definitely satisfied,” “satisfied,” or “somewhat satis-
+fied.” Overall, both groups exhibited a positive satisfac-
+No instances of late seroma, infection, or double cap-
+tion trend over time, with a high satisfaction rate
+sule were reported. There were 5 cases of seroma, 4 in
+reported (Fig. 5).
+the primary augmentation group and 1 in the revision
+Physician satisfaction with primary augmentation
+group. The cases in the primary augmentation group
+remained consistently high across all visits, with most
+manifested exclusively in the immediate postoperative
+responses falling under “definitely satisfied,” “satisfied,” or
+period, lasting between 8 and 16 days. None of them
+“somewhat satisfied.” Instances of lower satisfaction were
+required medical intervention; they were clinically
+rare. Revision augmentation showed similarly high satis-
+monitored and resolved spontaneously. The single case
+faction, with minor variations but predominantly positive
+of the revision group required medical intervention
+ratings throughout the follow-up period (Fig. 6).
+(drainage) and a prescription for anti-inflammatories
+for its resolution.
+DISCUSSION
+Efficacy Outcomes This interim report highlights PU-coated implants as a
+From baseline to date, BEQ55-specific outcomes safe and effective option for breast augmentation surgery
+showed appearance scores of 90.55 for primary and 88.17 within the evaluated period.16 Their distinctive surface
+5
+
+--- PÁGINA 6 ---
+PRS Global Open • 2025
+Table 4. Primary Complications by Group: Capsular Contracture, Rupture, and Reoperations
+Primary Augmentation, n (%) Revision Augmentation, n (%)
+N = 293 N = 49
+Capsular contracture (Baker III/IV) 0 (0.00) 0 (0.00)
+Rupture 0 (0.00) 0 (0.00)
+Reoperation
+With replacement 3 (1.02) 2 (0.68)
+Without replacement 1 (0.34) 0 (0.00)
+Results are expressed as the number of subjects who experienced the adverse event and their respective percentage of the total number of subjects.
+Fig. 3. Subjects’ quality of life after surgery assessed using the breast evaluation questionnaire (BeQ55-Brazil) by specific outcomes from
+the baseline. all results are expressed as average BeQ55 scores for each outcome ranging from 0 to 100.
+Fig. 4. Subjects’ self-esteem after surgery assessed by the rSeS. all results are expressed as the average rSeS overall score normalized from
+0 to 100. to date, no subjects in the augmentation revision group have reached visits 7 or 8.
+enhances tissue integration, significantly reducing the risk In addition to its mechanical advantages, PU-coated
+of complications, such as capsular contracture, which is implants demonstrate excellent durability and stability in
+one of the main concerns in breast implant surgery.5,16 vivo, retaining their shape and position over time.17 The
+6
+
+--- PÁGINA 7 ---
+Boechat et al • Postmarket Study of Silimed PU Breast Implants
+Fig. 5. Subjects’ satisfaction after surgery in the primary and revision augmentation groups. to date, subjects in the augmentation revision
+group have not reached visits 7 and 8. ni, not informed.
+Fig. 6. Physician satisfaction after surgery in the primary and revision augmentation groups. all results are expressed as percentages. to
+date, subjects in the augmentation revision group have not reached visits 7 and 8. ni, not informed.
+velcro-like effect of the PU surface promotes tissue adhe- with patient satisfaction exceeding 88% in the primary
+sion, securing the implant to the chest wall and surround- augmentation group and 63% in the revision group.
+ing breast tissue. This anchoring helps minimize ptosis Physician satisfaction was also consistently high, surpass-
+with age, providing more sustainable aesthetic outcomes ing 96% in both groups, highlighting the success of the
+by countering the gravitational descent of the breast. implants in achieving aesthetic goals.18
+This study marks a significant advancement in breast Although satisfaction levels were higher in primary
+augmentation, with Silimed leading the way for a com- augmentations, quality of life and self-esteem scores
+prehensive core investigation of PU-coated implants. No remained unchanged between the groups. Patients under-
+comparable studies have been conducted, making direct going revision surgery often experience adverse events,
+comparisons with other PU-coated implants challeng- which can influence satisfaction levels. These patients may
+ing. However, these findings are promising, particularly have heightened expectations, compounded by complica-
+regarding implant safety and patient satisfaction. The data tions from previous procedures and the psychological toll
+also demonstrated the durability of PU-coated implants, of unmet aesthetic goals. Although revision surgery can
+7
+
+--- PÁGINA 8 ---
+PRS Global Open • 2025
+address physical concerns, it may not sufficiently improve were observed, making BIA-ALCL highly unlikely within
+quality of life or self-esteem. this timeframe.
+One of the primary safety indicators was the low inci- In addition to safety, the patients demonstrated the
+dence of adverse events, particularly regarding critical ability to maintain a high quality of life and self-esteem
+outcomes, such as 0% capsular contracture, 1.76% reopera- after surgery. This finding is significant because the pri-
+tion, and 0% implant rupture. These minimal complication mary goals of breast augmentation are to improve the
+rates underscore the potential of PU implants as reliable physical appearance and the patient’s well-being. The
+options for patients undergoing augmentation or revision BEQ55 is a validated questionnaire for this purpose, allow-
+surgery. Comparatively, 0.39% capsular contractures, 3.5% ing for the comparison of body image perceptions and
+reoperations, and 0.78% ruptures were previously reported aesthetic parameters and further supporting the positive
+for primary augmentation with PU-coated implants.19 outcomes observed in this study.
+A systematic review comparing the efficacy of PU-coated One important limitation of this study is the lack of pre-
+implants with that of (non-PU-coated) textured silicone operative data on patients’ self-esteem and breast satisfac-
+elastomer (TEX) implants was conducted across 20 stud- tion. This limitation hinders our ability to fully assess one
+ies. The risk rate for reoperation in patients with primary of the key clinical benefits of the device: its potential to
+breast augmentation using TEX implants ranged from 18% improve self-esteem and quality of life. Incorporating preop-
+to 28% at 6 years. In contrast, the PU implants demon- erative evaluations into future studies would provide a more
+strated an overall revision rate of 1.2% over a mean follow- comprehensive understanding of the psychological and
+up period of 7 years. Regarding capsular contracture, the emotional outcomes associated with breast augmentation.
+same review reported rates between 2.4% and 14.8% for
+TEX implants over 6 years, which increased to 18.9% in 10 CONCLUSIONS
+years, whereas patients with PU implants reported a rate of In the present interim report, the evidence points
+only 1%.10 Additionally, there is evidence suggesting that to low adverse event rates and high efficacy outcomes.
+capsular contracture occurs only after PU coating disinte-
+The data support the conclusion that Silimed PU breast
+gration20; therefore, approaches to prevent disintegration,
+implants are safe under appropriate conditions and indi-
+degradation, and delamination, such as vulcanization, may
+cations thus far. Additionally, they are effective and can
+further reduce capsular contracture rates.
+provide measurable benefits to patients in terms of their
+The maintenance of implant shape and position was
+satisfaction and potential improvements in quality of life.
+another notable finding, with a low risk of implant malpo-
+As the study continues and longer follow-up periods are
+sition: 1.37% in the primary augmentation group and 0%
+observed, it will be possible to be more certain regarding
+in the revision augmentation group. Other manufacturers
+the benefits and safety of this device.
+have reported a malposition rate of 1.56% for primary aug-
+mentation.19 Additionally, no cases of double capsules were Pedro Emmanuel A.A. do Brasil, PhD
+observed in this study. Double capsule formation can occur Laboratório de Pesquisa em Imunizações e Vigilância em
+Saúde (LIVS)
+due to the weakening of the capsule, which may facilitate
+Instituto Nacional de Infectologia Evandro Chagas - Fundação
+the delamination of PU-coated implants.21 Two of the 3 par-
+Oswaldo Cruz
+ticipants who underwent reoperation and were included in
+Av. Brasil, 4365 - Manguinhos
+the revision augmentation group had PU-coated implants
+Rio de Janeiro, Rio de Janeiro 21040-360, Brazil
+in their primary augmentation. The medical team thor- E-mail: emmanuel.brasil@gmail.com
+oughly examined the explants during the surgery, and pedro.brasil@fiocruz.br
+no instances of delamination were detected. The revision
+procedures for these 2 participants were performed 8 and
+DISCLOSURES
+14 years after primary augmentation.
+Silimed fully sponsored this study. Boechat is a municipal
+The incidence of breast implant–associated anaplastic
+employee from Rio de Janeiro who is sponsored by Silimed to con-
+large cell lymphoma (BIA-ALCL) is a growing concern
+duct STEPS-A as the principal investigator. da Silva, dos Reis,
+among surgeons, patients, and regulatory agencies. There
+and Ramos are also sponsored by Silimed to conduct STEPS-A as
+is evidence linking BIA-ALCL and TEX or PU-coated
+subinvestigators. Borges and Brasil are independent consultants
+implants. Most of the studies on this topic have an inflam-
+for Silimed.
+matory or immunologic approach, and the clinical or
+epidemiological evidence is usually from case series or
+secondary databases, with very few studies featuring long REFERENCES
+follow-ups. Therefore, there is a perception that strong 1. Cronin TD, Gerow FJ. Transactions of the third international
+epidemiological evidence on this topic is rare and lack- congress of plastic surgery. Excerpta Medica Foundation. 1963.
+ing to support the association.11,22–25 Additionally, clinical/ Available at https://catalog.hathitrust.org/Record/010597243
+https://books.google.com.br/books/about/Transactions_of_
+epidemiological studies often fail to adjust the surface
+the_Third_International.html?id=wSbLtAEACAAJ&redir_esc=y.
+effects to other causes, such as genetic predisposition,
+2. Maxwell GP, Gabriel A. The evolution of breast implants. Plast
+environmental conditions, and the patient’s health habits,
+Reconstr Surg. 2014;134:12S–17S.
+which can influence disease development.26–29 BIA-ALCL
+3. Pontes GH, Ramos CPW, De Noronha L, et al. Long-term
+is typically associated with a strong inflammatory profile insights: histopathological assessment of polyurethane implant
+and late seroma.3,29,30 In our study, no cases of late seroma capsules over 24 years. Aesthet Surg J. 2024;44:915–924.
+8
+
+--- PÁGINA 9 ---
+Boechat et al • Postmarket Study of Silimed PU Breast Implants
+4. Perry D, Frame J. The history and development of breast 19. Pompei S, Evangelidou D, Arelli F, et al. The modern
+implants. Ann R Coll Surg Engl. 2020;102:478–482. polyurethane-coated implant in breast augmentation: long-term
+5. Fleming D. Polyurethane foam covered breast implants. In: clinical experience. Aesthet Surg J. 2016;36:1124–1129.
+Biomaterials in Plastic Surgery. Elsevier; 2012:96–120. 20. Castel N, Soon-Sutton T, Deptula P, et al. Polyurethane-coated
+6. Miró A. Augmentation mastoplasty using polyurethane- breast implants revisited: a 30-year follow-up. Arch Plast Surg.
+covered prostheses. In: Avelar JM, ed. Breast Surgery. Springer 2015;42:186–193.
+International Publishing; 2018:633–644. 21. Danino MA, Nizard N, Paek LS, et al. Do bacteria and biofilm
+7. Vázquez G. A ten-year experience using polyurethane-covered play a role in double-capsule formation around macrotextured
+breast implants. Aesthetic Plast Surg. 1999;23:189–196. implants? Plast Reconstr Surg. 2017;140:878–883.
+8. Stevens WG, Calobrace MB, Alizadeh K, et al. Ten-year core study 22. Loch-Wilkinson A, Beath KJ, Magnusson MR, et al. Breast
+data for Sientra’s food and drug administration–approved round implant-associated anaplastic large cell lymphoma in Australia:
+and shaped breast implants with cohesive silicone gel. Plast a longitudinal study of implant and other related risk factors.
+Reconstr Surg. 2018;141:7S–19S. Aesthet Surg J. 2020;40:838–846.
+9. Boechat CEJ, da Silva FN, dos Reis AP, et al. Three-year prelimi- 23. Santanelli Di Pompeo F, Panagiotakos D, Firmani G, et al. BIA-
+nary results of adverse events with Silimed® polyurethane breast ALCL epidemiological findings from a retrospective study of 248
+implant. Rev Argent Cir Plástica. 2023;29:110–115. cases extracted from relevant case reports and series: a systematic
+10. Duxbury PJ, Harvey JR. Systematic review of the effectiveness of review. Aesthet Surg J. 2023;43:545–555.
+polyurethane-coated compared with textured silicone implants 24. Vittorietti M, Mazzola S, Costantino C, et al. Implant replace-
+in breast surgery. J Plast Reconstr Aesthet Surg. 2016;69:452–460. ment and anaplastic large cell lymphoma associated with breast
+11. Hillard C, Fowler JD, Barta R, et al. Silicone breast implant rup- implants: a quantitative analysis. Front Oncol. 2023;13:1202733.
+ture: a review. Gland Surg. 2017;6:163–168. 25. Clemens MW, Myckatyn TM, Di Napoli A, et al. American
+12. Bogetti P, Fraccalvieri M, Cappello G, et al. Novel decision algo- Association of Plastic Surgeons consensus on breast implant–
+rithm for the diagnosis of silicone gel breast implant ruptures. associated anaplastic large-cell lymphoma. Plast Reconstr Surg.
+Eur J Plast Surg. 2018;41:677–684. 2024;154:473–483.
+13. Pagani A, Aitzetmüller MM, Larcher L. A forgotten entity follow- 26. Jacombs A, Tahir S, Hu H, et al. In vitro and in vivo investiga-
+ing breast implant contracture: does baker need a change? Arch tion of the influence of implant surface on the formation of
+Plast Surg. 2022;49:360–364. bacterial biofilm in mammary implants. Plast Reconstr Surg.
+14. Dini G, Quaresma M, Ferreira L. Translation into Portuguese, 2014;133:471e–480e.
+cultural adaptation and validation of the Rosenberg self-esteem 27. Brown T. Surface areas of textured breast implants: implications
+scale. Rev Bras Cir Plástica. 2004;19:41–52. for the biofilm theory of capsule formation. Plast Reconstr Surg
+15. Ferreira LF, Sabino Neto M, Silva MMDA, et al. Brazilian version Glob Open. 2018;6:e1700.
+of the breast evaluation questionnaire: cultural adaptation and 28. Collett DJ, Rakhorst H, Lennox P, et al. Current risk estimate
+validation. Rev Bras Cir Plástica. 2013;28:270–275. of breast implant–associated anaplastic large cell lymphoma
+16. de la Peña-Salcedo JA, Soto-Miranda MA, Lopez-Salguero JF. in textured breast implants. Plast Reconstr Surg. 2019;143:
+Back to the future: a 15-year experience with polyurethane foam- 30S–40S.
+covered breast implants using the partial-subfascial technique. 29. DeCoster RC, Clemens MW, Di Napoli A, et al. Cellular and
+Aesthetic Plast Surg. 2012;36:331–338. molecular mechanisms of breast implant–associated anaplastic
+17. Handel N, Gutierrez J. Long-term safety and efficacy of polyure- large cell lymphoma. Plast Reconstr Surg. 2021;147:30e–41e.
+thane foam-covered breast implants. Aesthet Surg J. 2006;26:265–274. 30. D’Orsi G, Giacalone M, Calicchia A, et al. BIA-ALCL and BIA-
+18. Rahimpour A, Suite S, Dudich M, et al. Breast augmentation patient SCC: updates on clinical features and genetic mutations for lat-
+satisfaction in an Appalachian region. Cureus. 2024;16:e62550. est recommendations. Medicina (Mex). 2024;60:793.
+9

@@ -1,0 +1,498 @@
+--- PÁGINA 1 ---
+AesthPlastSurg(2010)34:555–560
+DOI10.1007/s00266-010-9495-9
+ORIGINAL ARTICLE
+How Texture-Inducing Contraction Vectors Affect the Fibrous
+Capsule Shrinkage Around Breasts Implants?
+Antonio Carlos Abramo • Valeria Ribeiro De Oliveira •
+Miguel Cirilo Ledo-Silva • Erick Leonardo De Oliveira
+Received:17August2009/Accepted:11February2010/Publishedonline:31March2010
+(cid:2)SpringerScience+BusinessMedia,LLCandInternationalSocietyofAestheticPlasticSurgery2010
+Abstract texture from creating resultant vectors of long and dif-
+Background Breastaugmentation wasperformed onnine ferent lengths and in variable directions, increasing breast
+female volunteer patients to determine the influence of firmness from 12 months. SiltexTM implants created few
+three textured surfaces on fibrous capsule formation. The and very long resultant vectors perpendicular to the
+highdegreeofsurface texturereducedthe capsular fibrous fibrous capsule that developed fibrous capsule contraction
+tissue formation. after 9 months. We conclude that implants with macro-
+Methods Patients were distributed according to the textured surfaces significantly reduced the risk of fibrous
+degree of texture created by the open-pore diameter and capsular contraction.
+depth of the surface texture. Macroscopic and histological
+examinations were performed to evaluate the implant tex- Keywords Capsular contracture (cid:2) Implant roughness (cid:2)
+ture and fibrous capsule interface. Magnetic resonance Textured surface shell (cid:2) Vectors
+imaging established a mutual correlation with breast firm-
+ness achieved by the Baker grade.
+Results The parallelogram law was applied to linear The development of a fibrous capsule around a breast
+vectors arising from the same initial point into the con- implant is an inflammatory reaction of the body against a
+cavities or undulations on the textured surface to achieve foreignmaterial.Gradualcontractionofthefibrouscapsule
+the resultant contraction vector. They were identical to distorts the implant in various degrees from mild breast
+resultant vectors created on the fibrous capsule except in firmness to a hardened sphere. Thickening and contraction
+theinverteddirection.Theadhesiveeffectormirror-image ofthefibrouscapsuleisamultifactorprocessinvolvingthe
+tissueresponsetotheimplanttextureonthefibrouscapsule implant as well as clinical and surgical conditions. The
+noticeably reduced capsular contracture but only with surface of the shell and the gel cohesiveness are factors
+macrotextured implants. Increased capsular contracture related to the implant [1]. Site of placement, bacterial
+resulted from implants showing micro- and medium sur- infection, hematoma, and patient individuality are related
+face texture with no significant difference between them. to surgical and clinical conditions [2, 3]. Several studies
+Conclusion BiocellTM implants created resultant vectors have emphasized the influence of the implant’s surface in
+on the capsular interface of small and similar lengths with preventing capsular contracture. Retrospective controlled
+divergent directions creating natural breast firmness. trials concerning smooth and textured surfaces have sug-
+Biodegradation of PolyurethaneTM foam disrupted the gested that implant texturization reduces the incidence of
+fibrous capsular contraction [4]. The open-pore diameter
+and depth of the surface texture noticeably influence
+A.C.Abramo(&)(cid:2)V.R.DeOliveira(cid:2) fibrouscapsuleformation[5].Linearvectorscreatedonthe
+M.C.Ledo-Silva(cid:2)E.L.DeOliveira surface texture induce capsular contraction or shrinkage.
+ACA—InstituteofAssistanceinPlasticSurgeryofSa˜oPaulo,
+Vectors are described as directed straight lines with an
+GeneralHospitalSa˜oLuiz,RuaAfonsodeFreitas,641,
+origin and a length. They are graphically represented by a
+Sa˜oPaulo,SP04006-052,Brazil
+e-mail:acabramo@abramo.com.br linewithanarrowheadatitstipwhichindicatesthelength
+123
+
+--- PÁGINA 2 ---
+556 AesthPlastSurg(2010)34:555–560
+and direction of the vector [6]. Resultant vectors inducing three patients had 305-ml Polyurethane-Covered FoamTM
+capsular contracture are achieved by the sum of linear implants. Clinical evaluation was performed using the
+vectors created over the fibrous capsule. Baker grade for breast firmness and magnetic resonance
+Thepurposeofthisstudywastoestablishtheinfluenceof imaging (MRI) to visualize the implant contour. Table 1
+resultant vectors created by the open-pore diameter and summarizes the Baker grade for mammary firmness on
+depthoftheimplantsurfacetextureoncapsularcontracture. bothbreastsevery3 monthsfor18 months.Theincreasein
+breastfirmnessleadingtoBakergradeIIbeganatmonth9
+only for the Siltex implants. Baker grade II was achieved
+Patients and Method for both SiltexTM and PolyurethaneTM implants at month
+12. Baker grade III occurred first with Siltex implants at
+Nine female volunteer patients, ranging in age from 28 to month 15 and with both Siltex and Polyurethane implants
+48 yearsandwithtwopregnanciesamongthem,underwent at month 18. A soft and natural breast was achieved only
+subglandular breast augmentation using an inframammary with BiocellTM implants. MRI revealed a noticeable cor-
+incision. NatrelleTM Biocell(cid:3) IntrashielTM 27-120301 (Al- relation with clinical breast firmness determined by the
+lergan, Inc., Irvine, CA, USA), Siltex(cid:3) RoundGelTM 354- Baker grade. Baker grades I and III and the corresponding
+4300 (Mentor Corp., Santa Barbara, CA, USA), and Poly- MRIexaminationareshowninFigs. 1and2,respectively.
+urethane-Covered FoamTM 30621-305 (Silimed Polyure-
+thane, Rio de Janeiro, RJ, Brazil) breast implants, round- Textured Surface Shell of the Implants
+shapedwithhighprofileandcohesivesiliconegel,wereused.
+Implantshadthreedifferenttextureswithrespecttothedepth SiltexTM implants showed microtexture composed of
+and open-pore diameter on the surface texture. All patients undulations regularly distributed on the implant’s surface
+signed an informed consent form agreeing to the treatment (Fig. 3, left). BiocellTM implants showed macrotexture
+performed according to the Helsinki Declaration. Patients composed of concavities with a large open-pore diameter
+wereevaluatedevery3 monthsusingtheBakergrade.Mag- anddepththatwereirregularlyarrangedovertheimplant’s
+netic resonance imaging examination was performed after surface (Fig. 3, right). PolyurethaneTM exhibited irregular
+18 months. Open capsulectomy and replacement of the porosityofthetexturewhichwascomposedofconcavities
+implants with Biocell IntrashielTM 27-120301 implants was with an enlarged open-pore diameter and depth, indicating
+performed 18 months after the breast augmentation. Macro disruptionofthemediumtexturecausedbybiodegradation
+photosofthefibrouscapsuleweretakenwithadigitalSony of the polyurethane foam (Fig. 4). Table 2 gives the mor-
+camerausinga2.69wideconversionhigh-gradelensVCL- phology and texture of the implants.
+DH1730.Thefibrouscapsulewasdividedinto5-mm2frag-
+ments,fixedwithparaffin,andstainedwithhematoxylinand Resultant Vectors on the Texture
+eosin for histological examination using an optical micro-
+scopewith1009and4009Zeissobjectives. On a Cartesian coordinate system, two linear vectors were
+drawn from the deepest point of the depression to the
+Implant Examination extremities of the open-pore diameter for macro- and
+medium textures corresponding to BiocellTM and Poly-
+Strips 10 mm long and 1 mm wide were cut from the top urethaneTM implants, respectively. Resultant vectors were
+and both sides of the circumference of the replaced achieved using the parallelogram law for the addition of
+implants. The fragments were used to identify open-pore forces (Fig. 5, right, left). In Fig. 5 the parallelogram law
+diameter and the inclination and depth of the implant wasappliedinafewconcavitiesjusttocomparelengthand
+texture. They were not fixed or stained. Fragments were direction of the resultant vectors for Biocell (Fig. 5, right)
+examined using a fluorescence optical microscope (Model and Polyurethane (Fig. 5, left) implants. For the micro-
+EllipseE600FM)with10/209objectives and4009ocular texturedsurfaceofSiltexTMimplants,thehorizontalaxisof
+augmentation. Photos were taken with a Nikon DX1200 the Cartesiancoordinate system was set tangentially tothe
+digital camera and digitized using Nikon’s Act-1 Platform baseoftheundulation.Severalhorizontalaxesweredrawn
+version 2.7 software program. from the deepest to the more superficial undulations. The
+distance from the deepest axis to the others created per-
+pendicularvectorsindifferentpointsofthehorizontalaxis
+Results with coincident direction. The sum of the vectors created
+on the horizontal axis was projected over the vertical axis
+Three patients had 300-ml Biocell IntrashielTM implants, creating a resultant vector perpendicular to the implant
+three patients had 300-ml Siltex Round Gel implants, and surface (Fig. 6). In Fig. 4, the different colors indicate the
+123
+
+--- PÁGINA 3 ---
+vector for each undulation, whose sum was the resultant
+vector. The magnitude of the resultant vectors is indicated
+bythelengthofthearrowanddirectionisindicatedbythe
+arrowhead, characterizing the vector displacement. Micro-
+and medium textures showed predominance of long and
+different resultant vectors with variable directions, induc-
+ing a large displacement for the fibrous capsule. Macro-
+texture created similar and small resultant vectors with
+divergent directions, avoiding the displacement of the
+fibrous capsule.
+Fibrous Capsule Examination
+Nosiliconegelparticleswerefoundinthefibrouscapsules
+around the three different implant textures. Table 3 sum-
+marizes the macroscopic and histological findings for
+BiocellTMimplantswhichimprintedatexturemirrorimage
+on the interface with the capsule (Figs. 7, 8). Capsular
+fibrous tissue for PolyurethaneTM implants showed an
+inflammatory reaction around foam fragments causing an
+irregular and disorganized fibrous tissue distribution. The
+fibrous capsule was thicker for macro- and medium-tex-
+tured implants than for microtextured implants. The
+resultantvectorsarisingfromthefibrouscapsulewentinto
+the concavities or undulations of the capsular interface.
+They had the same length butthe opposite directionas the
+resultant vectors created on the implant texture.
+Discussion
+Resultantvectorsactingonthefibrouscapsuleareamirror
+image of resultant vectors producedby the implant texture
+except in the opposite direction. The contraction force is
+exertedaccordingtothelengthoftheresultantvector.Itis
+representedbythedisplacementfromaninitialpointatthe
+fibrous capsule to another point determined by the arrow-
+head,directedtothecenteroftheimplant.Thecontraction
+force of resultant vectors significantly decreased as the
+distance increased from the center of the implant [7].
+Normal breast firmness achieved for BiocellTM implants
+correlated with the short length of the resultant vectors far
+enough from the implant center. Otherwise, resultant vec-
+tors of equal length and divergent directions tend to neu-
+tralize each other, thus avoiding capsular contracture [8].
+This is in concordance with the inverse property of vector
+addition since the sum of resultant vectors of the same
+length and opposite directions is equal to zero. Small
+vectors appear structurally connected to the existence of a
+critical open-pore diameter of the texture of greater than
+150 lm[9,10].Table 2indicatesanopen-porediameterof
+greater than 150 lm for BiocellTM and Polyurethane
+implants. However, the effectiveness of the polyurethane
+shtnom3yrevessenmrfitsaerbotgnidroccastneitapfonoitubirtsiD
+1elbaT
+MTenahteruyloP
+MTxetliS
+tsaerbthgiR
+tsaerbtfeL
+tsaerbthgiR
+81
+51
+21
+9
+6
+3
+81
+51
+21
+9
+6
+3
+81
+51
+21
+9
+6
+3
+0
+1
+2
+3
+3
+3
+0
+0
+2
+2
+3
+3
+0
+0
+1
+2
+3
+3
+IrekaB
+3
+2
+1
+0
+0
+0
+1
+2
+1
+1
+0
+0
+2
+3
+2
+1
+0
+0
+IIrekaB
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+IIIrekaB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+VIrekaB
+MTllecoiB
+MTenahteruyloP
+tsaerbtfeL
+tsaerbthgiR
+tsaerbtfeL
+81
+51
+21
+9
+6
+3
+81
+51
+21
+9
+6
+3
+81
+51
+21
+9
+6
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+0
+0
+2
+3
+3
+3
+IrekaB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+3
+1
+0
+0
+0
+IIrekaB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+IIIrekaB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+VIrekaB
+AesthPlastSurg(2010)34:555–560 557
+123
+
+--- PÁGINA 4 ---
+558 AesthPlastSurg(2010)34:555–560
+Fig.1 RightBakergradeIfor
+bothbreastswithBiocellTM
+implantsafter18months.Left
+Magneticresonanceimaging
+showingregularcontourforthe
+implantsurface
+Fig.2 RightBakergradeIIin
+theleftbreastandBakergrade
+IIIintherightwithSiltexTM
+implantsafter18months.Left
+Magneticresonanceimaging
+confirmstheclinicalevaluation
+bytheBakergrade
+Fig.3 Right Undulations regularly arranged on the microtexture of Fig.4 Biodegradation of the polyurethane foam modified the
+theSiltexTMimplant.LeftOpen-porediametersfrom600to800lm medium texture of the PolyurethaneTM implant creating enlarged
+areresponsibleforthemacrotextureoftheBiocellTMimplant open-porediametersanddepths
+foam in preventing capsular contracture decreases as it capsularcontractionastheycameclosertothecenterofthe
+degrades over a period of time, estimated to be 2 years implant. The undulations of the SiltexTM implant’s texture
+[11].Biodegradationof the polyurethane broke the regular were the origin of very long resultant vectors over the
+patternofthesurfacetexturecreatingnewresultantvectors fibrous capsule, increasing breast firmness starting at
+withdifferentandmajorlengthsandseveraldirections.The 9 months. Poeppl et al. [12] also achieved early breast
+increase in length of the resultant vectors induced fibrous firmness for implants with microtextured surfaces. They
+123
+
+--- PÁGINA 5 ---
+AesthPlastSurg(2010)34:555–560 559
+Table2 Volumeandtextureoftheimplant
+Volume(ml) Roughness
+Surface Distribution Density(mm2) Open-porediameter(lm) Depth(lm)
+SiltexTM 300 Micronodules Regular 10 70–150 40–100
+PolyurethaneTM 305 Moderateconcavities Irregular 7 250–350 10–760
+BiocellTM 300 Macroconcavities Irregular 5 600–800 150–200
+Fig.5 Parallelogramlaw
+appliedtolinearvectorsof
+macro-andmedium-textured
+implants.RightResultant
+vectorsforBiocellTMshowed
+similarandsmalllengthswith
+divergentdirections.Left
+Resultantvectorsfor
+PolyurethaneTMhadlongand
+differentlengthswithvariable
+directions
+fibrous capsule was not adeterminative factor for capsular
+contracture. Despite the fact that BiocellTM implants had
+more fibrous tissue in the fibrous capsule than did the
+Polyurethane-Covered FoamTM and SiltexTM implants, the
+BiocellTM implants showed less capsular contracture. This
+agrees with the results of Danino et al. [14] who reported
+the influence of macrotextured surfaces in inducing adhe-
+sive effects and resulting in less capsular contraction.
+Imaging techniques have been a useful addition to the
+subjectiveclinicalevaluationofbreastfirmness,increasing
+the accuracy of the diagnosis [15]. The MRI done
+18 months after breast augmentation supported the sub-
+jectiveevaluationofbreastfirmnessaccordingtotheBaker
+grade. To avoid interference of additional contracture risk
+Fig.6 SiltexTM implants originated linear vectors perpendicular to factorsincapsuleformation,weusedcohesivesiliconegel-
+the horizontal axis of a Cartesian coordinate system. The sum of filled, 300- and 305-ml implants placed through the infra-
+linear vectors is transposed to the vertical axis creating a single
+mammary incision and in subglandular position [16].
+resultantvectorperpendiculartotheimplantsurface
+found no statistically significant difference between the
+smooth surface and microtexture surface of the SiltexTM Conclusion
+implant.
+Unlike Zahavi et al. [13], the histological findings Despitethesmallsizeofoursample,thefindingsrelatedto
+achieved in this study reveal that the thickness of the vector lengths and direction at the implant texture
+Table3 Fibrouscapsulefindings
+Macroscopicview Histologicalexamination
+Fibroustissue Cells Vessels
+SiltexTM Thinlinearparallelfolds Linearlyorganized,slightlythicker Absent Absent
+PolyurethaneTM Irregulardistribution,moderatefolds Irregularlydisorganized,slightlythicker Poor Poor
+BiocellTM Adhesiveeffect Lesscompact High High
+123
+
+--- PÁGINA 6 ---
+560 AesthPlastSurg(2010)34:555–560
+Fig.7 LeftMacrotextureofthe
+BiocellTMimplant.RightMirror
+imageoftheBiocellTMtexture
+imprintedontheinterfaceofthe
+fibrouscapsule
+S, Olsen JH (2001) Capsular contracture after cosmetic breast
+implantsurgeryinDenmark.AnnPlastSurg47:359–366
+4. Wong CH, Samuel M, Tan BK, Song C (2006) Capsular con-
+tractureinsubglandularbreastaugmentationwithtexturedversus
+smoothbreastimplants:asystematicreview.PlastReconstrSurg
+118:1224–1236
+5. Taylor SR, Gibbons DF (1983) Effect of surface texture on the
+soft-tissue response to polymer implants. J Biomed Mater Res
+17:205–227
+6. JonesAZ(2008)Vectormathematics,About.com.TheNewYork
+TimesCompany.Availableathttp://physics.about.com.Accessed
+May2009
+7. Cabrera E, Macorra JC (2007) Polymerization shrinkage influ-
+encesmicrotextilebondsstrength.JDentRes86:227–231
+8. Pennisi VR (1985) Polyurethane-covered silicone gel mammary
+prosthesisforsuccessfulbreastreconstruction.AesthetPlastSurg
+9:73–77
+9. BobynJD,WilsonGJ,McGregorDC,PilliarRM,WeatherlyGC
+Fig.8 Mirror image of the BiocellTM texture imprinted over the (2004) Effect ofpore-size onthe peelstrength of attachment of
+fibrouscapsule.Numerousvesselsareshownalongthefibroustissue fibrous tissue to porous-surfaced implants. J Biomed Mater Res
+ofthecapsuleinterface 16:571–584
+10. Muller-Mai CM, Voigt C, Gross U (1990) Incorporation and
+producing a mirror image on the interface of the fibrous degradation of hydroxyapatite implants of different surface
+structureinbone.ScanningMicrosc4:613–622
+capsule, the implant texture, the contour of the capsule
+11. HesterTR,FordNF,GalePJ,HammettJL,RaymondR,Turnbull
+around the implant shown on the magnetic resonance
+D, Frankos VH, Cohen MB (1997) Measurement of 2,4-toluen-
+imaging, and the Baker grades for capsular contracture ediamineinurineandserumsamplesfromwomenwithMeˆmeor
+were clear. The higher rate of correlation among these Repliconbreastimplants.PlastReconstrSurg100:1291–1298
+12. Poeppl N, Schreml S, Lichtenegger F, Lenich A, Eisenmann-
+findings ensures that the macrotexture of the implant sur-
+KleinM,PrantlL(2007)Doesthesurfacestructureofimplants
+face significantly reduced capsular contracture.
+have an impact on the formation of a capsular contracture?
+AesthetPlastSurg31:133–139
+Acknowledgment Financialsupportforthisworkwasprovidedby 13. ZahaviA,SklairML,Ad-ElDD(2006)Capsularcontractureof
+theACA—InstituteofAssistanceinPlasticSurgeryofSa˜oPaulo. the breast: working towards a better classification using clinical
+andradiologicassessment.AnnPlastSurg54:248–251
+14. DaninoAM,BasmaciogluP,SaitoS,RocherF,Blanchet-Bardon
+C, Revol M, Servant J (2001) Comparison of the capsular
+References
+response to the BIOCELL RTV and Mentor 1600 Siltex breast
+implantsurfacetexturing:ascanningelectronmicroscopicstudy.
+1. Embrey M, Adams EE, Cunningham B, Peters W, Young VL, PlastReconstrSurg108:2047–2052
+Carlo GL (1999) A review of the literature on etiology of cap- 15. O’Toole M, Caskey CI (2000) Imaging spectrum of breast
+sular contracture and a pilot study to determine the outcome of implantcomplications:mammography,ultrasound,andmagnetic
+capsular contracture interventions. Aesthet Plast Surg 23:197– resonanceimaging.SeminUltrasoundCTMRI21:351–361
+206 16. HenriksenTF,FrysekJP,Ho¨lmichLR,McLaughlinJK,Kjoller
+2. Seify H, Sullivan K, Hester TR (2005) Preliminary (3years) K,HoyerAP,OlsenJH,FriisS(2005)Surgicalinterventionand
+experience with smooth wall silicone gel implants for primary capsular contracture after breast augmentation: a prospective
+breastaugmentation.AnnPlastSurg54:231–235 studyofriskfactors.AnnPlastSurg54:343–351
+3. Kjoller K, Ho¨lmich LR, Jacobsen PH, Friis S, Fryzek J, Mac-
+LaughlinJK,LipworthL,HenriksenTF,JorgensenS,Bittmann
+123

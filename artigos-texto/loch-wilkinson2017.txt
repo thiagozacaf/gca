@@ -1,0 +1,612 @@
+--- PÁGINA 1 ---
+BREAST
+Breast Implant–Associated Anaplastic Large
+Cell Lymphoma in Australia and New Zealand:
+High-Surface-Area Textured Implants Are
+Associated with Increased Risk
+Anna Loch-Wilkinson,
+Background: The association between breast implants and breast implant–
+M.B.B.S.
+associated anaplastic large cell lymphoma (ALCL) has been confirmed.
+Kenneth J. Beath
+Implant-related risk has been difficult to estimate to date due to incomplete
+Robert John William
+datasets.
+Knight, M.B.B.S.
+Methods: All cases in Australia and New Zealand were identified and analyzed.
+William Louis Fick Wessels,
+Textured implants reported in this group were subjected to surface area analysis.
+M.B.B.S.
+Sales data from three leading breast implant manufacturers (i.e., Mentor, Allergan,
+Mark Magnusson, M.B.B.S. and Silimed) dating back to 1999 were secured to estimate implant-specific risk.
+Tim Papadopoulos, M.B.B.S. Results: Fifty-five cases of breast implant–associated ALCL were diagnosed in
+Tony Connell, B.Sc., M.B.B.S. Australia and New Zealand between 2007 and 2016. The mean age of patients
+Julian Lofts, M.B.B.S. was 47.1 years and the mean time of implant exposure was 7.46 years. There
+SUPPLEMENTAL DIGITAL CONTENT IS AVAIL-
+ABLE IN THE TEXT. Michelle Locke, M.B.B.S., were four deaths in the series related to mass and/or metastatic presentation.
+M.D. All patients were exposed to textured implants. Surface area analysis confirmed
+Ingrid Hopper, M.B.B.S., that higher surface area was associated with 64 of the 75 implants used (85.3
+B.Med.Sci.(Hons.), Ph.D. percent). Biocell salt loss textured (Allergan, Inamed, and McGhan) implants
+Rodney Cooter, M.B.B.S., accounted for 58.7 percent of the implants used in this series. Comparative
+2017 M.D. analysis showed the risk of developing breast implant–associated ALCL to be
+Karen Vickery, B.V.Sc., Ph.D. 14.11 times higher with Biocell textured implants and 10.84 higher with poly-
+Preeti Avinash Joshi, urethane (Silimed) textured implants compared with Siltex textured implants.
+Conclusions: This study has calculated implant-specific risk of breast implant–
+M.B.B.S., D.C.H., Ph.D.
+associated ALCL. Higher-surface-area textured implants have been shown to
+H. Miles Prince,
+significantly increase the risk of breast implant–associated ALCL in Australia
+M.B.B.S.(Hons.), M.D.,
+and New Zealand. The authors present a unifying hypothesis to explain these
+A.F.R.A.C.M.A., M.A.C.D.
+observations. (Plast. Reconstr. Surg. 140: 645, 2017.)
+Anand K. Deva, B.Sc.(Hons.),
+M.B.B.S., M.S.
+Disclosure: Professor Deva and Associate Professor
+Sydney, New South Wales; and
+Melbourne, Victoria, Australia Vickery are consultants and research coordinators for
+Mentor (J&J), Allergan, and Acelity. Dr. Magnusson
+Breast implant–associated anaplastic large cell is a consultant to Allergan. Dr. Connell is a consultant
+lymphoma (ALCL) is a CD30+, ALK−, T-cell– to AirXpanders. The other authors have no financial
+derived lymphoma within the non-Hodgkin interest to declare.
+Supplemental digital content is available for this
+From the Faculty of Medical and Health Sciences, Macquarie
+article. Direct URL citations appear in the text;
+University; the Joint Breast Implant-Associated ALCL Task
+simply type the URL address into any Web browser
+Force, American Society of Plastic Surgeons/American Soci-
+ety for Aesthetic Plastic Surgery/New Zealand Association of to access this content. Clickable links to the mate-
+Plastic Surgeons; the Integrated Specialist Healthcare Edu- rial are provided in the HTML text of this article
+cation and Research Foundation; the Australian Breast De- on the Journal’s website (www.PRSJournal.com).
+vice Registry, Department of Epidemiology and Preventative
+Medicine, Monash University; and the Peter MacCallum
+A “Hot Topic Video” by Editor-in-Chief Rod J.
+Cancer Center.
+Rohrich, M.D., accompanies this article. Go to
+Received for publication October 4, 2016; accepted April 3,
+PRSJournal.com and click on “Plastic Surgery
+2017.
+Hot Topics” in the “Digital Media” tab to watch.
+Copyright © 2017 by the American Society of Plastic Surgeons
+On the iPad, tap on the Hot Topics icon.
+DOI: 10.1097/PRS.0000000000003654
+www.PRSJournal.com 645
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 2 ---
+Plastic and Reconstructive Surgery • October 2017
+lymphoma group. To date, all patients with breast Table 1. Tumor, Node, Metastasis Staging for Breast
+implant–associated ALCL have had prolonged Implant–Associated ALCL*
+exposure to textured implants.1,2
+TNM or Stage
+There have been wide variations in estima-
+Designation Description
+tion of risk for breast implant–associated ALCL
+T: tumor extent
+ranging from one in 3,000,0003 to one in 50,0004 T1 Confined to effusion or a layer on
+implants. This is because of current limitations luminal side of capsule
+T2 Early capsule infiltration
+with accurately obtaining implant and clinical his-
+T3 Cell aggregates or sheets infiltrating the
+tories, variation in pathologic diagnosis, underre- capsule
+porting and missed diagnoses, duplication of case T4 Lymphoma infiltrates beyond the capsule
+N: Lymph node
+entries into registries, and a lack of clear infor-
+N0 No lymph node involvement
+mation on the total number of implants sold and N1 One regional lymph node (+)
+implanted because of commercial sensitivities.5 N2 Multiple regional lymph nodes (++)
+M: Metastasis
+We sought to bring clarity to the implant-
+M0 No distant spread
+related risk in our Australian and New Zealand M1 Spread to other organs/distant sites
+population. The objectives of this investigation Stage
+IA T1N0M0
+were as follows:
+IB T2N0M0
+IC T3N0M0
+1. Form a joint Australia and New Zealand IIA T4N0M0
+IIB T1-3N1M0
+task force to capture all reported cases
+III T4N1-2M0
+of breast implant–associated ALCL cases IV TanyNanyM1
+(numerator). TNM, tumor, node, metastasis.
+2. Review and confirm pathologic diagnoses. *From Clemens MW, Medeiros LJ, Butler CE, et al. Complete surgi-
+cal excision is essential for the management of patients with breast
+3. Lobby industry for release of sales data to
+implant-associated anaplastic large-cell lymphoma. J Clin Oncol.
+calculate the true risk of breast implant– 2016;34:160–168.
+associated ALCL in our population
+(denominator).
+were blinded to each manufacturer and clinicians
+4. Study the association and risk of differ-
+and were used by an independent biostatistician
+ent textured implant surfaces with breast
+[K.J.B. (Macquarie University)] for descriptive,
+implant–associated ALCL.
+risk, and survival analysis.
+PATIENTS AND METHODS Surface Area Determination
+The task force engaged with members of the Surface texture of Silimed polyurethane, Bio-
+plastic surgery, breast oncology, hematology and cell, Siltex, and smooth implants was visualized
+oncology, and cosmetic surgical societies. A pro using a Zeiss LSM 880 inverted Confocal Laser
+forma for reporting cases was distributed elec- Scanning Microscope (Carl Zeiss, Oberkochen,
+tronically and by mail calling for notification of Germany) and a scanning electron microscope
+cases in October of 2015. Human ethics approval using previously published methods.7 Three-
+was obtained from Macquarie University. dimensional reconstruction of confocal images
+Clinical, operative, and implant details were was performed using Imaris version 8.4, ImarisXT
+crosschecked with operative and clinical records (Bitplane, Zurich, Switzerland). The three-dimen-
+where available. Pathologic diagnosis was con- sional isosurface area was measured by Imaris
+firmed, where required, by secondary review of MeasurementPro (Bitplane).
+the pathology slides by an independent patholo-
+gist (Stephen Lade, Peter MacCallum Cancer Statistical Analysis
+Center). The tumor, node, metastasis staging sys- Data on sales of respective implants were
+tem6 was applied (Table 1). obtained on a yearly basis from Allergan, Men-
+Patient contact was made to confirm survival tor, and Silimed from 1999 to 2015. For Silimed,
+status. The task force engaged the three major the sales of implants did not increase significantly
+implant manufacturers in our region [i.e., Men- until after 2008, following Australian regula-
+tor Worldwide LLC (Santa Barbara, Calif.); Aller- tory approval. For analysis, this was converted to
+gan Sales LLC (Dublin, Ireland); and Silimed, integral years to allow a discrete time analysis,
+Inc. (Dallas, Texas)] to release sales data for with analysis restricted to subjects who under-
+implants from 1999 to 2015. The raw sales data went implantation during or after 1999 within
+646
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 3 ---
+Volume 140, Number 4 • Breast Implant–Associated ALCL
+Australia or New Zealand and who had been Table 3. Number of Implants before Development of
+exposed to a single type of texture only. For Sil- Breast Implant–Associated ALCL
+imed, we included only Australian cases. We did
+No. of Implants No. of Patients (%)
+not include smooth implant exposure in our
+1 44 (80.0)
+analysis. Incidence was calculated using the Pois-
+2 6 (10.9)
+son distribution and exact confidence intervals. 3 3 (5.5)
+The cumulative proportion of subjects with ALCL 5 2 (3.6)
+exposed to Biocell and Siltex texture was deter-
+mined using the Kaplan-Meier estimate, with
+implants was postmastectomy reconstruction for
+confidence intervals obtained using a parametric
+both cancer and prophylaxis.
+bootstrap. Comparison between groups was per-
+Eleven patients had multiple implants for revi-
+formed using discrete-time survival analysis8 using
+sion for rupture, infection, or capsular contrac-
+exact-like logistic regression. All calculations were
+ture (Table 3). Of the reconstructive patients, 10
+performed using the R language9 and packages
+had textured tissue expanders used before inser-
+boot,10 elrm,11 and epitools.12
+tion of the definitive implant.
+RESULTS Breast Implant–Associated ALCL Diagnosis,
+Presentation, and Pathology
+Patient and Implant Characteristics
+Table 4 summarizes the clinical presentation
+A total of 55 patients were identified between
+of breast implant–associated ALCL. Forty-two
+2007 and August of 2016. Eleven women had multi-
+patients (76.4 percent) presented with unilat-
+ple-implant exposure, whereas the remaining 44 had
+eral breast swelling caused by seroma (Fig. 1).
+single-implant exposure, with a total of 75 implant
+(See Video, Supplemental Digital Content 1,
+pairs being deployed in this cohort. The mean age
+which shows the appearance of breast implant–
+of the patients was 47.1 years (range, 22.4 to 69.6
+associated ALCL intraoperatively in a patient,
+years). The mean time to develop breast implant–
+available in the “Related Videos” section of the
+associated ALCL from the time of the last implanta-
+full-text article on PRSJournal.com or, for Ovid
+tion was 7.46 years (range, 0.2 to 27.0 years).
+users, available at http://links.lww.com/PRS/
+All implant histories were obtained, and the
+C360.) In two patients, the seroma was associ-
+frequencies of different implant types associated
+ated with contralateral capsular contracture.
+with the breast implant–associated ALCL–positive
+A total of 10 patients (18.2 percent) presented
+breasts in these 55 patients are listed in Table 2. All
+patients were exposed to textured implants at some with a mass. One patient presented with concur-
+point in their implant history. On four occasions, rent metastatic axillary disease. Three patients
+smooth implants were used early in these patients’ presented with concurrent seroma and mass
+implant histories (implanted before 1999), reflect- (5.5 percent).
+ing a change to use of textured implants in the
+Australia and New Zealand market. Geographic Location of Implant Insertion
+In 38 patients (69.1 percent), the indication Of the total of 75 implants placed into patients
+for breast implants was cosmetic augmentation. that developed breast implant–associated ALCL, 65
+In the remaining 17 patients, the indication for implants were placed in Australia and eight implants
+were placed in New Zealand. In two patients,
+Table 2. Frequency of Implant Types Associated with implants were placed outside of Australia and New
+Breast Implant–Associated ALCL in This Cohort of Zealand (one in Mexico and one in Thailand).
+Patients*
+Manufacturer Texture Type No. (%) Table 4. Presentation of Breast Implant–Associated
+ALCL (n = 55)
+Allergan/Inamed/McGhan Biocell (salt loss) 44 (58.7)
+Silimed Polyurethane 14 (18.7) Presentation No. (%)
+Nagor Salt loss 5 (6.7)
+Surgitek Polyurethane 1 (1.3) Seroma only 42 (76.4)
+Mentor Siltex 5 (6.7) Mass only 5 (9.1)
+PIP PIP 2 (2.7) Seroma and mass 3 (5.5)
+Mentor Smooth 2 (2.7) Seroma and capsular contracture (contralateral) 2 (3.6)
+Unknown Smooth 2 (2.7) Mass and capsular contracture (concurrent) 1 (1.8)
+Mass with metastatic disease (axilla) 1 (1.8)
+PIP, Poly Implant Prothèse.
+Incidental finding 1 (1.8)
+*n = 75 implants in 55 patients because of reoperation.
+647
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 4 ---
+Plastic and Reconstructive Surgery • October 2017
+Pathology, Staging, Treatment, and Survival
+All patients underwent total capsulectomy
+and removal of implants on both the diseased and
+the nondiseased sides. All samples were CD30+
+and ALK−.
+Thirty-two patients (58.2 percent) had no evi-
+dence breast implant–associated ALCL on histo-
+pathologic examination of the capsule, indicating
+that the disease was confined to the peri-implant
+malignant effusion. In three of these patients,
+there was an intense associated (benign) lympho-
+cytic hyperplasia in the capsule. In a further 10
+patients (18.2 percent), tumor cells were seen to
+populate the inner lining but did not invade into
+the capsule. These patients represent early-stage
+disease, and six of them were treated with adjuvant
+postoperative chemotherapy early in the series.
+The remainder were treated with surgery only.
+Twelve patients (21.8 percent) had evidence
+of tumor infiltrating the capsule, with associated
+mass lesions present in five of these patients. One
+patient had tumor deposits within the pectoral
+muscle as an incidental finding during revision
+surgery. Two of these patients had evidence of
+metastatic spread to axillary/mediastinal lymph
+nodes on presentation. Table 5 summarizes tumor,
+node, metastasis staging6 of patients in this series.
+Ten of these 12 patients were treated with
+adjuvant chemotherapy and nine of them also
+received adjuvant radiation therapy. One patient
+was treated with neoadjuvant chemoradiation
+therapy before surgery. One patient was treated
+with an autologous bone marrow transplant.
+Fifty-one patients (92.7 percent) remained
+alive, well, and disease-free at the conclusion of
+this study. The median disease-free survival for all
+alive patients was 2.62 years for this series (range,
+0.1 to 8.2 years).
+Five patients had local recurrence of dis-
+ease treated with adjuvant therapy. Of these, two
+patients had positive tumor margins on histopath-
+ologic evaluation. Three patients survived and
+remain disease free.
+Mortality
+There were four patient deaths in this series.
+One patient presented with a clinical seroma
+Fig. 1 (Continued). adjuvant radiotherapy and remains disease
+Fig. 1. (Above) Clinical presentation of a patient from our cohort, free at last follow-up. (Second row) Appearance on magnetic res-
+a 39-year-old woman presenting with unilateral seroma follow- onance imaging showing large seroma and intact implant shell.
+ing cosmetic augmentation 8 years previously. After diagnosis, (Third row) Cytologic image positive for breast implant–associ-
+she had bilateral completion capsulectomy showing disease in ated ALCL. (Below) Histologic image of implant capsule showing
+the capsule but with no infiltration. She was given postoperative infiltration by breast implant–associated ALCL.
+648
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 5 ---
+Volume 140, Number 4 • Breast Implant–Associated ALCL
+Implant-Related Risk
+The odds ratio for developing breast implant–
+associated ALCL for Biocell implants compared
+to Siltex implants was 14.11 (95 percent CI, 1.20
+to 561.46; p = 0.0005). The odds ratio for devel-
+oping breast implant–associated ALCL for poly-
+urethane (Silimed) implants compared to Siltex
+implants was 10.84 (95 percent CI, 1.00 to 566.34;
+p = 0.05). This shows that the risk of developing
+breast implant–associated ALCL was 14.11 times
+higher for Biocell and 10.84 times higher with
+(Silimed) polyurethane and as compared with Sil-
+tex texture.
+Survival analysis showed a significant rise in the
+Video. Supplemental Digital Content 1 shows the appearance cumulative risk of ALCL for patients with Biocell
+of breast implant–associated ALCL intraoperatively in a patient, texture after approximately 8 years of exposure,
+available in the “Related Videos” section of the full-text article on reaching a peak at 12 years after implantation
+PRSJournal.com or, for Ovid users, available at http://links.lww. (Fig. 2). For Silimed implants, the risk rose sig-
+com/PRS/C360. nificantly after 5 years, but further follow-up will
+be required to determine the final cumulative
+and three others presented with mass and/or incidence.
+metastatic disease. Two cases followed cosmetic An estimation of implant-specific risk was cal-
+augmentation and two followed cancer recon- culated by using the sales data for Mentor (Siltex),
+struction. The mean age was 49.7 years (range, Allergan (Biocell), and Silimed (polyurethane)
+44.5 to 58.0 years); three patients had single implants sold over the 1999 to 2015 period. Analy-
+Allergan Biocell implants and one had multiple sis of implant-related risk based on total implant
+implants (smooth then Allergan Biocell two sales and for patients with single texture exposure
+times). The mean time to developing this dis- is shown in Table 6. The highest estimated risk as
+ease was 7.35 years. All patients had mass disease expressed as cases of ALCL per number of implan-
+extending beyond the capsule on histologic stag- tations was found for Biocell texture at one in
+ing. In two of these patients, disease had spread to 3817 (95 percent CI, 2718 to 5545) as compared
+lymph nodes (ipsilateral axilla/axilla and medias- with polyurethane at one in 7788 (95 percent CI,
+tinum) at the time of presentation. Two patients 3042 to 28,581) and Siltex at one in 60,631 (95
+had recurrence (one had incomplete resection percent CI, 10,882 to 2,397,471). The risk for
+on histology) after treatment (surgery/adjuvant polyurethane is confounded by a shorter duration
+therapy), with subsequent spread to mediastinum of exposure in the Australian and New Zealand
+and distant metastases. They died as a result of market compared with the other two textures and
+obstructive respiratory failure. Two other patient will need further monitoring and updates. We
+deaths were related to complications of adjuvant were unable to calculate risk and surface area for
+therapy (sepsis after chemotherapy/bone mar- Nagor implants, as the company has denied access
+row transplantation). A multicenter analysis of to sales data and/or implants for the study.
+poor outcomes following breast implant–asso-
+ciated ALCL presentation and treatment is cur- Surface Area Analysis
+rently in progress and will report these cases in Table 7 shows an estimate of surface area for
+more detail. implant surfaces for 1 × 1-mm surface block in
+Table 5. Tumor, Node, Metastasis Staging of Patients in This Series
+Pathologic Findings TNM Stage No. (%) Mortality
+BIA-ALCL positive in fluid but negative on capsule T1N0M0 IA 32 (58.2) Nil
+BIA-ALCL in fluid and luminal side of capsule T1N0M0 IA 10 (18.2) Nil
+BIA-ALCL infiltrating capsule T3N0M0 IC 6 (10.9) Nil
+Mass extending beyond capsule T4N0M0 IIA 5 (9.1) 2
+Mass with metastatic disease to one lymph node in axilla T4N1M0 III 1 (1.8) 1
+Mass with metastatic disease to multiple lymph nodes T4N2M0 III 1 (1.8) 1
+TNM, tumor, node, metastasis; BIA, breast implant–associated.
+649
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 6 ---
+Plastic and Reconstructive Surgery • October 2017
+Fig. 2. Cumulative proportion of patients with breast implant–associated ALCL per 10,000 implants for
+Allergan/McGhan (Biocell) versus Mentor (Siltex) implants. PU, polyurethane.
+Table 6. Calculated Implant-Specific Risk of Breast Implant–Associated ALCL per Number of Implants and Rates
+per 10,000 Implant Years for Patients Exposed to Single Implant Texture Type*
+No. of Implants per Single Rate per 10,000
+Implant No. Case of BIA-ALCL Implant-Years
+Biocell (Allergan/Inamed/McGhan) 31
+Mean 3817 0.39
+95% CI 2718–5545 0.27–0.55
+Polyurethane (Silimed) 6
+Mean 7788 0.31
+95% CI 3042–28,581 0.08–0.79
+Siltex (Mentor) 1
+Mean 60,631 0.028
+95% CI 10,882–2,397,471 0.001–0.156
+BIA, breast implant–associated.
+*Excluding exposure to smooth implants.
+Table 7. Topographic Surface Area Analysis for DISCUSSION
+Siltex, Biocell, and Polyurethane (Silimed) Textured
+This study has provided a detailed clinical and
+Implants versus Smooth Implants
+implant history of patients with breast implant–
+Implant Surface Area (mm2)* associated ALCL in Australia and New Zealand. To
+Polyurethane (Silimed) 146.7 date, this represents the most accurate numera-
+Biocell 27.9 tor and denominator for risk calculation of breast
+Siltex 12.4
+implant–associated ALCL in a specific population.
+Smooth (Mentor) 1.0
+The findings with respect to disease presentation
+*For 1 × 1-mm implant surface.
+and prognosis mirror findings in the literature.1,2
+Two patients with incomplete margins at origi-
+square millimeters. The findings showed Silimed nal surgery had local recurrence and one of these
+polyurethane to have the highest surface area by patients died, indicating the importance of an
+this method of calculation. Figure 3 shows images aggressive, oncologic clearance and assessment by
+of the confocal analysis for polyurethane, Biocell, a multidisciplinary team when dealing with this dis-
+and Siltex implant surfaces. ease.6 By contrast, we and others13 have confirmed
+650
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 7 ---
+Volume 140, Number 4 • Breast Implant–Associated ALCL
+Fig. 3. Two- and three-dimensional images of polyurethane, Biocell, and Siltex implants used for analysis of surface
+area. (Above, left) Siltex at 75× magnification. (Above, right) Three-dimensional image of Siltex texture. (Center, left)
+Biocell at 75× magnification. (Center, right) Three-dimensional image of Biocell texture. (Below, left) Polyurethane
+(Silimed) at 75× magnification. (Below, right) Three-dimensional image of polyurethane (Silimed) texture.
+that the mass type carries with it a poorer prog- inflammation from autoimmune and infectious
+nosis. There is ongoing debate as to whether the triggers results in overexpression of CD30, recruit-
+more indolent seroma type progresses inevitably ment of T cells, and eventual selection of a clone
+to the mass type of the disease or whether there with survival advantages and the establishment
+are two distinct breast implant–associated ALCL of malignancy.15 This process has a premalignant
+entities.14 There are similarities of the seroma lymphoproliferative phase, termed lymphoma-
+type with primary cutaneous ALCL.15 In pri- toid papulosis, which can progress into primary
+mary cutaneous ALCL, the presence of chronic cutaneous ALCL and regress into lymphomatoid
+651
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 8 ---
+Plastic and Reconstructive Surgery • October 2017
+papulosis.15,16 To support this, a recent report by The finding that 85 percent of patients in our
+Kadin and Glicksman17 has shown CD30+ clonal series have been exposed to higher-surface-area
+expansion in the setting of a late benign seroma. It textures and that these textures carry a higher
+may be, in time, that seroma type breast implant– risk of development of breast implant–associ-
+associated ALCL is eventually reclassified as an in ated ALCL strengthens the case for bacteria as
+situ malignancy or a mixture of in situ malignancy the cause of inflammation. We propose that the
+and lymphoproliferation based on closer analysis higher surface area acts as a passive conduit for the
+of T-cell populations both in seroma fluid and in growth and proliferation of bacteria, which, once
+the capsule. they reach a threshold, cause ongoing immune
+A number of hypotheses have been put for- activation and transformation in susceptible hosts
+ward to explain the genesis of breast implant– over time. Other observations also point to infec-
+associated ALCL. Our findings have shown that tion, including the cluster pattern of incidence,
+Biocell (salt loss) and (Silimed) polyurethane with some surgeons having multiple events, which
+textures carry a significantly higher risk of devel- could represent an infectious cluster from noso-
+comial contamination.
+oping breast implant–associated ALCL compared
+The implant-related risk in this series has given
+with Siltex (imprinted texture). Biomarkers also
+surgeons a clear metric with which to base their
+provide evidence to show that underlying inflam-
+decision-making. There are limitations to the sta-
+mation is the likely initiator of this disease.18 As
+tistical analysis; in particular, the small number
+for the cause of inflammation, the presence of
+of cases for Siltex and polyurethane resulting in
+chronic bacterial biofilm infection is emerging as
+wide confidence intervals, limited information on
+the likely culprit.19 It has been shown that textured
+deaths by other causes, short-duration follow-up
+implants, with their greater surface area, promote
+in some cases, reliance on the accuracy of sales
+higher levels of bacterial biofilm growth20 and that
+data supplied by manufacturers, cluster patterns
+this higher bacterial load produces a significant
+of incidence skewing the distribution, and the pos-
+and linear increase in lymphocyte activation.7
+sibility that there are other unidentified cases of
+Interestingly, Hu et al.7 found that polyurethane
+breast implant–associated ALCL through missed
+implants were associated with a significantly
+clinical and/or pathologic diagnosis. The pro-
+higher level of both bacterial contamination and
+pensity, however, of high-surface-area texture to
+lymphocyte activation in human contracture. A
+generate risks of breast implant–associated ALCL
+recent study has confirmed high levels of bacte-
+as high as one in 4000 implants should be bal-
+ria in breast implant–associated ALCL specimens,
+anced against the clinical advantages of the use of
+with a detection of a Gram-negative shift in the
+textured implants and the need to combine tex-
+microbiome as compared with traditional bio-
+tured implants with strong and proven strategies
+film species detected in capsular contracture.19
+to combat bacterial contamination at the time of
+The presence of higher levels of Gram-negative
+implant deployment. These strategies, reported as
+bacteria in breast implant–associated ALCL may
+the 14-point plan,21 provide surgeons and patients
+explain the pathway to proliferation and transfor-
+with the confidence that all is being done to
+mation that differs from inflammation and fibro-
+reduce the risk of bacterial contamination. Breast
+sis, which we see in capsular contracture.
+implants are unique in that they are placed into a
+Our surface area analysis has confirmed that
+contaminated pocket at the start. The aim of anti-
+polyurethane (Silimed) and Biocell texture have infective strategies is to reduce the bacterial load
+higher surface area compared with Siltex texture. so that biofilm contamination remains below the
+There are limitations to the imaging resolution threshold for host response. It is the presence of a
+with this method, and further work on the analysis threshold for host response to biofilm that answers
+of textured implant surface area and its relation- the commonly asked question that, if the biofilm
+ship with bacterial growth is ongoing and will be theory is true, why do textured implants not cause
+reported in due course. Furthermore, although higher rates of contracture? If contamination of
+the odds ratio and Kaplan-Meier analyses point to implants is kept below this threshold, the cycle of
+higher risk for Biocell implants, the implant-spe- biofilm-induced inflammation, contracture, and
+cific risk for Silimed polyurethane is impacted by potentially transformation of lymphocytes is thus
+the shorter duration of exposure in the Australian avoided.20 High-surface-area implants reduce the
+population. Further monitoring of both new cases margin of error, as they provide bacteria with a
+and sales data will allow better delineation of this better growth platform, so that anti-infective mea-
+risk moving forward. sures become even more critical.
+652
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 9 ---
+Volume 140, Number 4 • Breast Implant–Associated ALCL
+We are now in a position to move toward a uni-
+Anand K. Deva, B.Sc.(Hons.), M.B.B.S., M.S.
+fying hypothesis to explain the observed phenom- Suite 301, 2 Technology Place
+ena surrounding breast implant–associated ALCL. Macquarie Park
+The contamination of textured implants with a New South Wales 2109, Australia
+anand.deva@mq.edu.au
+higher surface area by bacteria leading to chronic
+antigen stimulation in genetically susceptible hosts
+over a prolonged period may result in transforma- ACKNOWLEDGMENTS
+tion of T cells into breast implant–associated ALCL.
+The authors wish to acknowledge the cooperation of
+We believe that the genesis of breast implant–associ-
+Mentor, Allergan, and Silimed in providing sales data
+ated ALCL is thus multifactorial, as is the case with
+for the analysis; Stephen Lade, M.D., for assistance
+most carcinogenesis. Recent findings of mutations
+with pathologic examination; Helen Hu and Durdana
+in the JAK/STAT3 pathway in patients with breast
+Chowdhury for assistance with surface area analysis;
+implant–associated ALCL have suggested that a
+and the Therapeutic Goods Administration for collabo-
+deficiency in response to chronic inflammation
+ration. Karen Vickery, B.V.Sc., Ph.D., is a recipient of
+may also play a role in malignant transformation.22
+the Macquarie University DVC innovation fellowship.
+Until such time as a credible alternative theory is
+proposed based on accumulation of clinical, epide-
+miologic, and scientific data, we should focus our REFERENCES
+efforts on both disease prevention through modifi-
+1. Brody GS, Deapen D, Taylor CR, et al. Anaplastic large
+cation of implant choice and combatting contami- cell lymphoma occurring in women with breast implants:
+nation of breast implants. A recent article by Adams Analysis of 173 cases. Plast Reconstr Surg. 2015;135:695–705.
+et al.23 has shown that application of anti-infec- 2. Miranda RN, Aladily TN, Prince HM, et al. Breast implant-
+tive strategies in 42,000 macrotextured implants associated anaplastic large-cell lymphoma: Long-term follow-
+up of 60 patients. J Clin Oncol. 2014;32:114–120.
+resulted in no recorded cases of breast implant–
+3. Ye X, Shokrollahi K, Rozen WM, et al. Anaplastic large cell
+associated ALCL. Our findings are consistent with
+lymphoma (ALCL) and breast implants: Breaking down the
+the importance of mitigating the risk of implant evidence. Mutat Res Rev Mutat Res. 2014;762:123–132.
+contamination as a key strategy to reduce the risk of 4. Clemens MW, Miranda RN, Butler CE. Breast implant
+subsequent breast implant–associated ALCL. informed consent should include the risk of anaplastic large
+cell lymphoma. Plast Reconstr Surg. 2016;137:1117–1122.
+Finally, this study raises the possibility of an
+5. Clemens MW, Miranda RN. Coming of age: Breast implant-
+increasing incidence of breast implant–associated
+associated anaplastic large cell lymphoma after 18 years of
+ALCL in Australia and New Zealand. Projections investigation. Clin Plast Surg. 2015;42:605–613.
+of implant sales show a significant increase in the 6. Clemens MW, Medeiros LJ, Butler CE, et al. Complete surgi-
+use of high-surface-area textured devices in the cal excision is essential for the management of patients with
+breast implant-associated anaplastic large-cell lymphoma. J
+past 5 years. As the mean time for development of
+Clin Oncol. 2016;34:160–168.
+this disease is approximately 8 years, it is of some
+7. Hu H, Jacombs A, Vickery K, Merten SL, Pennington DG,
+concern that we are in store for a rise in breast
+Deva AK. Chronic biofilm infection in breast implants is
+implant–associated ALCL in our population. As associated with an increased T-cell lymphocytic infiltrate:
+a response, we have engaged with government Implications for breast implant-associated lymphoma. Plast
+and regulatory authorities and plan to mature the Reconstr Surg. 2015;135:319–329.
+8. Singer J, Willett J. Applied Longitudinal Data Analysis: Modeling
+Australian Breast Device Registry to monitor and
+Change and Event Occurrence. New York: Oxford University
+respond to this eventuality.
+Press; 2003.
+9. boot: Bootstrap R (S-plus) Functions (computer program). 2016.
+10. R Core Team. R: A language and environment for statisti-
+CONCLUSIONS
+cal computing. Vienna, Austria: R Foundation for Statistical
+Our joint task force has captured 55 cases of Computing; 2016. Available at: http://www.R-project.org/.
+breast implant–associated ALCL in Australia and Accessed August 28, 2016.
+11. Zamar D, McNeney B, Graham J. erlm: Software implement-
+New Zealand diagnosed since 2007. The availabil-
+ing exact-like inference for logistic regression models. J Stat
+ity of an accurate numerator (number of cases/
+Software 2007;21:1–18.
+implant type) and denominator (sales data) has 12. Aragon TJ. Epidemiology Tools, 2012. Available at: https://
+shown a higher risk for high-surface-area textured CRAN.R-project.org/package=epitools. Accessed August 28,
+implants. A unifying hypothesis where texture 2016.
+surface area, bacterial contamination, and patient 13. Estes CF, Zhang D, Reyes R, Korentager R, McGinness M,
+Lominska C. Locally advanced breast implant-associated
+genetic susceptibility interact over time to pro-
+anaplastic large-cell lymphoma: A case report of successful
+duce T-cell transformation may provide an expla-
+treatment with radiation and chemotherapy. Front Oncol.
+nation for these observations. 2015;5:26.
+653
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.
+
+--- PÁGINA 10 ---
+Plastic and Reconstructive Surgery • October 2017
+14. Prince HM, Johnstone R. Commentary on: Biomarkers 19. Hu H, Johani K, Almatroudi A, et al. Bacterial biofilm infec-
+provide clues to early events in the pathogenesis of breast tion detected in breast implant-associated anaplastic large-
+implant-associated anaplastic large cell lymphoma. Aesthet cell lymphoma. Plast Reconstr Surg. 2016;137:1659–1669.
+Surg J. 2016;36:782–783. 20. Jacombs A, Tahir S, Hu H, et al. In vitro and in vivo investiga-
+15. Story SK, Schowalter MK, Geskin LJ. Breast implant-associ- tion of the influence of implant surface on the formation of
+ated ALCL: A unique entity in the spectrum of CD30+ lym- bacterial biofilm in mammary implants. Plast Reconstr Surg.
+phoproliferative disorders. Oncologist 2013;18:301–307. 2014;133:471e–480e.
+16. Davis TH, Morton CC, Miller-Cassman R, Balk SP, Kadin ME. 21. Deva AK, Adams WP Jr, Vickery K. The role of bacterial
+Hodgkin’s disease, lymphomatoid papulosis, and cutaneous biofilms in device-associated infection. Plast Reconstr Surg.
+T-cell lymphoma derived from a common T-cell clone. N 2013;132:1319–1328.
+Engl J Med. 1992;326:1115–1122. 22. Blombery P, Thompson E, Jones K, et al. Whole exome
+17. Kadin ME, Glicksman C. CD30+ T cells in late seroma may sequencing reveals activating JAK1 and STAT3 mutations in
+not be diagnostic of breast implant-associated anaplastic breast-implant associated anaplastic large cell lymphoma.
+large cell lymphoma. Aesthet Surg J. 2017;37:771–775. Haematologica 2016;101:e387–e390.
+18. Kadin ME, Deva A, Xu H, et al. Biomarkers provide clues 23. Adams WP Jr, Culbertson EJ, Deva A, et al. Macrotextured
+to early events in the pathogenesis of breast implant- breast implants with defined steps to minimize bacteria
+associated anaplastic large cell lymphoma. Aesthet Surg J. contamination around the device: Experience in 42,000
+2016;36:773–781. implants. Plast Reconstr Surg. (in press).
+654
+Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited.

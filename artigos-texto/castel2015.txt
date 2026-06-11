@@ -1,0 +1,385 @@
+--- PÁGINA 1 ---
+Copyright © 2015 The Korean Society of Plastic and Reconstructive Surgeons
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/
+licenses/by-nc/3.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. www.e-aps.org
+186
+elcitrA
+lanigirO
+Polyurethane-Coated Breast Implants Revisited:
+A 30-Year Follow-Up
+Nikki Castel, Taylor Soon-Sutton, Peter Deptula, Anna Flaherty, Fereydoun Don Parsa
+Department of Surgery, Division of Plastic Surgery, University of Hawai’i, John A. Burns School of Medicine, Honolulu, HI, USA
+Background Polyurethane coating of breast implants has been shown to reduce capsular Correspondence:
+contracture in short-term follow-up studies. This 30-year study is the longest examination of Fereydoun Don Parsa
+Department of Surgery, Division of
+the use of polyurethane-coated implants and their correlation with capsular contracture.
+Plastic Surgery, University of Hawai’i,
+Methods This study evaluates the senior surgeon’s (F.D.P.) experience with the use of polyurethane- John A. Burns School of Medicine,
+coated implants in aesthetic breast augmentation in 382 patients over 30 years. Follow-up 1329 Lusitania Street, Suite 807,
+Honolulu, HI 96813, USA
+evaluations were conducted for six months after surgery. After the six-month follow-up period,
+Tel: +1-808-526-0303
+76 patients returned for reoperation. The gross findings, histology, and associated capsular
+Fax: +1-808-536-8836
+contracture were noted at the time of explantation. E-mail: fdparsa@gmail.com
+Results No patient during the six-month follow-up period demonstrated capsular contracture.
+For those who underwent reoperation for capsular contracture, Baker II/III contractures were
+noted nine to 10 years after surgery and Baker IV contractures were noted 12 to 21 years after
+surgery. None of the explanted implants had macroscopic evidence of polyurethane, which
+was only found during the first five years after surgery. The microscopic presence of polyurethane
+was noted in all capsules up to 30 years after the original operation.
+Conclusions An inverse correlation was found between the amount of polyurethane coating
+on the implant and the occurrence of capsular contracture. Increasingly severe capsular
+contracture was associated with a decreased amount of polyurethane coating on the surface
+of the implants. No contracture occurred in patients whose implants showed incomplete
+biodegradation of polyurethane, as indicated by the visible presence of polyurethane coating.
+We recommend research to find a non-toxic, non-biodegradable synthetic material as an
+alternative to polyurethane.
+No potential conflict of interest relevant
+Keywords Polyurethanes / Implant capsular contracture / Breast implants to this article was reported.
+Received: 13 Nov 2014 • Revised: 6 Dec 2014 • Accepted: 9 Dec 2014
+pISSN: 2234-6163 • eISSN: 2234-6171 • http://dx.doi.org/10.5999/aps.2015.42.2.186 • Arch Plast Surg 2015;42:186-193
+INTRODUCTION theses had failed to achieve [1]. However, in 1988 the Food and
+Drug Administration (FDA) classified silicone and saline im-
+Dow Corning Corporation manufactured the first silicone gel plants as Class III devices, corresponding to the highest level of
+breast implant in 1962. In the 1970s, a second-generation sili- risk. The FDA required manufacturers of silicone gel-filled
+cone gel implant was introduced. The new implants were made breast implants to submit pre-market approval applications with
+of silicone, silicone gel, and urethane, and were designed to data providing a reasonable assurance of the safety and effective-
+achieve a natural, safe, and pleasing result that the previous pros- ness of the implants [2].
+
+--- PÁGINA 2 ---
+Vol. 42 / No. 2 / March 2015
+In 1991, Surgitek, a manufacturer of polyurethane-coated faction [7-22]. Polyurethane-coated implants have also been as-
+breast implants, voluntarily withdrew these implants from the sociated with a lower risk of long-term complications such as
+market in response to public safety concerns regarding 2,4-tolu- rupture, ptosis, bleeding, infection, and contracture, the last of
+enediamine (2,4-TDA), a breakdown product of polyurethane which is the focus of this paper.
+[3]. Studies of 2,4-TDA in animal models raised questions con- Although the exact mechanism that leads to capsular contrac-
+cerning the carcinogenicity of polyurethane-coated breast im- ture is unknown, research suggests that several factors influence
+plants. The National Cancer Institute exposed rats and mice to the incidence of contracture, including biofilms, infections, he-
+2,4-TDA through feeding. Resulting malignancies in these mod- matoma, irradiation, smoking, implant surface, subglandular
+els were tied to the 2,4-TDA exposure [4]. It was later discov- placement, the postoperative use of a surgical bra, and a periare-
+ered that these experiments administered supra-physiological olar incision site. Based on the Kaplan-Meier multivariate analy-
+levels of 2,4-TDA to the rat and mice models [5]. Meanwhile, sis, the two strongest contributing factors for capsular contrac-
+new evidence of polyurethane biodegradation emerged, which ture are smooth surface implants and subglandular placement.
+prompted further concern and investigation [6]. Additionally, the device size is inversely proportional to the risk
+When the FDA reported laboratory findings of 2,4-TDA re- of developing contracture: increased size is associated with a de-
+lease from degraded polyurethane foam, Bristol-Myers Squibb creased risk of capsular contracture. Inframammary incisions
+discontinued their Meme and Replicon polyurethane-coated have resulted in reduced contracture rates, but are not advisable
+implants [5]. In June 1991, the FDA requested that Bristol-My- for Grade I and II tubular or ptotic breast shapes less than 200 g
+ers Squibb investigate exposure to 2,4-TDA following polyure- in size, or when the inframammary crease is nonexistent or high
+thane degradation in coated implants [2,5]. During the same [23].
+time period, an FDA advisory panel determined that the risk of Histologic studies of contractures around all types of implants
+cancer associated with polyurethane was small and outweighed reveal that contracture is associated with a foreign body reaction
+by the risks associated with removal of the breast implants [2]. in which macrophages are predominant. In smooth layer im-
+Bristol-Myers Squibb enrolled subjects with polyurethane-coat- plants, a dense monolayer of inflammatory cells surrounds the
+ed implants, 16 to 102 months post-implantation, with an equal foreign body surface. Over time, the macrophages secrete sub-
+number of control subjects [5]. Hester et al. [6] examined the stances that attract fibroblasts and encourage them to prolifer-
+concentrations of polyurethane breakdown products in serum ate. The fibroblasts produce collagen, which produces circum-
+and urine samples in both groups. No subjects were found to ferential contracture when placed under tension by the fibrous
+have free 2,4-TDA, 2,6-TDA, or 4-acetyl TDA in serum sam- tissue. A polyurethane coating, however, rids implants of their
+ples. Urine analysis of the implant group revealed quantifiable smooth layer. Microscopic analyses have shown that polyure-
+amounts of free 2,4-TDA in 30 subjects and detectable amounts thane produces an irregular, interconnected coating that resem-
+in 18. Urine analysis of the control group revealed no subjects bles a spongy meshwork, allowing the foreign body reaction to
+with quantifiable amounts of free 2,4-TDA and seven subjects fill the spaces in the meshwork. Instead of creating a single lon-
+with detectable amounts [6]. Taking into account that TDA has gitudinal collagen capsule, as in smooth implants, the collagen
+a half-life of 21 months, the authors established an upper limit must be deposited along the irregular spongy shape of the coat-
+for the lifetime theoretical risk of cancer of 1.1 in one million for ing. The tension from the fibrous tissue is thus spread around
+a single pair of polyurethane coated implants [6]. This estimate the implant as a whole instead of extending in one linear direc-
+assumes that 2,4-TDA is carcinogenic in humans, which has tion, reducing the incidence of contracture [24].
+never been proven [6]. Another factor leading to a decreased incidence of contracture
+Using the Bristol-Myers Squibb study as a reference, the FDA in polyurethane-coated implants is the biodegradation of poly-
+released a statement in 1995 reaffirming its conclusion on the urethane, which causes it to fragment. The fragments are phago-
+safety of polyurethane-coated implants. The FDA stated that cytized by macrophages and produce the same foreign body re-
+based on this study, the risk of developing cancer from polyure- action described above, forming microcapsules. Each microcap-
+thane-coated implants is negligible [5]. sule is individually enveloped in fibrotic tissue, preventing the
+Several studies have been conducted regarding the safety of organized alignment of myofibroblasts, which in turn prevents
+polyurethane-coated breast implants without finding evidence the alignment of force vectors needed for the development of
+of a causal relationship to malignancy or toxicity. These studies capsular contracture. Although this property of polyurethane
+also report that the use of polyurethane-coated breast implants coating contributes to the decreased incidence of contracture, it
+results in a superior aesthetic outcome with greater patient satis- also increases the rate of degradation. In most cases, the poly-
+187
+
+--- PÁGINA 3 ---
+Castel N et al. Polyurethane-coated breast implants
+urethane foam coating begins to disappear about two years after cone gel implants. From 1982 until their discontinuation in
+surgery [24]. 1991, 764 polyurethane implants were inserted in 382 patients.
+Our goal in this study was to evaluate the long-term complica- All patients were asked to return for follow-up visits at one week,
+tions of polyurethane-coated breast implants, focusing primarily four weeks, six weeks, and six months after surgery.
+on capsular contracture and its correlation with the presence of
+polyurethane coating on the surface of the prosthesis at the time Evaluation
+of explantation. After six months of follow-up, 76 patients returned to the senior
+surgeon’s clinic at various intervals for reoperation over a 30-
+METHODS year period. Photographs of the implants were taken at the time
+of explantation and capsules were submitted for microscopic ex-
+Surgical technique amination. Indications for reoperation, intraoperative findings,
+All procedures were primary breast augmentations performed microscopic findings, and factors correlating with capsular con-
+by the same senior surgeon (F.D.P.) or under his direct supervi- tracture at the time of reoperation were documented. The de-
+sion. Only polyurethane-coated implants from Bristol-Myers gree of capsular contracture was recorded based on the Baker
+Squibb were used in this study. Half of the implants were round scale: Baker I indicates no contracture, Baker II/III refers to mild
+(Meme) and the others were anatomical implants (Replicon). to moderate contracture with no breast deformity, and Baker IV
+The polyurethane coating was identical in both round and ana- indicates severe contracture with a visible breast deformity. In
+tomical implants. All devices were placed through inframamma- patients who had contracture on only one side, or if one breast
+ry incisions. showed less contracture, the side with the higher degree of con-
+tracture was reported.
+Infection prophylaxis
+A strict no-touch protocol was utilized for all patients. All pock- RESULTS
+ets were irrigated with a 5% solution of betadine (povidone-io-
+dine) before implant insertion. Closed-tube drainage was em- From 1981 to 1991, 764 polyurethane-coated silicone gel im-
+ployed in all patients, and the tubes were removed within two to plants were inserted in 382 patients. Of this group, all 382 pa-
+five days. Intravenous cephalosporin was administered as a sin- tients were seen at a one-week follow-up, 378 were seen at four
+gle dose at the start of the operation. No additional antibiotics weeks; 322 were seen at six weeks, and 288 were seen at six
+were provided thereafter. months after surgery. No patient during this follow-up period
+experienced capsular contracture. A normal postoperative pa-
+Patient population tient eight years after surgery experienced no capsular contrac-
+We reviewed the records from 1982 to 2013 of patients who had ture, as shown in Figs. 1 and 2.
+undergone breast augmentation with polyurethane-coated sili- Seventy-six patients (19.9%) underwent reoperation based on
+various indications, as shown in Table 1. The indications for re-
+Fig. 1. Anterior view eight years post-surgery
+A patient is shown demonstrating no contracture eight years after Fig. 2. Lateral view eight years post-surgery
+submuscular augmentation with 350 mL round Méme implants,
+placed through inframammary incisions. A lateral view is shown of the same patient as in Fig. 1.
+188
+
+--- PÁGINA 4 ---
+Vol. 42 / No. 2 / March 2015
+Table 1. Indications for reoperation Fig. 3. Anterior view 29 years post-surgery with grade III
+contracture
+No. of patients Percent with a given
+Reason for reoperation (n=82) complication (%) A patient is shown demonstrating grade III contracture 29 years af-
+ter subglandular augmentation with 400 mL Replicon implants,
+Desire to exchange implant 51 13.4
+placed through inframammary incisions.
+for saline prosthesis
+Capsular contracture: total 9 2.4
+Capsular contracture: 2 0.5
+Baker II/III
+Capsular contracture: 7 1.8
+Baker IV
+Ruptured implant: suspected 12 3.1
+Ruptured implant: found at 9 2.4
+exploration
+Immediate hematoma 5 1.3
+(within 24 hr)
+Delayed bleed 2 0.5
+Infectiona) 1 0.3
+Ptosis and displaced 2 0.5
+inframammary fold
+Removed without 16 4.2
+replacement
+The number of patients who developed complications requiring reoperation and
+Fig. 4. Lateral view 29 years post-surgery
+the resulting 30-year complication rates are shown, following initial breast
+augmentation surgery in 382 patients.
+A lateral view is shown of the same patient as in Fig. 3.
+a)No evidence of actual infection after explantation. Erythema was secondary to
+inflammatory response to polyurethane.
+operation were as follows: the desire to change polyurethane-
+coated implants to saline prostheses of the same or a different
+size (51 patients), capsular contracture (9 patients) (Baker II/
+III, 2; Baker IV, 7), a suspected ruptured implant (12 patients, of
+whom 9 were confirmed as having ruptured implants), immedi-
+ate hematoma (5 patients), delayed bleeding (2 patients), cap-
+sular ptosis (2 patients), infection (1 patient), and the desire to
+remove implants without a replacement (16 patients). Patients
+who requested replacements after the removal of the polyure-
+thane implants were given various replacements over the period
+encompassed by this study. Before 1992, gel implants, including 3 and 4. The remaining seven patients were determined to have
+polyurethane-coated implants, were used. In 1992, all gel im- Baker IV contracture at office visits that occurred 12, 13, 14, 15,
+plants were taken off the market in the United States, and there- 17, 18, and 21 years after surgery, with a mean follow-up time of
+fore textured saline implants were used between 1992 and 2006. 16 years.
+The FDA reapproved the use of gel implants in 2006, after Macroscopic evidence of polyurethane was noted on the sur-
+which textured gel implants were exclusively used. face of implants upon explantation up to five years after the origi-
+Among the 288 patients (75.4%) who returned for their six- nal operation (Fig. 5). Beginning at six years after the operation,
+month follow-up visit, soft breasts (Baker I) were noted in all pa- the polyurethane gradually disintegrated and eventually disap-
+tients. Of the 76 patients who eventually underwent reoperation, peared, as shown in Fig. 6. In contrast, polyurethane was present
+as described in Table 1, all patients demonstrated soft breasts with microscopically within all capsules during the entire observa-
+no contracture (Baker I) at their six-month follow-up visit. After tion period of 30 years.
+this period, 67 patients continued to show no contracture (Baker Histologic studies of removed capsules revealed vacuoles and
+I) and nine patients experienced capsular contracture of different indications of a foreign body reaction (Fig. 7). Although no spe-
+degrees. Baker II/III contracture was noted in two of the nine cific laboratory test is available to determine whether polyure-
+patients at nine and 10 years after surgery. One of the patients thane was the source of these changes, we assume that these
+with grade III contracture is shown 29 years after surgery in Figs. findings were the result of polyurethane material embedded in
+189
+
+--- PÁGINA 5 ---
+Castel N et al. Polyurethane-coated breast implants
+Fig. 5. Polyurethane implants four to five years post- Fig. 7. Histology of capsular contractures
+surgery
+After reoperation for capsular contracture, histologic analysis of the
+Explantation up to five years after breast augmentation surgery contracture shows vacuoles and a foreign body reaction (H&E,×75).
+demonstrates that macroscopic remnants of polyurethane are pres-
+ent on the surface of all implants.
+Fig. 8. Capsular ptosis
+Fig. 6. Polyurethane implants six to 10 years post-surgery Left breast capsular ptosis after submuscular breast augmentation.
+The implant was completely detached from its coating.
+Beginning at six years after the operation, no macroscopic presence
+of polyurethane on the surface of implants can be observed. This is
+also demonstrated at eight and 10 years after the operation.
+curring nine years after augmentation mammoplasty, with pho-
+tographs of the complication, was previously reported in the
+capsular tissue. Journal of Aesthetic Plastic Surgery in 2004. This case of late he-
+Immediate postoperative bleeding within six to 12 hours after matoma was thought to be due to chronic inflammation in re-
+surgery occurred in five patients (1.3%). These cases required sponse to the polyurethane [25].
+exploration and evacuation of the hematoma within 24 hours. One patient was treated for infection of both breasts in 1983,
+All cases were unilateral. None had predisposing causes such as during the early period of our experience with the use of poly-
+hypertension or coagulopathy. None of these patients devel- urethane implants. Exploration was carried out because of ery-
+oped capsular contracture during their follow-up visits with the thema noted on postoperative day four. Despite antibiotic treat-
+senior surgeon and no colleagues who may have later seen these ment, the erythema progressed to involve the entirety of both
+patients reported any incidence of capsular contracture. breasts by postoperative day six. Although no fever or other sys-
+Late hematomas requiring exploration occurred in two pa- temic symptoms were present, the patient was explored for pos-
+tients (0.5%): one at nine years and one at 23 years. The causes sible bilateral implant infection on postoperative day nine. No
+of bleeding were unknown. The sole case of late hematoma oc- gross evidence of infection was noted. Gram staining and cul-
+190
+
+--- PÁGINA 6 ---
+Vol. 42 / No. 2 / March 2015
+Fig. 9. Capsulorrhaphy technique Fig. 10. Capsular contracture after surgery
+This image demonstrates the cap- Before the disappearance of macroscopic polyurethane, no cases of
+sulorrhaphy technique used on the capsular contracture were noted. Beginning at three to four years
+patient in Fig. 8 to correct her cap- after the disappearance of macroscopic polyurethane, Baker II, III,
+sular ptosis. and IV contractures developed, with increasing incidence thereafter.
+2.5
+2
+1.5
+1
+0.5
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+tures were negative. The patient did not develop any infection,
+capsular contracture, or other problems during her six-month
+follow-up period.
+With more experience in the use of these implants, we learned
+that erythema commonly occurs after polyurethane implanta-
+tion. This may be secondary to an inflammatory response to
+polyurethane. The erythema subsides spontaneously with no
+treatment. Erythema of this type was recorded in 93 patients
+(24.3%) and was bilateral in all cases. The degree and extent of
+erythema varied in each breast. No fever, pain, tenderness, or
+swelling accompanied the erythema. These findings were typi-
+cally noted on the third to fifth day after implantation and sub-
+sided gradually within two to three weeks.
+Capsular ptosis with inferior displacement of the implants oc-
+curred in two patients. In both cases, the ptosis was unilateral. In
+one patient, the implant was completely detached from its sur-
+rounding capsule on the ptotic side. This patient is shown in
+Fig. 8. The capsulorrhaphy technique, demonstrated in Fig. 9,
+was utilized to correct this condition [8]. In the other patient,
+however, the polyurethane remained attached to the capsule.
+The mechanism of this case of ptosis is obscure since it was not
+present during the initial follow-up period [7,8].
+DISCUSSION
+Our study shows a 2.4% incidence of contracture (Baker II–IV)
+during this extended follow-up period. Other studies show a wide
+range of capsular contracture incidence, ranging from 0.98% over
+10 years to 30% over 25 years [9-15]. These rates of contracture
+191
+)%(
+etar
+erutcartnoC
+Contracture rate (Baker II, III, IV) after surgery
+Disappearance of
+macroscopic polyurethane
+Years after surgery
+in polyurethane-coated implants are significantly lower than
+those reported for smooth implants. Coleman et al. [15] report-
+ed an 8% contracture rate for non-polyurethane textured im-
+plants compared to 58% for smooth implants after 12 months of
+follow-up.
+We postulate that the significantly lower rate of capsular con-
+tracture observed with polyurethane-coated breast implants may
+be attributed to a high degree of adhesiveness to the adjacent
+tissues, due to both the particular material used in the coating
+and the microscopic structure of the surface.
+The polyurethane coating was examined macroscopically after
+explantation up to five years after surgery. The earliest incidence
+of capsular contracture (Baker II/III) was noted nine years after
+surgery. This observation correlates with our overall observa-
+tion that polyurethane gradually degrades from five to nine years
+after implantation. Beyond nine years after implantation, no
+coating was present in any patient, which is when we noted an
+increasing incidence and severity of contracture. This observa-
+tion demonstrates a distinct correlation between the gradual
+disappearance of polyurethane coating and both the occurrence
+and severity of capsular contracture (Fig. 10).
+The suspected rupture rate in this study before exploration
+was 3.1% while the observed rupture rate was 2.4%. Other stud-
+ies show rupture rates below 6%, similar to ours [11-17].
+Unlike contracture and rupture rates, the infection rates report-
+ed in the literature do not vary widely. The reported rates are
+relatively low, ranging from 1.1% to 3.4% [11,12,14,16]. We ob-
+served a 0.3% rate of suspected infections that required explora-
+tion, but no patient developed a clinical infection that required
+explantation. The protocol for infection prophylaxis is discussed
+in the materials and methods section.
+Postoperative bleeding occurred in 1.3% of patients within six
+to 12 hours of surgery and 0.5% developed a late hematoma, at
+
+--- PÁGINA 7 ---
+Castel N et al. Polyurethane-coated breast implants
+nine and 23 years after surgery, respectively. Thus, the total bleed- ties. Silver Spring, MD: U.S. Food and Drug Administra-
+ing complication rate was 1.8%. These rates are similar to those tion; 2013 [cited 2015 Jan 12]. Available from: http://www.
+reported by other authors [12-17]. fda.gov/MedicalDevices/ProductsandMedicalProcedures/
+The main limitation of this study relates to return visits by pa- ImplantsandProsthetics/BreastImplants/ucm064242.htm.
+tients. The complication rates reported in this study are contin- 3. Van Zele D, Heymans O. Breast implants. A review. Acta
+gent upon patients returning for follow-up visits. Some patients Chir Belg 2004;104:158-65.
+may have left the state or undergone reoperation by other sur- 4. National Toxicology Program. Bioassay of 2,4-diaminotolu-
+geons without our knowledge. Therefore, the data presented in ene for possible carcinogenicity. Natl Cancer Inst Carcinog
+this study may not reflect the exact incidence of re-exploration. Tech Rep Ser 1979;162:1-139.
+In summation, this 30-year study is the longest investigation of 5. Pharma and MedTech Business Intellignece. The gray sheet:
+the clinical and histologic outcomes following breast augmenta- bristol-myers squibb polyurethane-coated breast implant
+tion with polyurethane-coated implants. We found that polyure- study [Internet]. Informa Business Information Inc.; 1993
+thane-coated breast implants are associated with significantly [cited 2015 Jan 12]. Available from: https://www.pharmamed-
+less risk of capsular contracture compared to other types of im- techbi.com/publications/the-gray-sheet/19/040/bristol-
+plants, including both smooth and textured surface implants. myers-squibb-polyurethanecoated-breast-implant-study.
+The presence of macroscopic polyurethane coating on the sur- 6. Hester TR Jr, Ford NF, Gale PJ, et al. Measurement of
+face of implants correlated directly with a 0% incidence of cap- 2,4-toluenediamine in urine and serum samples from wom-
+sular contracture. As the coating gradually disintegrated, typi- en with Meme or Replicon breast implants. Plast Reconstr
+cally starting around five years after implantation, capsular con- Surg 1997;100:1291-8.
+tracture began to occur. Soft breasts (Baker I) were always cor- 7. Parsa FD. Displaced inframammary fold after Meme breast
+related with presence of the polyurethane coating. In contrast, augmentation. Plast Reconstr Surg 1988;81:643-4.
+when no coating was macroscopically observable at the time of 8. Parsa FD. Breast capsulopexy for capsular ptosis after aug-
+exploration, various degrees of capsular contracture were noted. mentation mammaplasty. Plast Reconstr Surg 1990;85:809-
+Although macroscopic evidence of polyurethane was absent af- 12.
+ter five years, polyurethane material was microscopically docu- 9. Collis N, Coleman D, Foo IT, et al. Ten-year review of a pro-
+mented within the capsules of all patients up to 30 years after spective randomized controlled trial of textured versus
+surgery. We postulate that the long-term presence of microscop- smooth subglandular silicone gel breast implants. Plast Re-
+ic polyurethane material may contribute to the lower incidence constr Surg 2000;106:786-91.
+of contracture in polyurethane-coated implants compared to 10. Cohney BC, Mitchell S. An improved method of removing
+non-coated implants. polyurethane foam-covered gel prostheses. Aesthetic Plast
+Polyurethane implants have not been reintroduced in the US Surg 1997;21:191-2.
+since their discontinuation in 1992. Studies have shown poten- 11. Henriksen TF, Fryzek JP, Holmich LR, et al. Reconstructive
+tial toxicity with polyurethane and our studies have shown that breast implantation after mastectomy for breast cancer: clin-
+it tends to disintegrate. However, due to its superior aesthetic ical outcomes in a nationwide prospective cohort study. Arch
+outcome and significantly lower rates of capsular contracture, Surg 2005;140:1152-9.
+we encourage further studies investigating alternative non-bio- 12. Kulmala I, McLaughlin JK, Pakkanen M, et al. Local com-
+degradable and non-toxic materials similar in structure to poly- plications after cosmetic breast implant surgery in Finland.
+urethane. A non-biodegradable material would coat implants for Ann Plast Surg 2004;53:413-9.
+an extended period of time, which would further decrease the 13. Vazquez G. A ten-year experience using polyurethane-cov-
+incidence of capsular contracture and perhaps eliminate it alto- ered breast implants. Aesthetic Plast Surg 1999;23:189-96.
+gether. 14. Handel N, Cordray T, Gutierrez J, et al. A long-term study of
+outcomes, complications, and patient satisfaction with breast
+REFERENCES implants. Plast Reconstr Surg 2006;117:757-67.
+15. Coleman DJ, Foo IT, Sharpe DT. Textured or smooth im-
+1. Ashley FL. A new type of breast prosthesis. Preliminary re- plants for breast augmentation? A prospective controlled tri-
+port. Plast Reconstr Surg 1970;45:421-4. al. Br J Plast Surg 1991;44:444-8.
+2. U.S. Food and Drug Administration. FDA breast implant 16. Kjoller K, Holmich LR, Jacobsen PH, et al. Epidemiological
+consumer handbook 2004: timeline of breast implant activi- investigation of local complications after cosmetic breast im-
+192
+
+--- PÁGINA 8 ---
+Vol. 42 / No. 2 / March 2015
+plant surgery in Denmark. Ann Plast Surg 2002;48:229-37. implant failure: evaluation of properties of shells and gels for
+17. Gabriel SE, Woods JE, O’Fallon WM, et al. Complications explanted prostheses and meta-analysis of literature rupture
+leading to surgery after breast implantation. N Engl J Med data. Ann Plast Surg 2002;49:227-42.
+1997;336:677-82. 22. Brown SL, Pennello G, Berg WA, et al. Silicone gel breast im-
+18. Peters W, Keystone E, Smith D. Factors affecting the rupture plant rupture, extracapsular silicone, and health status in a
+of silicone-gel breast implants. Ann Plast Surg 1994;32:449- population of women. J Rheumatol 2001;28:996-1003.
+51. 23. Stevens WG, Nahabedian MY, Calobrace MB, et al. Risk fac-
+19. de Camara DL, Sheridan JM, Kammer BA. Rupture and ag- tor analysis for capsular contracture: a 5-year Sientra study
+ing of silicone gel breast implants. Plast Reconstr Surg 1993; analysis using round, smooth, and textured implants for breast
+91:828-34. augmentation. Plast Reconstr Surg 2013;132:1115-23.
+20. Robinson OG Jr, Bradley EL, Wilson DS. Analysis of explant- 24. Brand KG. Foam-covered mammary implants. Clin Plast
+ed silicone implants: a report of 300 patients. Ann Plast Surg Surg 1988;15:533-9.
+1995;34:1-6. 25. Brickman M, Parsa NN, Parsa FD. Late hematoma after
+21. Marotta JS, Goldberg EP, Habal MB, et al. Silicone gel breast breast implantation. Aesthetic Plast Surg 2004;28:80-2.
+193

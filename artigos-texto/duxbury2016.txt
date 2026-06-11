@@ -1,0 +1,590 @@
+--- PÁGINA 1 ---
++ MODEL
+JournalofPlastic,Reconstructive&AestheticSurgery(2016)xx,1e9
+REVIEW
+Systematic review of the effectiveness of
+polyurethane-coated compared with
+textured silicone implants in breast surgery
+Paula J. Duxbury a,b, James R. Harvey a,b,*
+aUniversity of Manchester, ManchesterAcademic Health Science Centre,46Grafton Street,
+Manchester M13 9NT,UK
+bNightingale Centre,University Hospital ofSouth Manchester,Wythenshawe Hospital, Southmoor
+Road,Manchester M23 9LT,UK
+Received28May2015;accepted11January2016
+KEYWORDS Summary Background:Silicone gel implants are used worldwide for breast augmentation
+Breast implants; andbreastreconstruction.Texturedsiliconeimplantsarethemostcommonlyplacedimplant,
+Mammaplasty; butpolyurethane-coatedimplantsareincreasinglybeingusedinanattempttoamelioratethe
+Polyurethanes; long-termcomplicationsassociatedwithimplantinsertion.
+Morbidity; Methods:ThissystematicreviewwasconductedaccordingtothePreferredReportingItemsfor
+Silicone gels; SystematicReviewsandMeta-analysesguidelines.ElectronicsearchesofMEDLINE,EMBASE,the
+Review CochraneLibraryandwww.ClinicalTrials.govwereundertakeninMarch2014usingkeywords.
+Results:Followingdataextraction,18studieswereincludedinthereview,includingfourcore
+studies of textured silicone implants and five studies reporting outcomes for polyurethane-
+coatedsiliconeimplants.Therearenocleardatareportingrevisionratesinpatientstreatedwith
+polyurethaneimplants.Intheprimaryreconstructivesetting,capsularcontracturerateswithsil-
+iconeimplantsare10e15%at6years,whilststudiesofpolyurethaneimplantsreportratesof1.8
+e3.4%.Intheprimaryaugmentationsetting,corestudiesshowacapsularcontracturerateof2
+e15%at6yearscomparedwith0.4e1%inpolyurethane-coatedimplants;however,thepolyure-
+thanestudiesarelimitedbytheirdesignandpoorfollow-up.
+Conclusions:Theuseofpolyurethaneimplantsshouldbeconsideredasafealternativetotextured
+siliconeimplants.Itislikelythatanimplantsurfacedoesinfluenceshort-andlong-termoutcomes;
+however,theextentofanybenefitcannotbedeterminedfromtheavailableevidencebase.
+Futureimplantstudiesshouldtargettheshort-andlong-termbenefitsofimplantsurfacingby
+* Corresponding author. Nightingale Centre, University Hospital of South Manchester, Wythenshawe Hospital, Southmoor Road,
+ManchesterM239LT,UK.Tel.:þ44(0)1612914436;fax:þ44(0)1612914435.
+E-mailaddress:James.Harvey@uhsm.nhs.uk(J.R.Harvey).
+http://dx.doi.org/10.1016/j.bjps.2016.01.013
+1748-6815/ª2016BritishAssociationofPlastic,ReconstructiveandAestheticSurgeons.PublishedbyElsevierLtd.Allrightsreserved.
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013
+
+--- PÁGINA 2 ---
++ MODEL
+2 P.J.Duxbury,J.R.Harvey
+procedurewithdefinedoutcomemeasures;ahead-to-headcomparisonwouldhelpclarifyout-
+comes.
+ª2016BritishAssociationofPlastic,ReconstructiveandAestheticSurgeons.Publishedby
+ElsevierLtd.Allrightsreserved.
+Contents
+Introduction ......................................................................... 00
+Methods ............................................................................ 00
+Search strategy ..................................................................... 00
+Selection criteria .................................................................... 00
+Data extraction ..................................................................... 00
+Results ............................................................................. 00
+Description of studies................................................................. 00
+Surgical revision..................................................................... 00
+Capsular contracture ................................................................. 00
+Other complications .................................................................. 00
+Haematoma ...................................................................... 00
+Seroma ......................................................................... 00
+Malposition ...................................................................... 00
+Rash/inflammation/irritation ......................................................... 00
+Infection ........................................................................ 00
+Discussion ........................................................................... 00
+Conclusions .......................................................................... 00
+Conflicts ofinterest .................................................................... 00
+Supplementary data .................................................................... 00
+References .......................................................................... 00
+Introduction silicone implants does not occur.7 This may be due to the
+polyurethane coating preventing the organised alignment
+of myofibroblasts, thereby interrupting the strength
+Worldwide, silicone gel- and saline-filled implants are
+requiredforcapsularcontracturetooccur.8Followingtheir
+offered for breast augmentation and post-mastectomy
+breast reconstruction.1,2 Silicone implants have been used introduction, the use of polyurethane implants spread
+worldwide (to >35 countries, including Europe, Australia
+in this setting since 1962; however, their use declined
+worldwideduetosafetyconcernsinthe1990s.3Asadirect andAsia, aswell asthe USAandUK).9
+However, in 1991, a specific association was reported
+result of safety concerns, in 1988, the US Food and Drug
+between polyurethane and the carcinogen 2,4-
+Administration (FDA) set up a process by which all manu-
+toluenediamine (TDA).10 This led to a complete prohibi-
+facturers were required to demonstrate safety and effec-
+tionofpolyurethane-coatedsiliconeimplantsintheUSAby
+tiveness in a premarket approval application. Silicone
+the FDA, which has never been lifted. In the UK, in 1992,
+implants were therefore designed to meet performance
+polyurethane-coated implants were likewise prohibited
+andsafetybenchmarksbeforebeingassessedandapproved
+althoughsurgicaluseofsiliconegelimplantswassustained.
+bytheFDA.Thisprocesshasledtogood-quality,long-term
+Measures were taken in the UK to monitor the safety and
+data being available on large cohorts of patients with sili-
+effectiveness of breast implant procedures, and investiga-
+cone implants. All breast implants are associated with
+tion into the carcinogenic risk of polyurethane found it to
+complications; the most frequently reported are capsular
+be‘small,unquantifiable’.11TheCEMarkwasintroducedin
+contracture, reoperation and removal. Additional compli-
+Europe in 1996 for approval of all medical devices. For
+cations include implant rupture, infection, asymmetry,
+wrinkling,scarring andpain.4 certification of breast implants, manufacturers were
+required to provide evidence of standards of materials,
+Polyurethane foam coatings were developed to cover
+manufacturing and quality assurance. By default, this
+silicone implants and were first used in the 1970s. Studies
+conferred approval of polyurethane-coated implants for
+have indicated that polyurethane-coated silicone implants
+mayreducecapsularcontracture.5,6Afterformationofthe clinical use in the UK was upheld by the Medicines and
+Healthcare productsRegulatory Agency (MHRA) in2005.12
+capsule around the implant, the polyurethane coating
+Despite this controversy, surgical use of polyurethane-
+breaks down to become part of the capsule, and it is
+coated implants continued in other countries. As the key
+hypothesised that the tightening observed with traditional
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013
+
+--- PÁGINA 3 ---
++ MODEL
+Reviewsilicone versuspolyurethaneimplants 3
+concern regarding carcinogenic properties has been dis- Itwasnotpossibletoapplyanymeta-analyticalordata
+charged, it would be timely to appraise research on the pooling techniques to the data collected due to the het-
+effectiveness of polyurethane-coated silicone implants. erogeneity of patient samples and follow-up, implant de-
+This systematic review aims to critically compare the re- tailsandcomplications reported.
+ported complication rates between polyurethane-coated
+silicone implants and textured silicone implants to deter- Results
+mine if an implant surface is more effective in reducing
+long-term morbidity.
+Description of studies
+Methods A total of 40 studies fulfilled inclusion criteria, comprising
+seven FDA core study reports on silicone implants, 29
+retrospective cohort studies and four prospective cohort
+Search strategy
+studies (Figure 1).
+Following data extraction, 12 retrospective cohort
+This systematic review was conducted according to the
+studies, one prospective cohort study and seven FDA core
+Preferred Reporting Items for Systematic Reviews and
+studiescontributeddatathatcouldbeextractedbyimplant
+Meta-analyses(PRISMA)guidelines.13Electronicsearchesof
+type and were procedure specific (Table 1).7,15e33 The
+MEDLINE, EMBASE, the Cochrane Library and www.
+outcomedatareportedintheother20studieswerenotsuf-
+ClinicalTrials.gov were undertaken in March 2014 using
+ficientlyspecifiedintermsofsurgicalprocedureandimplant
+keywords (Appendix 1). Relevant articles were indepen- type to facilitate comparison.34e53 Eight of the studies re-
+dentlyselectedfromtitlesandabstractsandthenfromthe ported data from polyurethane implants.7,23e26,31e33 For
+full text of the manuscript. Further articles that were
+texturedsiliconeimplants,datafromthecorestudieswere
+missed by the search strategy wereidentified by a manual
+generally used as a comparison group as these data
+search ofthe references ofkey articles.
+were collected prospectively with good methodology in
+comparison with other included studies (see NOS scores;
+Selection criteria Table1).
+The search was limited to studies of adult human partici- Surgical revision
+pants, published in English, between January 1993 and
+March2014;thiswastoensurethatonlymoderndesignsof Thirteen studies15e21,24,26e30 reported data on surgical
+textured silicone and polyurethane implants were
+revision,onlyonereportingdataonpolyurethaneimplants
+compared. Reviews, editorials, case reports, letters and (Table 1).24
+comments were excluded, and only studies or case series
+Therearenocomparativedataforbreastreconstruction
+involving at least 100 implants overall were included
+patients.
+(Appendix2).Thequalityofrelevantstudieswasappraised
+The core studies of textured silicone implants reported
+usingtheNewcastleeOttawaQualityAssessmentScale(NOS)
+KaplaneMeier risk rates for reoperation at 6 years in pri-
+for cohort or caseecontrol studies (Table 1).14 Any dis-
+mary augmentation patients ranging from 18 to 28% at 6
+agreementswereresolvedbystudyreviewanddiscussion. years.16,17,19,20 One study reported on polyurethane im-
+plants,24 this being a mixed series of mainly breast aug-
+mentations, redoaugmentations for capsular contracture40
+Data extraction
+and a small number of breast reconstructions.20 The over-
+all rate of revision across all cohorts was just 1.2% at a
+Data reporting the incidence of complications was extrac-
+mean follow-up of 7 years.24 Rates quoted in this paper
+tedfromallpapers.Theprimaryoutcomesexaminedwere
+were per implant rather than per patient as in the core
+surgical revision rate and capsular contracture rate. Sec-
+studies; this equates to a rate of approximately 2.4% per
+ondary outcomes relating to implant safety and morbidity
+patient inthis study.24
+were also examined: implant extrusion, pain, cancer, size
+change, rash/irritation/inflammation, seroma, infection,
+asymmetry, malposition, haematoma, wrinkling/rippling Capsular contracture
+andrupture.
+Studiesincludedinthisreviewarosefromcosmeticand The incidence of Baker III/IV capsular contr
+reconstructive surgical fields. To facilitate direct compari- acture7,15e21,24,27,28,30e33 was reported in 15 studies, with
+sons of incidence following primary augmentation or pri- fivestudies reporting on polyurethaneimplants.7,24,30,31,33
+mary reconstruction only, and polyurethane or silicone The KaplaneMeier risk rate for capsular contracture in
+implantsonly,complicationdatawereseparatedaccording breast reconstruction patients with silicone implants
+to surgical procedureandtype ofimplant. rangedfrom10.1%to15.9%at6years,16e18andwas24.6%
+Manyofthestudieswerecaseseriesandassuchdidnot at 10 years.20 In patients receiving polyurethane implants,
+provide a direct comparison of implant type for each type capsular contracture occurred in 1.8e3.4%30,31 of patients
+ofsurgicalprocedure.Authorsofstudieswithmixedgroups at 8 and 4 years, respectively, although only Grade IV
+ofpatientswerecontacteddirectlyforclarificationofdata capsular contracture was observed in one study.32 In both
+sets, andthesedatawereincludedwhen validated. of these studies, the appearance of capsular contracture
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013
+
+--- PÁGINA 4 ---
++ MODEL
+4 P.J.Duxbury,J.R.Harvey
+Table1 Characteristicsofstudiesincluded.
+Study NOSa Keystudydetailsb Patientcohorts Complication
+incidence
+FDAcorestudies: KaplaneMeierrates(%patients)
+Texturedsiliconeimplants
+Surgical Capsular
+revision contracture
+Cunningham,2007 9 Siliconein1007patients: Primaryaugmentation 15.4% 8.1%
+MentorMemoryGelimplants nZ551 27.0% 8.3%
+at3years Primaryreconstruction
+nZ251
+Cunningham& 8 1898siliconein1008patients: Primaryaugmentation 19.4% 9.8%
+McCue,2009 MentorMemoryGelimplants nZ552 33.9% 13.7%
+at6years Primaryreconstruction
+nZ251
+Hammond 8 1831silicone Primaryaugmentation 18.1% 2.4%
+etal.,2012 MentorMemoryShapeimplants nZ572 44.5% 10.1%
+at6-yearfollow-up Primaryreconstruction
+nZ191
+Maxwelletal.,2012 8 Siliconein941patients Primaryaugmentation 19.4% 4.6%
+NatrelleStyle410implants nZ492 43.1% 10.7%
+at6-yearfollow-up Primaryreconstruction
+nZ225
+Spearetal.,2007 9 1348silicone Primaryaugmentation 28.0% 14.8%
+Allerganimplantsat6-year nZ455 51.9% 15.9%
+follow-up Primaryreconstruction
+nZ98
+Spearetal.,2014 9 Siliconein715patients Primaryaugmentation 36.1% 18.9%
+Allerganimplantsat10-year nZ455 71.5% 24.6%
+follow-up Primaryreconstruction
+nZ98
+Stevensetal.,2012 9 3506siliconein1788patients: Primaryaugmentation 16.6% 8.8%
+Sientraimplantsat5-year nZ1116 42.7% 10.6%
+follow-up Primaryreconstruction
+nZ225
+Studieswithtexturedsiliconeimplants Actualcomplicationrates(%patients)d
+Surgical Capsular
+revision contracture
+Hvilsometal.,2009 8 10,640silicone Primaryaugmentation 4.0% 1.2%
+in5373patients, nZ3226at3years, 1.7%
+at3and5years nZ1870at5years
+Kulmalaetal.,2004 7 1517silicone; Primaryaugmentation 26.0% 23.0%d
+meanfollow-upperiod nZ685
+of10.9years
+MedarddeChardon 5 Siliconein200patients; Primaryaugmentation 7.0%
+etal.,2010 meanfollow-upof36months nZ200
+Stark,1993 5 Siliconein338patients; Primaryreconstruction 11.0%
+meanfollow-upof5years nZ338
+Seroma
+Agarwaletal.,2001 3 424siliconein212patients; 1.4%
+follow-upof3monthse7years
+Studieswithpolyurethane-coatedimplants Actualcomplicationrates
+(%patients)d
+Surgical Capsular
+revision contracture
+Vazquez& 8 PUin300patients; Primaryaugmentation 0.7%
+Pellon,2007 250followedupfor10years, nZ300
+180followedupfor15years,
+remainderfollowed
+upfor5years
+Abeldela 5 996PU; Primaryaugmentation n/ac n/ac
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013
+
+--- PÁGINA 5 ---
++ MODEL
+Reviewsilicone versuspolyurethaneimplants 5
+Table1(continued)
+Study NOSa Keystudydetailsb Patientcohorts Complication
+incidence
+Pena-Salcedo meanfollow-upof6.8years nZ263
+etal.,2012 Includesmastopexyand Primaryreconstruction
+revisionpatients nZ20
+Handeletal.,2006 6 568PU; Primaryaugmentation 19.1%dall;
+1537silicone;þothers; nZ825 30.0%dPU
+meanfollow-upof37.4months Primaryreconstruction 15.5%
+nZ264 35.5%
+Pompeietal.,2012 7 47silicone;119PUimplants Primaryreconstruction 0.8%PU 3.4%PU
+nZ119 6.3%dPU
+post-RT,
+0dnon-RT
+Rancatietal.,2013 8 PUin221patients; Primaryreconstruction 1.8%
+medianfollow-upof98months nZ221
+Vazquez.,1999 5 811PUimplantsin407patients; Primaryaugmentation n/ac
+follow-updatanotavailable nZ404
+Primaryreconstruction
+nZ3
+Rupture
+Cohenetal.,1997 5 68PU;282silicone Primaryaugmentation 23.0%dall;
+in159patients; nZ105 29.0%
+follow-updatanotavailable Primaryreconstruction silicone,
+nZ54 0PU
+Duffy&Woods,1994 6 681total,incPUandsilicone; TotalgroupNZ200 15.0%dall
+medianfollow-upof49months
+a NewcastleeOttawaQualityAssessmentScalescore.
+b Implanttype(s)andnumber(s);follow-up(whereprovided).
+c n/a:datanotinterpretablebyproceduretype.
+d %implants,not%patients.
+was restricted to those who received post-mastectomy The 6-year rates for haematoma reported for primary
+radiotherapy.31,32 reconstruction patients with textured silicone implants
+In primary augmentation patients, the core studies of were 1.0e7.1%.18,19 In primary two-stage reconstructions
+silicone implants reported capsular contracture rates at 6 with polyurethane implants, 0.6% of patients developed a
+years of 2.4e14.8%,16,17,19 and 18.9% at 10 years.20 One haematoma.30 In primary augmentation surgery, the hae-
+series offers a single direct comparison with polyurethane matoma rate was comparable with a rate of 1.1e2.7%17,18
+implants in primary augmentation patients, reporting in textured silicone implants compared with 1.2% in the
+capsular contracture at 1%.33 This series, however, had a polyurethaneimplant series.7
+limited 5-year follow-up with only 300 of 1257 patients
+havinglong-termoutcomes.Onefurtherstudyreportsona Seroma
+mixed cohort of mainly breast augmentations with poly- The incidence of seroma7,15,17,18,20e22,24,27,30,32,33 was re-
+urethane implants giving a capsular contracture rate of ported in 12 studies, including four using polyurethane
+0.4% at7years.24,33 implants.7,24,30,33
+There are no comparable data available for breast
+reconstruction patients.
+In primary augmentation patients, the core studies re-
+Other complications porteda6-yearriskof1.4%18anda10-yearrateof1.8%.20
+Another study22 reported a similar rate of 1.4% in primary
+It was notpossible to compare incidence of rupture, wrin- augmentation patients with silicone implants. A single se-
+kling/rippling, asymmetry, implant extrusion, cancer, ries reporting on polyurethane implants for augmentation
+breastpainandsizechangeduetothelackofcomparable demonstrated a similar rate of seromas occurring in 2% of
+data. primary augmentation patients.7
+Haematoma Malposition
+Fourteen studies provided data on the occurrence of The occurrence of malposition was reported in 10 stud-
+haematoma.7,15,17e21,24,26,27,29,30,32,33Fourstudiesincluded ies,15,17e21,24,28,29,31 with two reporting on polyurethane
+dataon polyurethaneimplants.24,26,30,33 implants.24,31
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013
+
+--- PÁGINA 6 ---
++ MODEL
+6 P.J.Duxbury,J.R.Harvey
+Figure1 Studyselectionandsearchcriteria.
+When textured silicone implants were used for breast Infection
+reconstruction,theriskofmalpositionat6yearswasinthe Eleven studies provided data on incidence of
+range 2.1e4%18,19 compared to a rate of 1.8% when poly- infection7,15e18,21,24,26,27,30,33 including five comprising
+urethane was used.31 There are no comparable data avail- polyurethane implants.7,24,26,30,33
+ableforbreast augmentation patients. Theriskofinfectionwithtexturedsiliconeimplantsat6
+yearswas1.6e6.1%inprimaryreconstructionpatients.16e18
+Rash/inflammation/irritation Bycomparison,polyurethaneimplantsarereportedtohave
+The incidence of rash/inflammation/irrita- aninfection rateof 0e0.4%.30
+tion15,17,18,21,24,30,31,33 was reported in eight studies, with Inprimaryaugmentation,ratesofinfectionwithsilicone
+fourbeing on polyurethaneimplants.24,30,31,33 implants were 0.9% and 1.7% at 6 years.16e18 By compari-
+Only two of the core studies provided comparable son, a single series with a limited patient follow-up of its
+KaplaneMeierriskdataat6yearsontheincidenceofrash/ polyurethane implant population demonstrated a rate of
+inflammation/irritation in reconstruction patients, being 0e1%.33
+0.9% and 2.1%.17,18 By contrast, rash was reported in
+4.2e5.4% of patients receiving polyurethane
+implants.30,31,33 Discussion
+Only one study reported on rash in primary augmenta-
+tion patients with silicone implants at 0.7e2.8%.18,28 Two This systematic review highlights the dichotomy in the ev-
+studies including mixed cohorts (the vast majority being idence base available for textured silicone implants
+primaryaugmentations)alsoreportedahigherincidenceof compared with polyurethane-coated implants. Due to the
+rash with polyurethane implants with a rate of US FDA requirement for safety data on silicone implants,
+4.3e4.7%.24,33
+multiple core studies demonstrate prospectively collected
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013
+
+--- PÁGINA 7 ---
++ MODEL
+Reviewsilicone versuspolyurethaneimplants 7
+cohort data on a large number of textured silicone im- to studies reporting on at least 100 implants. Excluding
+plants. The data from these studies allow us to study the studiesandimplantspriorto1993(e.g.,Casteletal.,2015)
+short- and long-term outcomes of textured silicone im- alsoexcludedhistoricdesignsofsiliconeandpolyurethane
+plantsasusedinmultiplecentres,anditisthereforelikely implants and thus attempted to make the literature rele-
+that these outcomes are realistic and achievable in other vanttomodernpractice.55Excludingsmallerstudieslimits
+centres.Bycontrast,thereisnosimilarprospectivecohort theriskofbiasassociatedwiththesemanuscripts;itwould
+study of polyurethane-coated implants. The systematic also be difficult to inform a change of practice based on a
+review identified eight studies reporting outcomes on small series.
+polyurethane-coated implants, but only five studies pre- Aside from the core studies, many of the studies
+sented the outcomes for a purely polyurethane implant included have similar limitations on poor definition of out-
+cohort.7,24,30,31,33 All five studies included are single cen- comes, heterogeneity of groups and retrospective design.
+tredandretrospectiveand,notwithstandingtheirvaluable Inaddition,somestudiesreportedcomplications onaper-
+findings,alimitednumberofsmallstudiesareavailablefor implant basis and others on a per-patient basis, making
+interpretation of surgical outcomes. comparison moredifficult.
+The major perceived advantage of polyurethane im- Despite the increasing use of polyurethane implants,56
+plantsisthereducedriskofcapsularcontractureandneed the lack of comparable reporting of complications out-
+forrevisionalsurgery.Thecorestudiesoftexturedsilicone comes is the most prominent inference of this review.
+implantsdemonstratesimilarcapsularcontractureratesat Outcomes for textured silicone implants are well docu-
+6and10yearsandsimilarrevisionratesdespitedifferences mented, but there is a lack of robust data to confirm the
+in the implant coating. The lack of variability in these true nature of the complications associated with poly-
+outcomes across implant manufacturers can ensure that urethane implants. Due to the lack of prospective data on
+the true capsular contracture and revision rates lie within polyurethane implants, it is difficult to compare outcomes
+those reported. Capsular contracture rates reported for between the two implant surfaces. Polyurethane implants
+polyurethane implants are a factor of 3e30 times lower maybeeffectiveinreducingcapsularcontracturerates or
+than textured silicone. The true rate of capsular contrac- revision rates; however, it is unclear from the available
+ture for polyurethane implants remains unclear; the data data whether there is a true difference between the
+available were from single-centre and retrospective implanttypes.Intheabsenceofamulticentre,prospective
+studies. Capsularcontracture canonly beassessedby pro- study of polyurethane-coated implants, the true effect of
+spectiverecordingofcapsularcontracturegradeinastudy differentimplant surfacingcanonly bestudiedinthe long
+with defined outcome measures over a long follow-up term. Certainly, further studies are required to formally
+period. The methodology from the polyurethane series assess the outcomes of polyurethane implants in both
+does not clearly state how often these patients were augmentation andreconstructive settings.
+assessedforthiscomplication,andthemajorityofcapsular
+contracturesreportedarethosethatrequiredreoperation. Conclusions
+Thetruerateofcapsularcontractureislikelytobehigher
+than thatreported.
+The core US FDA studies of textured silicone implants pro-
+The revision rates of surgery for patients with poly-
+videreliable outcome data for theseimplants,butthereis
+urethane implants are 15e30 times lower than the core
+nocomparablequalityevidenceforpolyurethaneimplants.
+studies. Revisional surgery occurs for many reasons, not
+This review is based on a small number of studies of
+always related to implant surface; hence, it is surprising
+polyurethane-coateddeviceswithalimitednumberofpar-
+thatrevisionratesareverylowinthepolyurethanecohort,
+ticipantsandaconsiderabledegreeofclinicalheterogeneity
+although thisis reportedonly intwo studies.24,30
+regardingthetypeofsurgeryandreportingofoutcomes.
+Manyofthecomplicationsreportedinthecorestudies
+Theuseofpolyurethaneimplantsshouldbeconsidereda
+maynotbedependentonimplantsurfacing,forexample,
+safe alternative to textured silicone implants. Based on
+haematoma rate and infection rate. The rates of these
+current evidence, any benefits of placing polyurethane
+complications would be expected to be relatively similar
+implants to reduce the risk of long-term complications
+between the textured silicone and the polyurethane
+cannotbereliablyconfirmedduetoalackofevidence.Itis
+coating. Infection rates varied between 1.6% and 4.8% in
+likely that the implant surface influences short- and long-
+breast reconstruction with textured silicone and between
+termoutcomes;however,theextentofanybenefitcannot
+0% and 0.4% with polyurethane. Similarly, haematoma
+be determined from the available evidence base. Future
+rates in textured silicone implants were 1e7.1% and 0.6%
+implant studies should target the short- and long-term
+in the polyurethane group. This is a surprisingly low hae-
+benefits of implant surfacing by procedure with defined
+matoma rate compared to an accepted rate of 8%
+outcomemeasures;ahead-to-headcomparisonwouldhelp
+following mastectomy in a large series.54 This further
+clarify outcomes.
+suggests that the data from these studies may not be a
+reflectionofthetrueoutcomesforpolyurethaneimplants
+Conflicts of interest
+and that complications in these retrospective series are
+under-reported.
+Thesystematicreviewincludedonlyeightpolyurethane Theauthors have no financialor otherconflicts of interest
+studies, thus indicating the lack of published data on the that could influence this publication. There is no funding
+implants. It is also a reflection of the search criteria that source. This study has not been presented or published
+limitedtheuseofstudiestothosepublishedfrom1993and elsewhere.
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013
+
+--- PÁGINA 8 ---
++ MODEL
+8 P.J.Duxbury,J.R.Harvey
+Appendix A. Supplementary data 19. Spear SL, Murphy DK, Slicton A, Walker PS. Inamed silicone
+breastimplantcorestudyresultsat6years. PlasticReconstr
+Surg2007;120(7Suppl.1):8Se16S.
+Supplementarydatarelatedtothisarticlecanbefoundat
+20. Spear SL, Murphy DK. Allergan Silicone Breast Implant
+http://dx.doi.org/10.1016/j.bjps.2016.01.013.
+USCCSG. Natrelle round silicone breast implants: core study
+results at 10 years. Plastic Reconstr Surg 2014;133(6):
+1354e61.
+References
+21. StevensWGMD,HarringtonJMD,AlizadehKMD,etal.Five-year
+follow-up data from the U.S. clinical trial for Sientra’s U.S.
+1. (FDA) UFaDA. Breast implants. 2013. Available from: http:// Foodanddrugadministration-approvedSilimed(R)brandround
+www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/ and shaped implants with high-strength silicone gel. Plastic
+ImplantsandProsthetics/BreastImplants/.
+ReconstrSurg2012;130(5):973e81.
+2. Choices N. Breast implants. 2014. Available from: http:// 22. Agarwal RK, Roy D. Breast augmentation using McGhan’s bio-
+www.nhs.uk/conditions/Breast-implants/Pages/Introduction. dimensional silicone implants. Int J Cosmet Surg Aesthetic
+aspx.
+Dermatology2001;3(3):211e4.
+3. Cronin TD, Gerow FJ. Augmentation mammaplasty: new 23. CohenBE,BiggsTM,CroninED,CollinsJrDR.Assessmentand
+“natural feel” prosthesis. In: Transactions of the third inter- longevity of the silicone gel breast implant. Plastic Reconstr
+national congress of plastic surgery; October 13-18, 1963;
+Surg1997;99(6):1597e601.
+Amsterdam,TheNetherlands;1963.p.41e9. 24. delaPen˜a-SalcedoJ,Soto-MirandaM,Lopez-SalgueroJ.Back
+4. AdministrationUFaD.Risksofbreastimplants.2013.Available to the future:a 15-year experiencewithpolyurethanefoam-
+from: http://www.fda.gov/MedicalDevices/ covered breast implants using the partial-subfascial tech-
+ProductsandMedicalProcedures/ImplantsandProsthetics/
+nique.AestheticPlastSurg2012;36(2):331e8.
+BreastImplants/ucm064106.htm. 25. Duffy MJ, Woods JE. Health risks of failed silicone gel breast
+5. Barone FE, P Larry, Keller Tony, Maxwell G Patrick. The implants:a30-yearclinicalexperience.PlasticReconstrSurg
+biomechanicalandhistopathologiceffectsofsurfacetexturing
+1994;94(2):295e9.
+with silicone and polyurethane in tissue implantation and 26. HandelN,CordrayT,GutierrezJ,JensenJA.Along-termstudy
+expansion.PlasticReconstrSurg1992;90(1):77e86. of outcomes, complications, and patient satisfaction with
+6. Handel N, Silverstein MJ, Jensen JA, Collins A, Zierk K.
+breastimplants.PlasticReconstrSurg2006;117(3):757e67.
+Comparativeexperiencewithsmoothandpolyurethanebreast 27. Hvilsom GBMD, Holmich LRMDDMS, Henriksen TFMDPD,
+implants using the Kaplan-Meier method of survival analysis. LipworthLSD,McLaughlinJKPD,FriisSMD.Localcomplications
+PlasticReconstrSurg1991;88(3):475e81. after cosmetic breast augmentation: results from the Danish
+7. Va´zquezG,Pello´nA.Polyurethane-coatedsiliconegelbreastim- registryforplasticsurgeryofthebreast.PlasticReconstrSurg
+plantsusedfor18years.AestheticPlastSurg2007;31(4):330e6. 2009;124(3):919e25.
+8. BrandKG.Foam-coveredmammaryimplants.ClinPlasticSurg 28. KulmalaI,McLaughlinJK,PakkanenM,etal.Localcomplica-
+1988;15(4):533e9.Epub1988/10/01. tions after cosmetic breast implant surgery in Finland. Ann
+9. Asia A-H. Q & A: polyurethane foam cohesive silicone gel
+PlasticSurg2004;53(5):413e9.
+breast implants. Available from: http://www.alpha- 29. Medard de Chardon V, Balaguer T, Chignon-Sicard B,
+healthasia.com/article/q-polyurethane-foam-cohesive- LebretonE.Doublebreastcontourinprimaryaestheticbreast
+silicone-gel-breast-implants;2013. augmentation: incidence, prevention and treatment. Ann
+10. ChenCM,CanoSJ,KlassenAF,etal.Measuringqualityoflifein
+plasticSurg2010;64(4):390e6.
+oncologic breast surgery: a systematic review of patient- 30. PompeiS,ArelliF,LabardiL,etal.Breastreconstructionwith
+reportedoutcomemeasures.BreastJ2010;16(6):587e97. polyurethane implants: preliminaryreport. Eur J Plastic Surg
+11. MHRA.Reintroductionofpolyurethane-coatedbreastimplants
+2012;35(6):441e7.
+in the UK. 2005. Available from: http://webarchive. 31. Rancati A, Soderini A, Dorr J, Gercovich G, Tessari L,
+nationalarchives.gov.uk/20141205150130/http://www.mhra. GonzalezE.One-stepbreastreconstructionwithpolyurethane-
+gov.uk/home/groups/dts-bi/documents/websiteresources/ covered implants after skin-sparing mastectomy. J Plastic,
+con2017980.pdf.
+ReconstrAestheticSurg2013;66(12):1671e5.
+12. CranstoneP.Myths,failuresandtheregulationofthemodern 32. Stark B. Delayed breast reconstruction following mastectomy
+breastimplant.PMFANews2014;1(5):15e9. for breast cancer: five years follow-up of 338 cases. Eur J
+13. MoherD,LiberatiA,TetzlaffJ,AltmanDG.Preferredreporting
+PlasticSurg1993;16(4e5):193e7.
+items for systematic Reviews and meta-analyses: the PRISMA 33. Va´zquezGA.Ten-yearexperienceusingpolyurethane-covered
+Statement.AnnInternMed2009;151(4):264e9. breastimplants.AestheticPlastSurg1999;23(3):189e96.
+14. WellsG,SheaB,PetersonJ,WelchV,LososM,TugwellP.The 34. Codner MA, Mejia JD, Locke MB, et al. A 15-year experience
+Newcastle-Ottawa scale (NOS) for assessing the quality of withprimarybreastaugmentation.PlasticReconstrSurg2011;
+nonrandomisedstudiesinmeta-analyses.
+127(3):1300e10.
+15. CunninghamBMDMS.TheMentorcorestudyonsiliconemem- 35. CollisN,SharpeDT.Recurrenceofsubglandularbreastimplant
+orygel breast implants. Plastic Reconstr Surg Silicone Breast capsular contracture: anterior versus total capsulectomy.
+ImplantsOutcomesSaf2007;120(7):19Se29S. PlasticReconstrSurg2000;106(4):792e7.
+16. CunninghamB,McCueJ.SafetyandeffectivenessofMentor’s 36. Dancey A, Nassimizadeh A, Levick P. Capsular contracture e
+Memorygel implants at 6 years. Aesthetic Plast Surg 2009; whataretheriskfactors?a14yearseriesof1400consecutive
+33(3):440e4. augmentations. J Plastic, Reconstr Aesthetic Surg 2012;65(2):
+17. HammondDC,MiglioriMM,CaplinDA,GarciaME,PhillipsCA.
+213e8.
+Mentor contour profile gel implants: clinical outcomes at 6 37. EnglertH,JoynerE,Thompson M,etal.Augmentation mam-
+years.PlasticReconstrSurg2012;129(6):1381e91. moplasty and ‘silicone-osis’. Intern Med J 2004;34(12):
+18. MaxwellGP,VanNattaBW,MurphyDK,SlictonA,BengtsonBP.
+668e76.
+Natrelle style 410 form-stable silicone breast implants: core 38. Feng LJ, Amini SB. Analysis of risk factors associated with
+study results at 6 years. Aesthetic Surg J/Am Soc Aesthetic rupture of silicone gel breast implants. Plastic Reconstr Surg
+PlasticSurg2012;32(6):709e17. 1999;104(4):955e63.
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013
+
+--- PÁGINA 9 ---
++ MODEL
+Reviewsilicone versuspolyurethaneimplants 9
+39. FryzekJP,SignorelloLB,HakeliusL,etal.Localcomplications 48. LeGM,O’MalleyCD,GlaserSL,etal.Breastimplantsfollowing
+andsubsequentsymptomreportingamongwomenwithcosmetic mastectomyinwomenwithearly-stagebreastcancer:preva-
+breastimplants.PlasticReconstrSurg2001;107(1):214e21. lenceandimpactonsurvival.BreastCancerResBCR2005;7(2):
+40. GherardiniG,ZacchedduR,MilnerSM,El-ShazlylM,LiapakisI. R184e93.
+Breastaugmentationwithsiliconeimplants:theroleofsurgical 49. Lemperle G, Exner K. Effect of cortisone on capsular
+drainage e report on 502 consecutive patients. Eur J Plastic contracture in double-lumen breast implants: ten years’
+Surg2006;29(1):9e12. experience.AestheticPlastSurg1993;17(4):317e23.
+41. GravanteG,AracoF,DeloguD,CervelliV,WalgenbachK.In- 50. RiggioE.Breastaugmentationwithextra-projectedandhigh-
+fectionsofbreastimplantsinaestheticbreastaugmentations: cohesive dual-gel prosthesis 510: a prospective study of 75
+a single-centerreviewof 3002patients.AestheticPlastSurg. consecutive cases for a new method (the Zenith system).
+31(4):325e29. AestheticPlastSurg2012;36(4):866e78.
+42. HandelN,JensenJA,BlackQ,WaismanJR,SilversteinMJ.The 51. RohrichRJ,AdamsJrWP,BeranSJ,etal.Ananalysisofsilicone
+fateofbreastimplants:acriticalanalysisofcomplicationsand gel-filled breast implants: diagnosis and failure rates. Plastic
+outcomes.PlasticReconstrSurg1995;96(7):1521e33. ReconstrSurg1998;102(7):2304e9.
+43. Heden P, BoneB, MurphyDK, SlictonA, Walker PS. Style410 52. Stevens WG, Pacella SJ, Gear AJL, et al. Clinical experience
+cohesivesiliconebreastimplants:safetyandeffectivenessat5 withafourth-generationtexturedsiliconegelbreastimplant:
+to 9 years after implantation. Plastic Reconstr Surg 2006; areviewof1012mentormemorygelbreastimplants.Aesthetic
+118(6):1281e7. SurgJ2008;28(6):642e7.
+44. HirschEM,TenenbaumMJ,AcevedoM.Aprospectivestudyof 53. Whitfield GA, Horan G, Irwin MS, Malata CM, Wishart GC,
+708form-stablesiliconegelbreastimplants.[Erratumappears WilsonCB.Incidenceofseverecapsularcontracturefollowing
+in AesthetSurgJ. 2010Nov-Dec;30(6):885]. Aesthetic SurgJ. implant-based immediate breast reconstruction with or
+30(5):693e701. withoutpostoperativechestwallradiotherapyusing40Grayin
+45. Jewell ML, Jewell JL. A comparison of outcomes involving 15fractions.RadiotherapyOncol2009;90(1):141e7.
+highlycohesive,form-stablebreast implantsfrom two manu- 54. Jeevan R. National mastectomy and breast reconstruction
+facturersinpatientsundergoingprimarybreastaugmentation. Audit.4thannualreport.2011.
+AestheticSurgJ2010;30(1):51e65. 55. Castel N, Soon-Sutton T, Deptula P, Flaherty A, Parsa FD.
+46. KjollerK,HolmichLR,JacobsenPH,etal.Capsularcontracture Polyurethane-coated breast implants revisited: a 30-year
+aftercosmeticbreastimplantsurgeryinDenmark.AnnPlastic follow-up.ArchPlasticSurg2015;42(2):186e93.
+Surg2001;47(4):359e66. 56. WurzerP,RapplT,FriedlH,etal.TheAustrianbreastimplant
+47. LargentJA,ReismanNR,KaplanHM,OefeleinMG,JewellML. register: recent trends in implant-based breast surgery.
+Clinical trial outcomes of high- and extra high-profile breast AestheticPlastSurg2014;38(6):1109e15.
+implants.AestheticSurgJ2013;33(4):529e39.
+Pleasecitethisarticleinpressas:DuxburyPJ,HarveyJR,Systematicreviewoftheeffectivenessofpolyurethane-coatedcomparedwith
+texturedsiliconeimplantsinbreastsurgery,JournalofPlastic,Reconstructive&AestheticSurgery(2016),http://dx.doi.org/10.1016/
+j.bjps.2016.01.013

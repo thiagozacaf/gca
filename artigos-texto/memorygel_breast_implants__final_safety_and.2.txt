@@ -1,0 +1,583 @@
+--- PÁGINA 1 ---
+BREAST
+MemoryGel Breast Implants: Final Safety and
+Efficacy Results after 10 Years of Follow-Up
+David A. Caplin, M.D.
+Background: Mentor MemoryGel Breast Implants were approved by the U.S.
+M. Bradley Calobrace, M.D.
+Food and Drug Administration in November of 2006. Patients in the Core clini-
+Roger N. Wixtrom, Ph.D.
+cal study supporting this approval were followed for 10 years.
+Megan M. Estes, Ph.D.
+Methods: This prospective, multicenter, clinical study included primary aug-
+John W. Canady, M.D.
+mentation, revision augmentation, primary reconstruction, and revision
+St. Louis, Mo.; Louisville and Lexington, reconstruction patients implanted with smooth or Siltex Texture MemoryGel
+Ky.; Springfield, Va.; and Irvine, Calif. Implants. Incidence, severity, and method of resolution for all postoperative
+complications were assessed on per-patient and per-implant bases. The primary
+effectiveness endpoints were overall mean change in chest circumference and
+bra cup size following the implantation procedure.
+Results: Primary augmentation (n = 552), revision augmentation (n = 145),
+primary reconstruction (n = 251), and revision reconstruction (n = 60) patients
+were enrolled in the study. Kaplan-Meier estimated 10-year cumulative inci-
+dence rates for key complications at the subject level for Baker grade III/IV cap-
+sular contracture were as follows: primary augmentation, 12.1 percent; revision
+augmentation, 24.4 percent; primary reconstruction, 20.5 percent; and revi-
+sion reconstruction, 36.9 percent. For infection, rates were as follows: primary
+augmentation, 1.6 percent; revision augmentation, 1.4 percent; primary recon-
+struction, 6.2 percent; and revision reconstruction, 0 percent. For explantation
+with or without replacement, rates were as follows: primary augmentation, 11.6
+percent; revision augmentation, 24.1 percent; primary reconstruction, 33.4
+percent; and revision reconstruction; 37.8 percent. For rupture, rates were as
+follows: primary augmentation, 24.2 percent; revision augmentation, 23.7 per-
+cent; primary reconstruction, 32.7 percent; and revision reconstruction, 38.7
+percent. For any reoperation, rates were as follows: primary augmentation, 25.5
+percent; revision augmentation, 43.6 percent; primary reconstruction, 49.0
+percent; and revision reconstruction, 50.7 percent.
+Conclusion: The results of this study demonstrate that MemoryGel Implants
+are safe and effective for use in women undergoing breast augmentation or
+reconstruction. (Plast. Reconstr. Surg. 147: 556, 2021.)
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, IV.
+From Parkcrest Plastic Surgery and Clinical Faculty, Division
+of Plastic Surgery, Department of Surgery, Washington Disclosure: Dr. Caplin is a consultant and clini-
+University; private practice and Clinical Faculty, Division cal investigator for Mentor Worldwide, LLC, and
+of Plastic Surgery, Department of Surgery, University of
+Establishment Labs. Dr. Calobrace has no financial
+Louisville and University of Kentucky; LSCI; and Mentor
+disclosures to report. Dr. Wixtrom is a consultant for
+Worldwide, LLC.
+Mentor Worldwide, LLC. Drs. Estes and Canady are
+Received for publication October 11, 2019; accepted August
+employees of Mentor Worldwide, LLC. This study
+20, 2020.
+was sponsored by Mentor Worldwide, LLC.
+Copyright © 2021 The Authors. Published by Wolters
+Kluwer Health, Inc., on behalf of the American Society of
+Plastic Surgeons. All rights reserved. This is an open-access
+article distributed under the terms of the Creative Commons
+By reading this article, you are entitled to claim
+Attribution-Non Commercial-No Derivatives License 4.0
+one (1) hour of Category 2 Patient Safety
+(CCBY-NC-ND), where it is permissible to download and
+Credit. ASPS members can claim this credit by
+share the work provided it is properly cited. The work cannot
+be changed in any way or used commercially without permis- logging in to PlasticSurgery.org Dashboard, click-
+sion from the journal. ing “Submit CME,” and completing the form.
+DOI: 10.1097/PRS.0000000000007635
+556 www.PRSJournal.com
+
+--- PÁGINA 2 ---
+Volume 147, Number 3 • MemoryGel Breast Implants
+MemoryGel Breast Implants (Mentor Patients
+Worldwide LLC, Irvine, Calif.), approved Eligible patients were women who were can-
+by the U.S. Food and Drug Administration didates for primary breast augmentation, pri-
+in 2006 for breast augmentation in women aged mary breast reconstruction, or revision surgery.
+22 years and older and for breast reconstruction Although the study presented here enrolled aug-
+in women of any age, consist of a single-lumen, mentation patients who were aged 18 years or
+round silicone elastomer shell, with a patch on older, primary augmentation with MemoryGel
+the posterior side, and filled with a cohesive sili- Implants is currently indicated for women aged 22
+cone gel. The 10-year prospective clinical study, years or older in the United States. Each patient
+initiated in September of 2000, was designed to provided written informed consent, and the study
+assess the safety and effectiveness of MemoryGel was approved by the institutional review board at
+Implants in women undergoing primary breast each site. Women who were pregnant, had nursed
+augmentation, primary breast reconstruction, or a child within 3 months of study enrollment, were
+revision surgery. These findings extend the previ- previously implanted with any silicone implant
+ously reported 3- and 6-year results,1,2 which dem- other than breast implants, had a confirmed
+onstrated that MemoryGel Implants were safe and diagnosis of rheumatic disease, currently had a
+effective. In this article, we present final safety condition that could compromise or complicate
+and effectiveness data from the MemoryGel Core wound healing (except reconstruction patients),
+Study with 10 years of follow-up. had a diagnosis of active cancer (only augmenta-
+tion patients), had an infection or abscess, dem-
+onstrated tissue characteristics incompatible with
+PATIENTS AND METHODS
+implant placement (e.g., tissue damage resulting
+from radiation therapy, inadequate tissue, or com-
+Study Design
+promised vascularity), had a premalignant breast
+The study was designed and conducted
+disease without a subcutaneous mastectomy, had
+in accordance with the U.S. Food and Drug
+an untreated or inappropriately treated breast
+Administration’s then-current draft of “Guidance
+malignancy, without mastectomy, or who had any
+for Saline, Silicone Gel, and Alternative Breast
+condition that would make magnetic resonance
+Implants: Final Guidance for Industry and Food
+imaging prohibitive were excluded from this study.
+and Drug Administration Staff” (final version
+dated February 11, 2003), and safety analyses were
+Safety Analyses
+conducted in accordance with the November 17,
+All patients undergoing implantation with
+2006 “Saline, Silicone Gel, and Alternative Breast
+a study device were included in the safety analy-
+Implants: Guidance for Industry and FDA Staff”
+sis. If a study device was explanted, data up to
+that superseded the 2003 document (https://www.
+and including the date of the explantation were
+fda.gov/media/71081/download). The study evalu-
+included in all analyses. As a condition of the 2006
+ation schedule summary, measures of patient
+U.S. Food and Drug Administration approval,
+satisfaction, assessments of quality of life, pro- patients who underwent explantation continued
+tocol for magnetic resonance imaging substudy, to be followed for safety through 10 years, even if
+and statistical analyses have been described else- a study device was not reimplanted.
+where.1 Briefly, at each scheduled follow-up visit Incidence of postoperative complications
+through 10 years, the following procedures and were analyzed using the Kaplan-Meier method.
+evaluations were performed: nipple and breast All event rates presented here are at the subject
+sensitivity assessment, breast measurements, cap- level, unless otherwise specified. The severity, res-
+sular contracture assessment, concomitant medi- olution, treatment required, and causality of the
+cations, quality-of-life questionnaires (at 1-, 2-, 3-, complications were assessed in addition to reop-
+4-, 6-, 8-, and 10-year visits), adverse event evalua- erations and explantations.
+tion, magnetic resonance imaging scan on subset
+of patients (1-, 2-, 4-, 6-, 8-, and 10-year visits), Magnetic Resonance Imaging Substudy
+and Rheumatic Disease Diagnosis Questionnaire A subset of randomly selected patients under-
+(if investigator believed, in his or her medical went magnetic resonance imaging at the 1-, 2-, 4-,
+opinion, that the patient’s symptoms warranted 6-, 8-, and 10-year visits after implantation in an
+a rheumatologic examination, rheumatologic attempt to estimate the overall rupture rate (mag-
+confirmation was to be performed). netic resonance imaging cohort A). However,
+557
+
+--- PÁGINA 3 ---
+Plastic and Reconstructive Surgery • March 2021
+beginning in November of 2006, as a condition (n = 552 patients), revision augmentation (n = 145),
+of U.S. Food and Drug Administration approval, primary reconstruction (n = 251), and revision
+all patients enrolled in the study from this point reconstruction (n = 60). The overall 10-year follow-
+onward were required to undergo magnetic res- up rate across all cohorts was 62 percent, equivalent
+onance imaging evaluation at the same times as to approximately 95.3 percent patient retention
+magnetic resonance imaging cohort A (i.e., 6, 8, from each year prior (primary augmentation, 57
+and 10 years after surgery; magnetic resonance percent; revision augmentation, 64 percent; pri-
+imaging cohort B). An implant was considered to mary reconstruction, 73 percent; and revision
+be ruptured if the investigator reported rupture reconstruction, 67 percent). Demographic charac-
+as an adverse event, the most recent magnetic teristics are summarized in Table 1.
+resonance imaging evaluation indicated that on
+implant evaluation there was rupture or indeter- Effectiveness
+minate rupture, or on soft-tissue evaluation there For patients in the primary augmentation
+was a judgment of definite extracapsular silicone cohort and in the other three cohorts, the overall
+or indeterminate extracapsular silicone. If the mean changes over the course of the study in cir-
+implant was explanted and returned to and physi- cumferential chest size were positive and highly
+cally examined by Mentor and determined not statistically significant (overall mean change of all
+to be ruptured, it was not counted as a rupture. cohorts was 6.1 cm; p < 0.001). For the primary
+Kaplan-Meier survival analyses of time to rupture augmentation cohort, there was a statistically sig-
+were performed to estimate the cumulative inci- nificant mean increase of 1.8 bra cup sizes from
+dence of rupture. baseline (p < 0.0001).
+At the 10-year follow-up visit, 97.6 percent of
+Effectiveness Analyses patients who answered the question (523 of 536)
+The primary effectiveness endpoints were the indicated that they would make the same decision
+overall mean change in chest circumference and to undergo breast implant surgery (primary aug-
+the overall mean increase in bra cup size, to be mentation, 97.1 percent; revision augmentation,
+assessed principally in the primary augmentation 98.8 percent; primary reconstruction, 99.1 per-
+cohort. The overall mean changes and standard cent; and revision reconstruction, 94.4 percent).
+deviation from the preoperative assessment were Similarly, at 10-year follow-up, among patients
+calculated for circumferential chest size and cup who had any type of reoperation, 98.2 percent
+size increase. The Wilcoxon signed rank test was indicated that they would make the same decision
+performed to test for statistical significance. to undergo breast implant surgery.
+Secondary effectiveness was based on changes
+in quality of life. Each quality-of-life endpoint was Postoperative Complications and Resolution
+summarized using descriptive statistics (mean, The 10-year Kaplan-Meier estimated cumula-
+median, standard deviation, and minimum and tive incidence rates for key postoperative com-
+maximum). Global patient satisfaction, assessed plications are shown in Table 2 and Figure 1. In
+by asking the patient whether she would make the overall patient population, 48.3 percent of
+the same decision to undergo breast implant sur- reported complications (excluding rupture/inde-
+gery, was an additional effectiveness endpoint. terminate rupture) did not receive any treatment,
+Frequency counts, percentages, and 95 percent 36.9 percent were treated by a secondary proce-
+confidence intervals for the proportion of patients dure, and 14.3 percent were treated with medi-
+who would make the same decision to undergo cation. Only 0.8 percent of the complications
+surgery were tabulated for each follow-up visit. resulted in hospitalization.
+Immediate postmastectomy patients were excluded
+from these analyses for the primary reconstruction Reoperations
+cohort and the overall patient population.
+The 10-year estimated cumulative incidence
+rates for any reoperation and implant-related
+RESULTS complications (including only reoperations
+because of capsular contracture, rippling, infec-
+Patient Demographics tion, hematoma/seroma, and rupture) are listed
+A total of 1008 patients (receiving 1898 in Table 2. The primary reasons for reoperation
+implants) across 48 sites in the United States were that occurred at a rate of greater than or equal
+included in four cohorts: primary augmentation to 10 percent in at least one patient cohort were
+558
+
+--- PÁGINA 4 ---
+Volume 147, Number 3 • MemoryGel Breast Implants
+Table 1. Demographic Characteristics*
+Augmentation Reconstruction
+Primary Revision Primary Revision
+Characteristic (n = 552) (n = 145) (n = 251) (n = 60)
+Median age, yr 34 43 46 51
+Age range, yr 18–65 20–63 18–79 29–72
+Race
+Caucasian 483 (87.5) 134 (92.4) 231 (92.0) 56 (93.3)
+Asian 17 (3.1) 2 (1.4) 3 (1.2) 1 (1.7)
+African American 11 (2.0) 2 (1.4) 7 (2.8) 2 (3.3)
+Other 41 (7.4) 7 (4.8) 10 (4.0) 1 (1.7)
+Marital status
+Married 313 (56.7) 86 (59.3) 173 (68.9) 40 (66.7)
+Never married 135 (24.5) 25 (17.2) 35 (13.9) 5 (8.3)
+Divorced 81 (14.7) 26 (17.9) 30 (12.0) 13 (21.7)
+Separated 17 (3.1) 3 (2.1) 5 (2.0) 1 (1.7)
+Widowed 6 (1.1) 5 (3.4) 8 (3.2) 1 (1.7)
+Education
+<12 yr 7 (1.3) 0 (0) 3 (1.2) 2 (3.3)
+High school graduate 74 (13.4) 26 (17.9) 42 (16.7) 9 (15.0)
+Some college 215 (38.9) 56 (38.6) 66 (26.3) 20 (33.3)
+College graduate 189 (34.2) 45 (31.0) 85 (33.9) 16 (26.7)
+Postgraduate 60 (10.9) 17 (11.7) 47 (18.7) 9 (15.0)
+Missing 7 (1.3) 1 (0.7) 8 (3.2) 4 (6.7)
+Previous breast surgery (excluding mastectomy)
+No 535 (96.9) 89 (61.4) 180 (71.7) 22 (36.7)
+Yes 17 (3.1) 55 (37.9) 71 (28.3) 38 (63.3)
+Missing 0 (0) 1 (0.7) 0 (0) 0 (0)
+Smoking history
+Never smoked 328 (59.4) 79 (54.5) 151 (60.2) 29 (48.3)
+Currently smoker 107 (19.4) 25 (17.2) 21 (8.4) 8 (13.3)
+Former smoker 117 (21.2) 41 (28.3) 79 (31.5) 23 (38.3)
+*Values are No. (%) unless otherwise stated.
+capsular contracture (Baker grade II, III, or IV), augmentation, n = 202; revision augmentation,
+breast mass, rupture, and asymmetry (Fig. 2). The n = 56; primary reconstruction, n = 134; and revi-
+number of reoperations and additional opera- sion reconstruction, n = 28), the overall 10-year
+tions are listed in Table 3. Types of additional sur- follow-up rate was 53 percent (primary augmen-
+gical procedures through 10 years that occurred tation, 46 percent; revision augmentation, 48
+at a rate of greater than or equal to 10 percent in percent; primary reconstruction, 68 percent; and
+at least one patient cohort are listed in Table 4. revision reconstruction, 58 percent). The over-
+all Kaplan-Meier estimated cumulative rupture
+Explantation rates (suspected or confirmed) for patients and
+The most commonly reported reasons for implants are presented in Table 2 and Figure 5.
+explantation that occurred at a rate of greater There were 77 suspected or confirmed ruptured
+than or equal to 10 percent in at least one patient implants (primary augmentation, n = 31; revision
+cohort through 10 years were size change, capsu- augmentation, n = 11; primary reconstruction,
+lar contracture (Baker grade II, III, or IV), rup- n = 29; and revision reconstruction, n = 6) among
+ture, and asymmetry (Fig. 3). Of the 189 patients 64 patients (primary augmentation, n = 25; revi-
+whose devices were explanted, 108 (57.1 percent) sion augmentation, n = 8; primary reconstruction,
+were reimplanted with a study device. n = 25; and revision reconstruction, n = 6) in mag-
+netic resonance imaging cohort A. Of these 77
+Rupture implants in 64 patients, at 6-year follow-up, rup-
+Patient accounting for both the original ture was detected in 20 implants in 17 patients,
+magnetic resonance imaging substudy cohort and at 8-year follow-up, rupture was detected in
+(magnetic resonance imaging cohort A) and the 40 implants in 33 patients. Mean time to rupture
+non–magnetic resonance imaging cohort who for the 77 implants was 7.9 years. Seventy-five of
+underwent magnetic resonance imaging evalua- the 77 implants were considered silent ruptures.
+tion starting in 2006 as a condition of approval The overall Kaplan-Meier estimated cumulative
+(magnetic resonance imaging cohort B) is pre- silent rupture rates at 10 years were 27.3 per-
+sented in Figure 4. For the 420 patients enrolled cent and 18.1 percent for patients and implants,
+in magnetic resonance imaging cohort A (primary respectively. The overall Kaplan-Meier estimated
+559
+
+--- PÁGINA 5 ---
+Plastic and Reconstructive Surgery • March 2021
+Table 2. Ten-Year Kaplan-Meier Estimated Cumulative Incidence Rates of Occurrence of Key Complications
+Augmentation Reconstruction
+Primary Revision Primary Revision
+(n = 552) (n = 145) (n = 251) (n = 60)
+Complications % 95% CI % 95% CI % 95% CI % 95% CI
+Key complications
+Any reoperation 25.5 21.9–29.5 43.7 35.8–52.4 49.0 42.6–55.7 50.7 38.7–64.0
+Implant-related reoperation* 11.94 9.39–15.13 21.03 15.09–28.89 23.00 17.60–29.73 28.41 18.07–42.91
+Capsular contracture Baker grade III/IV 12.1 9.6–15.2 24.4 18.1–32.5 20.5 15.5–26.7 36.9 25.0–52.2
+Explantation with or without replacement 11.6 9.1–14.8 24.1 17.7–32.3 33.4 27.6–40.1 37.8 26.7–51.7
+Explantation with replacement
+with study device 7.4 5.4–10.2 13.6 8.6–21.1 19.8 14.9–25.9 24.8 15.0–39.2
+Rupture rates for MRI cohort A patients
+(suspected or confirmed) 24.2 17.0–33.9 23.7 12.3–42.8 32.7 23.2–44.8 38.8 19.1–67.9
+Rupture rates for MRI cohort A implants
+(suspected or confirmed) 14.9 10.7–20.6 16.5 9.3–28.3 24.3 17.4–33.3 25.8 12.1–49.8
+Rupture rates for MRI cohort B patients
+(suspected or confirmed) 21.4 15.3–29.5 7.5 2.5–21.6 36.1 24.3–51.4 43.9 22.3–73.5
+Rupture rates for MRI cohort B implants
+(suspected or confirmed) 12.5 9.1–17.2 6.3 2.7–14.6 28.1 19.2–40.0 44.4 24.8–70.1
+Infection 1.6 0.9–3.1 1.4 0.4–5.5 6.2 3.8–10.1 0
+Other complications ≥5% in
+at least one cohort
+Nipple sensation changes† 12.8 10.2–16.0 13.6 8.9–20.4 2.1 0.9–5.0 4.0 1.0–15.2
+Breast mass 5.6 3.9–7.9 6.0 3.0–11.6 8.6 5.5–13.4 5.2 1.7–15.1
+Breast pain† 2.9 1.8–4.8 3.2 1.2–8.2 5.2 2.9–9.2 5.2 1.7–15.2
+Patient dissatisfaction 0.4 0.1–1.5 3.6 1.5–8.5 4.8 2.5–9.2 9.0 3.4–23.0
+Granuloma 0.2 0.0–1.3 2.3 0.8–7.1 0 5.0 1.6–14.7
+Implant malposition/displacement† 1.0 0.4–2.5 2.3 0.7–7.0 2.3 1.0–5.5 6.7 2.6–16.9
+Metastatic disease 0 0 6.9 4.2–11.2 3.8 1.0–14.6
+Lack of projection 0 0 1.0 0.2–3.8 5.5 1.8–16.3
+Symmastia 0.2 0.0–1.7 0 0 5.0 1.6–14.7
+MRI, magnetic resonance imaging.
+*Implant-related complications included capsular contracture, rippling, infection, hematoma/seroma, and rupture.
+†Mild occurrences excluded.
+cumulative symptomatic rupture rates based on 35 implants in 30 patients. Mean time to rupture
+the magnetic resonance imaging cohort at 10 years for the 68 implants was 8.3 years. Sixty-five of the
+were 0.6 percent and 0.3 percent for patients and 68 implants were considered silent ruptures. The
+implants, respectively. The cumulative incidence overall Kaplan-Meier estimated cumulative silent
+rate of confirmed rupture in magnetic resonance and symptomatic rupture rates at 10 years were
+imaging cohort A on a patient and implant level is 22.8 percent and 0.6 percent for patients, and 14.7
+reported in Table 5. percent and 0.5 percent for implants, respectively.
+For the remainder of patients enrolled in The cumulative incidence rate of confirmed rup-
+magnetic resonance imaging cohort B, the overall ture in magnetic resonance imaging cohort B on
+10-year follow-up rate was 41 percent (primary aug- a patient and implant level is reported in Table 5.
+mentation, 37 percent; revision augmentation, 45 In total (including magnetic resonance imag-
+percent; primary reconstruction, 55 percent; and ing cohorts A and B), 81 confirmed ruptured
+revision reconstruction, 44 percent). The overall implants were removed, seven suspected ruptured
+Kaplan-Meier estimated cumulative rupture rates implants (including one not ruptured at explanta-
+at 10 years are listed in Table 2. There were 68 sus- tion) were removed, and 41 suspected ruptured
+pected or confirmed ruptured implants (primary implants were not removed (unknown, two con-
+augmentation, n = 34; revision augmentation, firmed ruptures and 14 suspected ruptures).
+n = 5; primary reconstruction, n = 21; and revision Rupture was reported as the reason for implant
+reconstruction, n = 8) among 56 patients (primary removal in 45 implants (primary augmentation,
+augmentation, n = 29; revision augmentation, n = 14; revision augmentation, n = 7; primary
+n = 3; primary reconstruction, n = 18; and revi- reconstruction, n = 21; and revision reconstruc-
+sion reconstruction, n = 6). Of these 68 implants tion, n = 2) in 38 patients. Four additional implants
+in 56 rupture patients, at 6-year-follow up, rup- (primary augmentation, n = 2; revision augmen-
+ture was detected in 15 implants in 13 patients, tation, n = 1; primary reconstruction, n = 0; and
+and at 8-year follow-up, rupture was detected in revision reconstruction, n = 0) in four patients
+560
+
+--- PÁGINA 6 ---
+Volume 147, Number 3 • MemoryGel Breast Implants
+Fig. 1. Kaplan-Meier estimated cumulative incidence rates of (above, left) reoperation, (above, right) capsular contracture Baker
+grade III and IV, (below, left) explantation with or without replacement, and (below, right) infection.
+Fig. 2. Primary reason for reoperation through 10 years (frequency ≥10 percent in at least one cohort).
+561
+
+--- PÁGINA 7 ---
+Plastic and Reconstructive Surgery • March 2021
+Table 3. Numbers of Reoperations and Additional Surgical Procedures through 10 Years
+Augmentation Reconstruction
+Primary Revision Primary Revision
+No. 552 145 251 60
+No. of patients who had reoperations 133 61 115 30
+No. of reoperations 189 92 157 47
+Additional surgical procedures 329 172 320 94
+Table 4. Types of Additional Surgical Procedures through 10 Years*
+Primary Revision Primary Revision
+Augmentation Augmentation Reconstruction Reconstruction
+No. 329 172 320 94
+Explantation 105 61 116 31
+Explantation with replacement with study device 61 31 62 19
+Explantation without replacement with study device 44 30 54 12
+Capsulectomy 55 29 25 10
+Capsulotomy 31 23 39 5
+Biopsy 29 13 23 13
+*Greater than or equal to 10% in at least one cohort.
+Fig. 3. Primary reason for explantation through 10 years (frequency ≥10 percent in at least one cohort).
+were removed because of suspected rupture. Two intoxication, n = 1), two in the revision augmenta-
+implants (revision augmentation, n = 1; and pri- tion cohort (suicide, n = 1; and primary brain car-
+mary reconstruction, n = 1) in two patients were cinoma, n = 1), 23 in the primary reconstruction
+removed because of suspected rupture, but the cohort (cancer, n = 21; hypertrophic cardiomyop-
+implants were intact on explantation. Fifty-four athy, n = 1; and unknown but according to the site
+suspected ruptures were not removed. “probably cancer,” n = 1), and one in the revision
+reconstruction cohort (metastatic breast cancer).
+Deaths
+Overall, 28 deaths occurred through 10-year Stillbirth
+follow-up: two in the primary augmentation Among study participants, there was one inci-
+cohort (lung cancer, n = 1; and acute alcohol dence of stillbirth of 291 pregnancies.
+562
+
+--- PÁGINA 8 ---
+Volume 147, Number 3 • MemoryGel Breast Implants
+Fig. 4. Patients in magnetic resonance imaging (MRI) cohorts A and
+B who completed magnetic resonance imaging evaluation by year.
+Fig. 5. Kaplan-Meier estimated cumulative incidence of rupture by
+patient.
+563
+
+--- PÁGINA 9 ---
+Plastic and Reconstructive Surgery • March 2021
+Table 5. Cumulative Incidence Rate of Confirmed Rupture in Magnetic Resonance Imaging Cohorts A and B
+Augmentation Reconstruction
+Primary Revision Primary Revision
+% 95% CI % 95% CI % 95% CI % 95% CI
+MRI cohort A
+Implant level 7.36 4.53–11.84 9.85 4.71–20.01 18.98 12.91–27.41 12.26 3.87–35.14
+Patient level 9.81 5.49–17.21 13.85 5.83–30.92 23.04 15.02–34.39 17.65 5.83–30.92
+MRI cohort B
+Implant level 4.63 2.64–8.06 7.90 5.68–10.93 21.29 13.50–32.65 25.56 10.35–54.95
+Patient level 7.61 4.14–13.76 2.63 0.37–17.25 27.70 17.29–42.54 23.64 8.20–57.27
+MRI, magnetic resonance imaging.
+Breast Cancer Often, aesthetic concerns, not medical com-
+During the 10-year follow-up, 10 new diagno- plications, are the driving force for reoperation.
+ses of breast cancer in eight patients were reported These elective revisions that are cosmetic in
+(primary augmentation, n = 3; revision augmenta- nature can elevate the reoperation rate without
+tion, n = 2; primary reconstruction, n = 1; and revi- distinguishing between medically necessary and
+sion reconstruction, n = 2). elective reoperation.6 As suggested by Tebbetts7
+and Spear,6 we have also presented an implant-spe-
+Connective Tissue, Autoimmune, and Rheumatic cific reoperation rate that included reoperations
+Disease attributable to capsular contracture, rippling,
+infection, hematoma/seroma, and rupture, as it
+Twenty-three patients had 29 newly confirmed
+has been suggested that the implant-specific reop-
+diagnoses of connective tissue, autoimmune, or
+eration can be more informative when interpret-
+rheumatic disease during the 10-year follow-up
+ing breast implant safety and efficacy outcomes.8
+period. These included fibromyalgia (n = 6), rheu-
+The overall Kaplan-Meier estimated rupture
+matoid arthritis (n = 4), Sjögren syndrome (n = 3),
+rates (suspected or confirmed) for magnetic reso-
+systemic lupus erythematosus (n = 3), other inflam-
+nance imaging cohorts A and B are presented in
+matory arthritis (n = 2), Raynaud syndrome (n = 2),
+Table 2. It should be noted that these rates may
+carpal tunnel syndrome (n = 1), chronic fatigue
+be overestimates because of the strict definition of
+syndrome (n = 1), Hashimoto thyroiditis (n = 1),
+rupture used in this study: indeterminate ruptures
+other connective disorder (n = 1), pyoderma gan-
+were considered to be ruptures; and disagree-
+grenosum (n = 1), sarcoidosis (n = 1), scleroderma
+ment between a local and a central reviewer, who
+(n = 1), spondyloarthropathies (n = 1), and an
+reviewed all magnetic resonance imaging scans,
+unknown type of arthritis (n = 1).
+was considered as a rupture. The rates presented
+in Table 2 include both suspected (based on
+DISCUSSION magnetic resonance imaging evaluation alone)
+For the primary augmentation cohort, the and confirmed (based on surgical removal of the
+10-year cumulative estimated risk rates for key implant) ruptures. This study also used the most
+complications were as follows: any reoperation, rigorous calculation method to determine the rup-
+25.5 percent; suspected or confirmed rupture, ture rate using data for patients up until the time
+24.2 percent (magnetic resonance imaging cohort of their last magnetic resonance imaging examina-
+A); capsular contracture (Baker grade III and IV), tion (or removal of the device). Follow-up for sub-
+12.1 percent; explantation, 11.6 percent; and jects without a rupture was censored at the date
+infection, 1.6 percent. As to be expected, and con- of their last magnetic resonance imaging scan.
+sistent with the literature,3–5 the incidence rates of Ruptures are most often silent; therefore, using
+key complications, including reoperations, were an office visit rather than magnetic resonance
+higher in the revision than in the primary cohorts imaging as a screening method may result in miss-
+for augmentation and reconstruction procedures, ing silent ruptures and a falsely low estimated rup-
+and higher in the reconstruction than in the aug- ture incidence.9 If the calculation method took
+mentation cohorts for primary and revision pro- into account the last office visit, the estimated
+cedures. Notably, there was a relatively low rate of rupture rate decreased to 19.3 percent for pri-
+malposition observed across cohorts, with only a mary augmentation patients. The precision of the
+1.0 percent cumulative incidence rate in primary 24.2 percent (95 percent CI, 17.0 to 33.9 percent)
+augmentation patients. Kaplan-Meier estimated cumulative rupture rate
+564
+
+--- PÁGINA 10 ---
+Volume 147, Number 3 • MemoryGel Breast Implants
+(suspected or confirmed) for primary augmenta- the reported outcome.9 Furthermore, rupture is
+tion patients at 10 years is also influenced by the a time-related complication. and rupture rates
+relatively lower follow-up rate, which decreases the tend to increase notably around 6 to 10 years after
+precision of the calculation, leading to relatively implantation.9 For example, the 6-year cumulative
+wide confidence intervals. Understanding the incidence by Kaplan-Meier of rupture (suspected
+limitations of imaging in determining rupture, we or confirmed) of MemoryGel breast implants
+also present the Kaplan-Meier estimated cumula- was 1.1 percent for primary augmentation, 11.6
+tive rupture rates of only those ruptures that were percent for revision augmentation, 3.8 percent
+confirmed on explantation of 9.81 percent on a for primary reconstruction, and 5.9 percent for
+patient level and 7.36 percent on an implant level revision reconstruction,2 similar to the 1 percent
+for the primary augmentation cohort (Table 5). rupture rate reported in a retrospective analy-
+The crude rupture rates (obtained by dividing sis comparing postoperative outcomes between
+the number of ruptures by the total number of patients implanted with Allergan (Allergan, Inc.,
+patients enrolled in the study) in those patients Dublin, Ireland) versus Mentor implants after 6.8
+who had primary breast augmentation (magnetic years’ follow-up.11 In the present study, approxi-
+resonance imaging cohorts A and B) were 9.8 per- mately half of the observed implant ruptures were
+cent (54 of 552) by patient and 5.8 percent (65 of identified at the 10-year follow-up.
+1130) by implant. These rates may be potentially Separate analyses examining the differences
+underestimated because of the relatively lower in complication and reoperation rates for smooth
+follow-up of 46 percent. Conversely, the Kaplan- and textured devices were included in the original
+Meier formula looks at longitudinal occurrence of statistical analysis plan and have been reported
+discrete events using censored observations (e.g., elsewhere and highlight the risk-reduction ben-
+incomplete data such as individuals lost to follow- efits of textured implants.12 Briefly, the incidence
+up, discontinuation of the study), leading to a of capsular contracture leading to reoperation in
+presumably more accurate, less biased estimated subglandular primary augmentation patients was
+risk of confirmed and unconfirmed rupture, most significantly lower in patients implanted with tex-
+of which were silent ruptures. The prevalence of tured (4.21 percent; 95 percent CI, 1.60 to 10.85
+silent ruptures compared to symptomatic rup- percent) versus smooth devices (19.84 percent;
+tures likely contributes to the low U.S. rupture 95 percent CI, 12.52 to 30.63 percent; p = 0.0016).
+complaint rate between November of 2006 and In primary reconstruction patients, the incidence
+December of 2019 of 0.7 percent for more than of asymmetry with reoperation was significantly
+2 million MemoryGel Breast Implants. It is impor- lower in those patients implanted with textured
+tant to note that silent ruptures do not manifest (3.88 percent; 95 percent CI, 1.63 to 9.13 per-
+clinically significant symptoms and, therefore, cent) versus smooth implants (11.10 percent; 95
+although these patients are given the choice of percent CI, 6.29 to 19.19 percent; p = 0.0169).
+surgery or observation, approximately one-third Importantly, no patients in this Core study
+in our study did not undergo device removal. were diagnosed with breast implant-associated
+Other studies have shown that most patients anaplastic large cell lymphoma (n = 701 textured-
+do not undergo additional reoperations.9 One surface implants included in the study). Although
+study focused on addressing the health implica- this study was not designed to statistically evalu-
+tions resulting from an untreated silicone breast ate potential cause-and-effect associations, which
+implant rupture demonstrated that, of the women would require well-designed, controlled, epide-
+with intracapsular rupture (n = 77), 90 percent miologic studies, there was no evidence of an asso-
+(n = 69) showed no changes over a 2-year period ciation between the study device and incidence
+between the first and second magnetic resonance (or recurrence) of breast cancer or connective
+imaging evaluations.10 This suggests that, often, tissue/autoimmune/rheumatic disease. Twenty-
+explantation of the implant is not required, as no nine confirmed new diagnoses of connective
+specific significant risk was associated with intra- tissue, autoimmune, or rheumatic disease were
+capsular ruptured implants. Along these lines, rup- reported in 23 patients during the 10-year follow-
+ture accounted for a low number of reoperations up period. With a total of 8469 person-years of
+across cohorts. When comparing across studies, follow-up across all four cohorts, this represents
+it is critical to note the timing of when the mag- an annual incidence rate of 3.4 new diagnoses
+netic resonance imaging scans were obtained and per 1000 person-years. Four confirmed new diag-
+which methods were used to collect and calculate noses of rheumatoid arthritis were reported dur-
+the rupture rates, as these can significantly impact ing the 10-year follow-up period. This represents
+565
+
+--- PÁGINA 11 ---
+Plastic and Reconstructive Surgery • March 2021
+an annual incidence rate of 0.5 per 1000 person- REFERENCES
+years. By comparison, among the plastic sur- 1. Cunningham B. The Mentor Core Study on Silicone
+gery control patients in the study by Brinton et MemoryGel Breast Implants. Plast Reconstr Surg.
+al., there were 49 cases of rheumatoid arthritis 2007;120:19S–29S; discussion 30S–32S.
+2. Cunningham B, McCue J. Safety and effectiveness of
+observed in 23,724 person-years of follow-up, cor-
+Mentor’s MemoryGel implants at 6 years. Aesthetic Plast Surg.
+responding to an annual incidence rate of 2.1
+2009;33:440–444.
+per 1000.13 Ten new diagnoses of breast cancer in 3. Hammond DC, Migliori MM, Caplin DA, Garcia ME, Phillips
+eight patients were reported during the 10-year CA. Mentor Contour Profile Gel implants: Clinical outcomes
+follow-up period, representing an annual inci- at 6 years. Plast Reconstr Surg. 2012;129:1381–1391.
+4. Maxwell GP, Van Natta BW, Murphy DK, Slicton A, Bengtson
+dence rate of 1.2 per 1000 person-years. In a sepa-
+BP. Natrelle style 410 form-stable silicone breast implants:
+rate study by Brinton et al., there were 136 cases Core study results at 6 years. Aesthet Surg J. 2012;32:709–717.
+of breast cancer observed in 96,675 person-years 5. Spear SL, Murphy DK, Slicton A, Walker PS; Inamed Silicone
+of follow-up, corresponding to an annual inci- Breast Implant U.S. Study Group. Inamed silicone breast
+implant core study results at 6 years. Plast Reconstr Surg.
+dence rate of 1.4 per 1000.14 The study event rate
+2007;120(Suppl 1):8S–16S; discussion 17S–18S.
+of stillbirths was one of 291 pregnancies (0.34 per-
+6. Spear SL. Redefining reoperations. Plast Reconstr Surg.
+cent), as compared to 6.05 per 1000 deliveries in 2008;122:1279–1280.
+2012 in a study using data from the U.S. National 7. Tebbetts JB. Reoperations as a benchmark: The rhetoric, the
+Statistics System.15 Thus, in this study, there is no logic, and the patient. Plast Reconstr Surg. 2008;122:662–665.
+8. Codner MA, Mejia JD, Locke MB, et al. A 15-year experi-
+evidence of an association between MemoryGel
+ence with primary breast augmentation. Plast Reconstr Surg.
+Implants and incidence of connective tissue/
+2011;127:1300–1310.
+autoimmune/rheumatic disease or breast cancer. 9. Hillard C, Fowler JD, Barta R, Cunningham B. Silicone breast
+This is consistent with other epidemiologic stud- implant rupture: A review. Gland Surg. 2017;6:163–168.
+ies, which found no association between silicone 10. Holmich LR, Vejborg IM, Conrad C, et al. Untreated silicone
+breast implant rupture. Plast Reconstr Surg. 2004;114:204–
+breast implants and breast cancer or rheumatoid
+214; discussion 215–216.
+arthritis.16–19
+11. Martin SV, Ho W, Khan K, An extended 7-year review of
+textured breast implants for primary breast augmentation:
+Allergan versus Mentor. Ann Breast Surg. 2019;3:14.
+CONCLUSION
+12. Wixtrom RN, Garadi V, Leopold J, Canady JW. Device-specific
+The 10-year follow-up results from this study findings of imprinted-texture breast implants: Characteristics,
+risks, and benefits. Aesthet Surg J. 2020;40:167–173.
+demonstrate that MemoryGel Implants are safe
+13. Brinton LA, Buckley LM, Dvorkina O, et al. Risk of connec-
+and effective for use in adult patients undergoing
+tive tissue disorders among breast implant patients. Am J
+breast augmentation or breast reconstruction. Epidemiol. 2004;160:619–627.
+14. Brinton LA, Lubin JH, Burich MC, Colton T, Brown SL,
+Megan M. Estes, Ph.D.
+Hoover RN. Breast cancer following augmentation mammo-
+31 Technology Drive Building 29A plasty (United States). Cancer Causes Control 2000;11:819–827.
+Irvine, Calif. 92618 15. MacDorman MF, Reddy UM, Silver RM. Trends in stillbirth
+by gestational age in the United States, 2006-2012. Obstet
+Gynecol. 2015;126:1146–1150.
+ACKNOWLEDGMENTS 16. Breiting VB, Hölmich LR, Brandt B, et al. Long-term health
+This trial was sponsored by Mentor Worldwide LLC. status of Danish women with silicone breast implants. Plast
+Reconstr Surg. 2004;114:217–226; discussion 227–228.
+The authors are grateful to Gene Poggio, Ph.D., Rong
+17. Brinton LA. The relationship of silicone breast implants
+Lin, M.D., M.P.H., and John Leopold for biostatistical
+and cancer at other sites. Plast Reconstr Surg. 2007;120(Suppl
+support. 1):94S–102S.
+This trial is registered under the name “Core Gel Study 18. Deapen D. Breast implants and breast cancer: A review of
+of the Safety and Effectiveness of Mentor Round Low Bleed incidence, detection, mortality, and survival. Plast Reconstr
+Surg. 2007;120(Suppl 1):70S–80S.
+Silicone Gel-filled Mammary Prostheses,” ClinicalTrials.
+19. Janowsky EC, Kupper LL, Hulka BS. Meta-analyses of the
+gov identification no. NCT00753922 (https://www.
+relation between silicone breast implants and the risk of
+clinicaltrials.gov/ct2/show/NCT00753922). connective-tissue diseases. N Engl J Med. 2000;342:781–790.
+566

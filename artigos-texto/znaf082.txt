@@ -1,0 +1,809 @@
+--- PÁGINA 1 ---
+BJS, 2025, znaf082
+https://doi.org/10.1093/bjs/znaf082
+Original Article
+Comparison of revision surgery after implant-based
+breast reconstruction between smooth, textured,
+and polyurethane-covered implants: results from
+the Dutch Breast Implant Registry
+J. Xavier Harmeling1, J. Juliët Vrolijk2,3, Erik Heeg4, Babette E. Becherer1,5 , Hinne A. Rakhorst3,6,7, Eveline M. L. Corten1,
+Marta Fiocco8,9,10and Marc A. M. Mureau1,3,*
+1Department of Plastic and Reconstructive Surgery, Erasmus MC Cancer Institute, University Medical Center Rotterdam, Rotterdam, Zuid-Holland,
+The Netherlands
+2Department of Plastic and Reconstructive Surgery, Maastricht University Medical Center +, Maastricht, The Netherlands
+3Dutch Institute for Clinical Auditing, Leiden, The Netherlands
+4Department of Plastic, Reconstructive and Hand Surgery, Amsterdam University Medical Center, Amsterdam, The Netherlands
+5Allegro Medical, Hilversum, Noord-Holland, The Netherlands
+6Department of Plastic, Reconstructive, and Hand Surgery, Medisch Spectrum Twente, Enschede, The Netherlands
+7Department of Plastic, Reconstructive, and Hand Surgery, ZGT, Almelo, The Netherlands
+8Mathematical Institute, Leiden University, Leiden, The Netherlands
+9Department of Biomedical Data Science, Section Medical Statistics, Leiden University Medical Center, Leiden, The Netherlands
+10Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands
+*Correspondence to: Marc A.M. Mureau, Na-22.24, P.O. Box 2040, 3000 CA, The Netherlands (e-mail: m.mureau@erasmusmc.nl)
+Meeting presentations: The results of this study were presented at the European Society of Aesthetic Plastic Surgery Biannual Meeting on 12 September 2024
+in Göteborg, Sweden and at the autumn meeting of the Netherlands Society for Plastic Surgery on 9 November 2024 in Eindhoven, The Netherlands.
+Abstract
+Background: Implant-based breast reconstruction is the most common technique after mastectomy. Breast implants are categorized
+by surface type as smooth, textured, or polyurethane-covered, each with specific attributed advantages and complication profiles.
+High-quality comparative studies are, however, limited. This study compared revision incidence and indications for revision
+among these implant types.
+Methods: A prospective, nationwide cohort from the Dutch Breast Implant Registry was analysed. Permanent implants used between
+2017 and 2022 for direct-to-implant or two-stage reconstruction were included. Surface-related revision was the primary outcome.
+Cumulative incidences were estimated using a competing risk model. Cause-specific hazard ratios (HR ) were calculated using
+cs
+univariable and multivariable models, accounting for implant clustering and confounders. Subgroup analyses examined revisions
+for specific complications.
+Results: Of 3996 implants, 76.9% were textured, 12.4% smooth, and 10.8% polyurethane-covered. At 4 years, the cumulative incidence
+of revision surgeries did not differ between textured (11.1%; 95% c.i. = 9.9 to 12.5), smooth (13.0%; 95% c.i. = 8.5 to 18.4), and
+polyurethane-covered (16.1%; 95% c.i. = 12.4 to 20.2) implants. Multivariable analysis found no association between surface type
+and surface-related revision. Subgroup analysis however revealed that polyurethane-covered implants had increased hazards of
+revision for capsular contracture (HRcs = 2.49; 95% c.i. = 1.24 to 5.01) and asymmetry (HRcs = 2.31; 95% c.i. = 1.33 to 4.02).
+Conclusion: After adjusting for confounders and clustering, surface-related revision in a reconstructive setting did not significantly
+different among breast implant surface types overall. Polyurethane-covered implants may, however, require more revisions due to
+capsular contracture and asymmetry.
+Introduction mastectomy is improved significantly by breast reconstruction6.
+Breast reconstruction can be performed using a breast implant,
+Breast cancer is the most diagnosed malignancy worldwide, with 2.3 autologous tissue, or a combination of both7. Implant-based
+million new patients diagnosed each year1. Mastectomy is part of its breast reconstruction (IBBR) is the most commonly performed
+surgical treatment in approximately 30% of patients with an invasive reconstructive technique8.
+tumour2. In addition, approximately 30% of unilateral breast cancer Breast implants can be classified based on their surface
+patients opt for contralateral prophylactic mastectomy and about characteristics, with three primary categories identified: smooth,
+40% of women with a genetic predisposition for breast cancer textured, and polyurethane-covered9. For decades, there has been
+choose prophylactic bilateral mastectomy3–5. Quality of life after an ongoing discussion about implant surface types and their
+Received: December 13, 2024. Revised: February 14, 2025. Accepted: March 22, 2025
+© The Author(s) 2025. Published by Oxford University Press on behalf of BJS Foundation Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 2 ---
+2 | BJS, 2025, Vol. 112, No. 5
+advantages and disadvantages10. Capsular contracture, a common Netherlands) were excluded from analysis. Exact definitions of
+complication of IBBR, and its relation to breast implant surface all variables used for analysis can be found in the DBIR Data
+makes up a substantial part of this discussion. A capsule that Dictionary (Digital Content S1).
+develops naturally around every breast implant can contract Each implant insertion surgery included was required to have a
+with the breast becoming hard, disfigured, and painful. follow-up of at least 60 days because a substantial number of
+Originally, polyurethane-covered implants were introduced complications in breast implant surgery occur after 30 days38,39.
+as an alternative to smooth implants to reduce the risk of The data set was last updated on 17 March 2023. This study
+capsular contracture, claiming that the polyurethane structure follows the STROCSS guideline and the Declaration of Helsinki.
+prevents collagen fibres within the capsule from contracting. It was approved by the scientific board of DBIR and the Medical
+Subsequently, textured implants were developed to mimic this Ethical Research Committee of the Erasmus Medical Centre
+property11. An additional advantage of these non-smooth (MEC-2023–0300) and registered at DRKS40,41.
+surfaced breast implants is their greater tissue adherence,
+which may reduce malposition and rotation12,13. Capsular Definitions
+contracture and associated consequences such as asymmetry, The primary outcome was surface-related revision surgery,
+malposition, and breast pain are among the most frequently defined as any reoperation after insertion of the permanent
+reported indications for revision surgery after IBBR14–16. implant, during which the implant was repositioned, replaced,
+Revision surgery reduces the quality of life of patients17,18. or explanted due to an indication possibly related to the implant
+Presently, a paucity of literature exists comparing different surface. All remaining revisions were labelled non–
+breast implant surface types and their associated risk of revision surface-related revisions (Table S1). Textured implants can be
+surgery after IBBR. Previous studies, focusing on capsular further classified according to roughness and surface area
+contracture, suggest a lower risk of capsular contracture for characteristics into subgroups, for example micro- and
+textured implants than smooth implants19–23. Additionally, macro-textured. Various classification systems have been
+limited evidence indicates that polyurethane-covered implants proposed using different approaches and cut-off values11,42–45.
+have a lower risk of capsular contracture than textured Because no consensus exists on a preferred classification
+implants24–32. However, most studies regarding capsular system, this study did not differentiate between subgroups of
+contracture were retrospective, and the few prospective studies textured implants. Immediate reconstruction was defined as
+lack an adequate control cohort. Moreover, these studies often implant insertion at the time of mastectomy, and delayed
+suffered from other methodological flaws such as short reconstruction was defined as insertion during a separate
+follow-up, small sample sizes and confounding. Nonetheless, procedure after mastectomy. Direct-to-implant IBBR was
+manufacturers centralize their marketing strategy around breast defined as the immediate insertion of a permanent implant
+implant surface characteristics, claiming significant advantages, following mastectomy without prior tissue expander insertion.
+specifically regarding the risk of capsular contracture. Two-stage IBBR was defined as the insertion of a tissue
+The current study aimed to compare the incidence of expander after mastectomy followed by a second operation
+surface-related revision and revision indications between during which the tissue expander was replaced with a
+smooth, textured, and polyurethane-covered breast implants in a permanent implant. Therapeutic mastectomies were performed
+prospective, nationwide, population-based breast reconstruction for breast cancer. Unplanned tissue expander revision was
+cohort using real-world data from a breast implant registry. defined as reoperation during the first stage of a two-stage IBBR.
+The number of applied Infection Control Measures (ICMs) was
+categorized based on the nationwide median. It included
+Methods
+preoperative/postoperative antibiotics, nipple guards, pocket
+Study design and population irrigation, glove change, sleeve/Keller funnel, and drains46.
+Data were retrieved from the Dutch Breast Implant Registry (DBIR),
+Statistical analysis
+a mandatory, nationwide, population-based registry in the
+Netherlands where the patient, surgery, and implant Analyses were performed with implants as units of analysis.
+characteristics of all patients undergoing reconstructive or Baseline characteristics and revision indications were analysed
+cosmetic surgery with permanent breast implants or tissue using descriptive statistics. Implants without any revision at the
+expanders are prospectively registered33,34. DBIR started in 2015 closure of the data set were right censored. Administrative
+and has a national capture rate of 97% (8 academic hospitals, 65 censoring was performed at 4 years. Time to revision was defined
+regional hospitals, and 32 private clinics)33–36. DBIR supports as the time from insertion of the permanent implant to its
+tracking breast implants between medical institutions. The DBIR surgical revision. The cumulative incidence of surface-related
+has been validated through a systematic data verification revision was estimated using a competing risk model with non–
+process37. surface-related revision as a competing event47. Gray’s test
+For this observational study, all permanent breast implants assessed differences between the cause-specific cumulative
+inserted for immediate direct-to-implant or two-stage IBBR after incidences of revision of each implant surface over the entire
+therapeutic or prophylactic mastectomy between September follow-up48. A significant value of P indicates that over follow-up
+2017 and November 2022 were included. The pilot period before as a whole, there is a significant difference in cumulative incidence
+September 2017, which prompted a major database update, was of surface-related revision between implant surface types.
+excluded to increase data quality. Delayed reconstructions, To quantify the effect of implant surface type on surface-related
+reconstructions involving additional surgical techniques (fat revision, univariable and multivariable hazard regression models
+grafting, autologous flaps, mastopexy), reconstructions that were used to estimate cause-specific hazard ratios (HR ), taking
+cs
+were preceded by any previous breast implant surgery clustering of implants within patients into account and adjusting
+(excluding tissue expander insertion as part of a two-stage for confounding factors that were selected based on existing
+reconstruction), or non–silicone-filled implants (a rarity in the literature and clinical knowledge. As there were sufficient
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 3 ---
+Harmeling et al. | 3
+degrees of freedom (at least 10 events per category in the model), all 1.1 years for polyurethane-covered implants (i.q.r. = 0.6–1.5;
+confounding factors were added to the multivariable model, range = 0.0–4.3).
+provided they did not show multicollinearity using a variance Over the entire follow-up period, the cumulative incidence of
+inflation factor (VIF) ≥ 3 as the cut-off value49,50. Unplanned surface-related revision differed significantly between breast
+tissue expander revision and implant shape were excluded as implant surface types (P = 0.020). At 4 years follow-up, no
+confounders because they correlated with the reconstruction significant difference in cumulative incidence was observed
+type and implant surface respectively. The proportional-hazards between textured (11.1%; 95% c.i. = 9.9 to 12.5), smooth (13.0%;
+assumption was tested with the scaled Schoenfeld residuals. As 95% c.i. = 8.5 to 18.4), and polyurethane-covered implants
+the proportional-hazards assumption was violated for the type of (16.1%; 95% c.i. = 12.4 to 20.2) (Fig. 1).
+reconstruction, BMI, reconstruction indication, plane, and The multivariable cause-specific hazard regression found no
+acellular dermal matrix (ADM)/mesh use, a stratified hazard association between implant surface and surface-related revision
+regression was estimated with separate baseline hazards for each (Table 2). Table S2shows the effect of the selected confounders on
+stratum. surface-related revision. ASA classification III+ (HR = 1.91; 95%
+cs
+Because capsular contracture has been a central theme in c.i. = 1.34 to 2.74), smoking (HR = 1.52; 95% c.i. = 1.09 to 2.12), and
+cs
+breast implant-related outcome research, subgroup analyses previous radiotherapy (HR = 1.50; 95% c.i. = 1.08 to 2.09) were
+cs
+focusing on revision surgery due to capsular contracture and associated with a higher hazard of surface-related revision.
+associated revision indications such as asymmetry, malposition, Bilateral surgery (HR = 0.79; 95% c.i. = 0.63 to 0.99) and
+cs
+and breast pain were performed. The method of these subgroup direct-to-implant procedures (HR = 0.61; 95% c.i. = 0.49 to 0.76)
+cs
+analyses mirrors that of the primary investigation. were associated with a lower hazard of surface-related revision.
+In all analyses, two-sided P < 0.05 were considered statistically
+significant. All analyses concerning the competing risk models Revision indications
+were performed in the R software environment with the mstate Considering all surface-related revisions, the most frequently
+and survival library (version 4.2.1)51,52. reported indications were asymmetry (27.4%), breast pain
+(26.6%), deep wound infection (26.4%), and capsular contracture
+(23.5%) (Table S3).
+Results
+Subgroup analyses
+A total of 3150 patients and 3996 permanent breast implants
+met the eligibility criteria (Fig. S1). Of the included implants, 76.9% Capsular contracture
+(n = 3072) had a textured surface, 12.4% (n = 494) a smooth Revision due to capsular contracture occurred in 2.0% (n = 62) of
+surface, and 10.8% (n = 430) a polyurethane-covered surface. textured, 1.8% (n = 9) of smooth, and 4.4% (n = 19) of polyurethane
+Patients had a mean age of 48.4 years (11.8 s.d.). In the study implants. Over the entire follow-up period, the cumulative
+population, 5.1% (n = 203) of implants were inserted in patients incidence of revision due to capsular contracture differed
+classified as ASA III or higher, 9.4% (n = 376) in current smokers, significantly between breast implant surface types (P = 0.016). At 4
+and 8.6% (n = 345) after previous radiotherapy. A total of 78.8% years follow-up, no significant difference in cumulative incidence
+(n = 3148) implants were inserted after mastectomy for breast was observed between textured (2.4%; 95% c.i. = 1.8% to 3.1%),
+cancer and 21.2% (n = 848) after prophylactic mastectomy. A total smooth (4.7%; 95% c.i. = 1.8% to 9.8%), and polyurethane-covered
+of 43.6% (n = 1743) implants were used in a direct-to-implant implants (5.1%; 95% c.i. = 3.1% to 7.8%) (Fig. 2a). In the multivariable
+reconstruction and 56.4% (n = 2253) in a two-stage reconstruction. cause-specific hazard regression, polyurethane implants showed
+In the two-stage reconstruction group, 8.4% (n = 336) of implants an increased hazard of revision due to capsular contracture (HR =
+cs
+were inserted after an unplanned tissue expander revision during 2.49; 95% c.i. = 1.24 to 5.01) compared to textured implants (Table 3).
+the first stage. A total of 37.3% (n = 1489) of implants were placed
+in a total submuscular plane. An ADM or mesh was used Asymmetry
+for 11.0% (n = 438) of implants. Round implants were used in
+Revision due to asymmetry occurred in 2.1% (n = 66) of textured, 3.0%
+19.5% (n = 779) and anatomical implants in 80.4% (n = 3212) of all
+(n = 15) of smooth, and 5.6% (n = 24) of polyurethane-covered
+reconstructions. The reconstructions were performed in 77 implants. Over the entire follow-up period, the cumulative
+healthcare institutions with a median volume per institution of 75
+incidence of revision due to asymmetry differed significantly
+post-mastectomy reconstructions per year (interquartile range
+between breast implant surface types (P < 0.001). At 4 years
+(i.q.r.) 46–103; range = 1–522). Low institutional volumes were
+follow-up, it differed significantly between polyurethane-covered
+observed in clinics where mainly cosmetic breast augmentations
+(6.3%; 95% c.i. = 4.0% to 9.3%) and textured implants (2.7%; 95%
+are performed. Baseline characteristics per implant surface group c.i. = 2.1% to 3.5%). The cumulative incidence for smooth implants
+are shown in Table 1.
+was equal to 5.1% (95% c.i. = 2.9 to 8.3) (Fig. 2b). In the multivariable
+cause-specific hazard regression, polyurethane-covered implants
+Cumulative incidence of surface-related revision showed an increased hazard of revision due to asymmetry
+Of 3996 included implants, 90.4% (n = 3613) did not undergo (HR cs = 2.31; 95% c.i. = 1.33 to 4.02) compared to textured implants
+surface-related revision surgery, whereas surface-related revision (Table 3).
+occurred in 9.3% (n = 285) of textured implants, 7.7% (n = 38) of
+Device malposition
+smooth implants, and 14.0% (n = 60) of polyurethane-covered
+implants. The median follow-up for the complete cohort was 2.4 Revision due to device malposition occurred in 1.5% (n = 47)
+years (i.q.r. = 1.3–3.7). Median time to surface-related revision was of textured, 1.0% (n = 5) of smooth, and 2.1% (n = 9) of
+0.9 years for the complete cohort (i.q.r. = 0.2–1.7; range = 0.0–5.0), polyurethane-covered implants. Over the entire follow-up period,
+0.8 years for textured implants (i.q.r. = 0.1–1.8; range = 0.0–5.1), 1.0 the cumulative incidence of revision due to device malposition did
+years for smooth implants (i.q.r. = 0.3–1.7; range = 0.0–3.7), and not differ significantly between breast implant surface types
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 4 ---
+4 | BJS, 2025, Vol. 112, No. 5
+Table 1 Baseline characteristics at time of permanent breast implant insertion for post-mastectomy reconstruction
+Total (n = 3996) Textured (n = 3072) Smooth (n = 494) Polyurethane (n = 430)
+Age (years), mean(s.d.) 48.4 (11.8) 48.7 (11.8) 47.1 (11.8) 47.5 (12.0)
+Missing 7 (0.2) 4 (0.1) 2 (0.4) 1 (0.2)
+ASA classification
+I 1705 (42.7) 1346 (43.8) 191 (38.7) 168 (39.1)
+II 2079 (52.0) 1558 (50.7) 287 (58.1) 234 (54.4)
+III+ 203 (5.1) 162 (5.3) 14 (2.8) 27 (6.3)
+Missing 9 (0.2) 6 (0.2) 2 (0.4) 1 (0.2)
+BMI (kg/m2), median (i.q.r.) 23.7 (21.6–26.5) 23.8 (21.6–26.4) 23.5 (21.8–26.4) 23.5 (21.5–26.7)
+Missing 112 (3.8) 106 (3.5) 5 (1.0) 1 (0.2)
+Smoking status
+Non-smoker 3346 (83.7) 2554 (83.1) 426 (86.2) 366 (85.1)
+Smoker 376 (9.4) 296 (9.6) 42 (8.5) 38 (8.8)
+Missing 274 (6.9) 222 (7.2) 26 (5.3) 26 (6.0)
+Previous radiotherapy
+No 3549 (88.8) 2737 (89.1) 429 (86.8) 383 (89.1)
+Yes 345 (8.6) 238 (7.7) 61 (12.3) 46 (10.7)
+Missing 102 (2.6) 97 (3.2) 4 (0.8) 1 (0.2)
+Year of insertion*
+2017 149 (3.7) 139 (4.5) 0 (0.0) 10 (2.3)
+2018 646 (16.2) 554 (18.0) 4 (0.8) 88 (20.5)
+2019 831 (20.8) 647 (21.1) 104 (21.1) 80 (18.6)
+2020 903 (22.6) 665 (21.6) 131 (26.5) 107 (24.9)
+2021 835 (20.9) 644 (21.0) 116 (23.5) 75 (17.4)
+2022 632 (15.8) 423 (13.8) 139 (28.1) 70 (16.3)
+Institutional volume per year
+<75th percentile 1991 (49.8) 1564 (50.9) 184 (37.2) 243 (56.5)
+≥75th percentile 2005 (50.2) 1508 (49.1) 310 (62.8) 187 (43.5)
+Indication for reconstruction
+Therapeutic mastectomy 3148 (78.8) 2445 (79.6) 380 (76.9) 323 (75.1)
+Prophylactic mastectomy 848 (21.2) 627 (20.4) 114 (23.1) 107 (24.9)
+Laterality
+Unilateral 2023 (50.6) 1583 (51.5) 242 (49.0) 198 (46.0)
+Bilateral 1973 (49.4) 1489 (48.5) 252 (51.0) 232 (54.0)
+Type of reconstruction
+Direct-to-implant 1743 (43.6) 1351 (44.0) 180 (36.4) 212 (49.3)
+Two-stage 2253 (56.4) 1721 (56.0) 314 (63.6) 218 (50.7)
+Unplanned TE revision
+No 1917 (48.0) 1477 (48.1) 252 (51.0) 188 (43.7)
+Yes 336 (8.4) 244 (7.9) 62 (12.6) 30 (7.0)
+Not applicable: direct-to-implant 1743 (43.6) 1351 (44.0) 180 (36.4) 212 (49.3)
+Incision site
+Nipple sparing 1663 (41.6) 1250 (40.7) 203 (41.1) 210 (48.8)
+Non-nipple sparing 2126 (53.2) 1658 (54.0) 268 (54.3) 200 (46.5)
+Other 126 (3.2) 90 (2.9) 17 (3.4) 19 (4.4)
+Missing 81 (2.0) 74 (2.4) 6 (1.2) 1 (0.2)
+Plane
+Total submuscular plane 1489 (37.3) 1206 (39.3) 164 (33.2) 119 (27.7)
+Other 2368 (59.3) 1736 (56.5) 322 (65.2) 310 (72.1)
+Missing 139 (3.5) 130 (4.2) 8 (1.6) 1 (0.2)
+Number of applied ICMs during
+implant insertion
+<4 775 (19.4) 636 (20.7) 96 (19.4) 43 (10.0)
+4 1461 (36.6) 1159 (37.7) 211 (42.7) 91 (21.2)
+>4 1758 (44.0) 1275 (41.5) 187 (37.9) 296 (68.8)
+Missing 2 (0.1) 2 (0.1) 0 (0.0) 0 (0.0)
+ADM/mesh
+No 3428 (85.8) 2578 (83.9) 463 (93.7) 387 (90.0)
+Yes 438 (11.0) 367 (11.9) 28 (5.7) 43 (10.0)
+Missing 130 (3.3) 127 (4.1) 3 (0.6) 0 (0.0)
+Implant shape
+Round 779 (19.5) 284 (9.2) 484 (98.0) 11 (2.6)
+Anatomical 3212 (80.4) 2783 (90.6) 10 (2.0) 419 (97.4)
+Missing 5 (0.1) 5 (0.2) 0 (0.0) 0 (0.0)
+Follow-up (years), median (i.q.r.) 2.4 (1.3–3.7) 2.5 (1.4–3.9) 1.9 (1.0–3.0) 2.6 (1.3–3.9)
+ADM, acellular dermal matrix; ICM, infection control measure; PM, pectoralis major; TE, tissue expander. Values are n (%) unless otherwise indicated. *2017 and 2022
+were incomplete registration years, because data in 2017 were included from September and in 2022 until November.
+(P = 0.640). At 4 years follow-up, no significant difference in (Fig. 2c). The proportional hazard assumption was violated for
+cumulative incidence was observed between textured (2.1%; 95% implant surface in the multivariable cause-specific hazard
+c.i. = 1.5% to 2.8%), smooth (3.5%; 95% c.i. = 1.0% to 8.7%), and regression; however, there was no statistically significant
+polyurethane-covered implants (2.2%; 95% c.i. = 1.1% to 4.0%) difference in hazard ratios (Table 3).
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 5 ---
+25
+20
+15
+10
+5
+Gray’s test P = 0.020
+0 1 2 3 4
+Years since insertion of permanent implant
+3072 2524 1883 1249 678
+494 364 228 121 19
+430 358 263 175 103
+significant difference in hazards of revision due to breast pain
+between polyurethane-covered and textured implants. However,
+the proportional hazard assumption was violated for implant
+surface type (Table 3).
+Discussion
+This study used prospective data from the Dutch Breast Implant
+Registry to compare cumulative incidences and hazards of
+surface-related revisions among textured, smooth, and
+polyurethane-covered implants after implant-based breast
+reconstruction. It is the first prospective, population-based study
+using real-world data from a nationwide registry to compare the
+performance of these implant types. Although 90.4% of breast
+implants required no surface-related revision, the cumulative
+incidence over the entire follow-up period differed significantly
+between implant surface types.
+Polyurethane-covered implants showed a notable increase in
+cumulative surface-related revision incidence between 1 and 2
+years’ follow-up, which levelled off thereafter. Consequently, by
+4 years it did not differ significantly between textured (11.1%),
+Breast pain
+smooth (13.0%), and polyurethane-covered implants (16.1%).
+Revision due to breast pain occurred in 2.2% (n = 68) of textured, 2.8% Multivariable cause-specific hazard regression revealed no
+(n = 14) of smooth, and 4.7% (n = 20) of polyurethane-covered significant differences in surface-related revision between
+implants. Over the entire follow-up period, the cumulative implant surface types. Subgroup analyses focusing on revisions
+incidence of revision due to breast pain differed significantly for capsular contracture and asymmetry, however, showed
+between breast implant surface types (P = 0.010). At 4 years significantly higher hazards for polyurethane-covered implants
+follow-up, no significant difference in cumulative incidence was than for textured implants.
+observed between textured (2.9%; 95% c.i. = 2.2 to 3.6), smooth The cumulative incidences of revision in this study align with
+(6.5%; 95% c.i. = 3.1 to 11.6), and polyurethane-covered implants those reported by the Australian Breast Device Registry14.
+(5.2%; 95% c.i. = 3.2 to 7.8) (Fig. 2d). In the multivariable Comparative prospective trials investigating revisions by implant
+cause-specific hazard regression, there was a statistically surface type remain limited. The largest prospective studies on
+)%(
+ecnedicni
+noisiver
+evitalumuC
+Harmeling et al. | 5
+Textured n = 3072
+Smooth n = 494
+Polyurethane n = 430
+No. at risk
+Textured
+Smooth
+Polyurethane
+Fig. 1 Cumulative incidence of surface-related revision of permanent breast implants inserted for post-mastectomy reconstruction, stratified
+according to implant surface
+The curves have not been adjusted for confounders and clustering within patients has not been taken into account. Confidence intervals are displayed by the
+shadows of the curves.
+Table 2 Cause-specific hazard regression of surface-related
+revision of permanent breast implants inserted for
+post-mastectomy reconstruction
+Textured (n = 3072, n events = 285 (9.3%)) HRcs (95% c.i.)
+Smooth (n = 494, n events = 38 (7.7%))
+Polyurethane (n = 430, n events = 60 (14.0%))
+Unadjusted (univariable cause-specific
+hazard regression)
+Textured ref
+Smooth 0.96 (0.66, 1.41)
+Polyurethane 1.48 (1.08, 2.04)
+Adjusted (multivariable cause-specific
+hazard regression)*
+Textured ref
+Smooth 0.82 (0.45, 1.50)
+Polyurethane 1.08 (0.51, 2.29)
+Value in bold is statistically significant. HRcs, cause-specific hazard ratio.
+*Adjusted for acellular dermal matrix/mesh use, age, ASA classification, BMI,
+indication for reconstruction, institutional volume per year, laterality, number
+of applied infection control measures during implant insertion, plane, previous
+radiotherapy, smoking status, type of reconstruction, and taking clustering
+within patients into account. Incision site could not be included as a
+confounder because one of the categories contained zero events.
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 6 ---
+Textured n = 3072 Textured n = 3072
+Smooth n = 494 Smooth n = 494
+Polyurethane n = 430 Polyurethane n = 430
+Years since insertion of permanent implant Years since insertion of permanent implant
+Textured n = 3072 Textured n = 3072
+Smooth n = 494 Smooth n = 494
+Polyurethane n = 430 Polyurethane n = 430
+Years since insertion of permanent implant Years since insertion of permanent implant
+outcomes following textured implants are manufacturer-initiated Subgroup analysis revealed a higher cumulative incidence of
+post-approval studies, which have reported revision rates of 18.0– revision for capsular contracture in polyurethane-covered
+31.8% at 3–5 years53,54. Prospective data on polyurethane-covered implants (5.1%) compared to textured implants (2.4%) at 4 years.
+implants used for breast reconstruction are scarce, with one This was confirmed in the multivariable analysis. This contrasts
+study reporting a 5% revision rate after 159 pre-pectoral IBBRs with literature suggesting lower rates of capsular contracture
+with a mean follow-up of 11 months55. for polyurethane-covered implants, with reported rates ranging
+The relatively lower cumulative incidences of revision in the from 1.8% to 8.1% after 4–9 years24,25. It should be noted that
+current study may be partially attributed to its specific focus on the current study only included capsular contractures that
+surface-related revisions and the low incidence of prior required revision surgery.
+radiotherapy (8.6%). Radiotherapy is a known risk factor for Only one retrospective study, with a median follow-up of
+increased revisions, as shown by population-based data from 2.3 years, compared the capsular contracture rate of
+Canada, where 16.1% of immediate IBBRs received radiotherapy56. polyurethane-covered implants (8.1%) with textured implants
+Dutch guidelines discourage immediate IBBR if adjuvant (15.8%) after IBBR26. For textured implants, the present study
+radiotherapy is indicated and recommend using autologous flaps observed a relatively low cumulative incidence of revision for
+following prior radiotherapy7. capsular contracture of 2.4% compared to previously reported
+)%(
+ecnedicni
+noisiver
+evitalumuC
+a b
+c d
+)%(
+ecnedicni
+noisiver
+evitalumuC
+)%(
+ecnedicni
+noisiver
+evitalumuC
+)%(
+ecnedicni
+noisiver
+evitalumuC
+6 | BJS, 2025, Vol. 112, No. 5
+10 10
+5 5
+Gray’s test P = 0.016 Gray’s test P < 0.001
+0 1 2 3 4 0 1 2 3 4
+10 10
+5 5
+GGrraayy’’ss tteesstt P = 0.64 Gray’s test P = 0.010
+0 1 2 3 4 0 1 2 3 4
+Fig. 2 a–d. Cumulative incidence of revision due to specific complications of permanent breast implants inserted for postmastectomy reconstruction,
+stratified according to implant surface
+a Capsular contracture, b asymmetry, c implant malposition, and d breast pain. The curves have not been adjusted for confounders and clustering within patients
+has not been taken into account. Confidence intervals are displayed by the shadows of the curves. Numbers at risk are equal to Fig. 1.
+Table 3 Cause-specific hazard regression of revision due to specific complications of permanent breast implants inserted for
+post-mastectomy reconstruction
+Capsular contracture Asymmetry Device malposition Breast pain
+HRcs (95% c.i.) HRcs (95% c.i.) HRcs (95% c.i.) HRcs (95% c.i.)
+Unadjusted (univariable cause-specific hazard regression)
+Textured ref ref ref ref
+Smooth 1.16 (0.53, 2.51) 1.66 (0.88, 3.10) 0.80 (0.31, 2.08)† 1.58 (0.82, 3.02)†
+Polyurethane 2.15 (1.20, 3.88) 2.56 (1.49, 4.41) 1.35 (0.57, 3.16)† 2.08 (1.20, 3.60)†
+Adjusted (multivariable cause-specific hazard
+regression)*
+Textured ref ref ref Ref
+Smooth 0.93 (0.33, 2.65) 1.16 (0.56, 2.40) 0.72 (0.24, 2.14)† 1.37 (0.66, 2.85)†
+Polyurethane 2.49 (1.24, 5.01) 2.31 (1.33, 4.02) 1.73 (0.75, 3.99)† 2.35 (1.26, 4.38)†
+Values in bold are statistically significant. HRcs, cause-specific hazard ratio. *Adjusted for acellular dermal matrix/mesh use, age, ASA classification, BMI, indication
+for reconstruction, institutional volume per year, laterality, number of applied infection control measures during implant insertion, plane, previous radiotherapy,
+smoking status, type of reconstruction, and taking clustering within patients into account. †The proportional hazards assumption was violated for implant surface.
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 7 ---
+Harmeling et al. | 7
+capsular contracture rates—with or without revision—of the risk of capsular contracture, and surgeons may have thus
+5.9–17.2% after 3–5 years follow-up28,53,54,57. preferentially choose these implants in patients perceived to be at
+Most previous studies lacked data on radiotherapy, a major risk higher risk.
+factor for capsular contracture. Some studies suggested that Importantly, DBIR does not capture data on adjuvant radiotherapy
+polyurethane-covered implants mitigate the impact of following immediate reconstruction, which might have introduced
+radiotherapy compared to textured implants25,26. However, the confounding by indication, although none of the revised implants
+literature on capsular contracture following polyurethane-covered in this study were exposed to radiotherapy following original
+IBBR is of limited quality due to inadequate study designs. In placement. Limitations also include a follow-up period of only 4
+addition, conflicts of interest may have influenced some studies. years and potential underreporting of revisions, particularly those
+Nonetheless, manufacturers confidently assert benefits of involving implant repositioning without replacement. This may
+polyurethane in their marketing. have led to an underestimation of the true chance of revision.
+In both unadjusted and adjusted analyses, polyurethane-covered As the DBIR database and follow-up increase, future analyses
+implants had a significantly higher chance of revision for may detect statistically significant differences that were not
+asymmetry compared to textured implants. Previous studies have apparent in this study, as the incidence of revisions increases
+reported asymmetry rates of 11% for polyurethane-covered with time29,30,32. Observational studies like this are inherently
+implants after 12 months, compared to 4.5–8.7% for textured susceptible to bias, requiring careful interpretation of results in
+implants over 3–5 years53,54,58. Asymmetry can result from various the context of the complexities involved in decision-making
+causes, including malposition, rotation, and capsular contracture. regarding IBBR.
+A systematic review reported malposition rates of 2.1–4.0% at 6 Future research should prioritize high-quality, prospective,
+years follow-up for textured implants compared to 1.8% for comparative studies to assess complications and revision rates
+polyurethane-covered implants24. Note that these results following IBBR. Registry-based research offers a valuable
+originated from non-comparative studies with substantial alternative to traditional randomized controlled trials64.
+design flaws. A prospective, multicentre, non-randomized trial Registries similar to DBIR are available in other countries
+showed a significantly lower rate of revision surgery for and are well-suited for this type of research. A recent
+asymmetry after primary reconstruction with textured (3.9%) proof-of-concept study combining international registry data
+compared to smooth implants (11.1%) over 10 years23. It is highlights the potential for generating high-quality evidence on
+important to highlight that smooth implants in the current breast implant safety65. Additionally, an exception to the
+study were predominantly round. Consequently, these General Data Protection Regulation allowing linking related
+reconstructions cannot develop asymmetry due to rotation, registries, such as DBIR and the NABON Breast Cancer Audit, a
+unlike reconstructions with anatomical textured implants. comprehensive Dutch registry collecting essential data on
+Quality of life, costs, and cost-effectiveness remain key research breast cancer care, could greatly improve future research.
+areas in breast reconstruction comparing implant-based and
+autologous techniques. Quality-of-life differences are moderate and
+Funding
+limited to specific scales in condition-specific questionnaires6,59,60.
+Complications after autologous reconstruction appear to negatively None.
+influence quality of life more than complications following IBBR6,61.
+Some have hypothesized that IBBR, over long-term follow-up,
+Acknowledgements
+requires more revision surgeries than autologous reconstruction,
+leading to higher costs, lower quality of life, and reduced The authors thank all plastic surgeons, residents, physician
+cost-effectiveness62. In contrast, autologous reconstruction assistants, nurses, and data administrators for registering data
+primarily incurs expenses mainly during the initial surgery and in DBIR.
+short-term revisions, with more stable costs thereafter62,63.
+Long-term costs of autologous reconstruction were however still
+Author contributions
+21% higher than IBBR in a sensitivity analysis in which all IBBRs
+required reoperation after 10 years. IBBR has been demonstrated to J. Xavier Harmeling (Conceptualization, Data curation, Formal
+be cost-effective compared to autologous reconstruction63. These analysis, Investigation, Methodology, Project administration,
+comparisons are complex, and the outcomes of the present study Software, Supervision, Validation, Visualization, Writing—
+add limited insight considering its medium-term follow-up. original draft, Writing—review & editing), J. Juliët Vrolijk (Data
+The strengths of the present study include its prospective, curation, Formal analysis, Investigation, Methodology, Software,
+nationwide design and independence of funding. The DBIR allows Validation, Visualization, Writing—original draft, Writing—
+tracking implants using unique identifiers, even across different review & editing), Erik Heeg (Conceptualization, Investigation,
+hospitals. Findings may have limited generalizability due to Methodology, Validation, Visualization, Writing—review &
+differences in healthcare systems, populations, guidelines, and editing), Babette Becherer (Conceptualization, Data curation,
+surgical techniques. The multivariable analysis addressed Investigation, Methodology, Software, Validation, Visualization,
+confounders such as surgical techniques, prior radiotherapy, and Writing—review & editing), Hinne Rakhorst (Conceptualization,
+laterality while accounting for clustering and competing risks. All Investigation, Methodology, Supervision, Writing—review &
+breast reconstructions in this study were performed immediately editing), Eveline Corten (Conceptualization, Formal analysis,
+following mastectomy, with exclusion of breasts with previous Methodology, Supervision, Validation, Writing—review &
+breast implant surgery, and without including reconstruction editing), Marta Fiocco (Formal analysis, Investigation,
+revisions, thus limiting population heterogeneity and potential Methodology, Software, Supervision, Validation, Visualization,
+selection bias. Despite these efforts, selection bias still may have Writing—review & editing), and Marc A. M. Mureau
+influenced the results, in particular for polyurethane-covered (Conceptualization, Investigation, Methodology, Software,
+implants, because earlier literature suggested that they may reduce Supervision, Validation, Writing—review & editing)
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 8 ---
+8 | BJS, 2025, Vol. 112, No. 5
+Disclosure morphology on bacterial attachment and growth. Plast Reconstr
+Surg 2018;142:837–849
+The Department of Plastic & Reconstructive Surgery of the
+12. Namnoum JD, Largent J, Kaplan HM, Oefelein MG, Brown MH.
+Erasmus MC received funding from POLYTECH Health &
+Primary breast augmentation clinical trial outcomes stratified
+Aesthetics GmbH as financial support for personnel costs for
+by surgical incision, anatomical placement and implant device
+one PhD candidate (no grant number available) from July 2018
+type. J Plast Reconstr Aesthet Surg 2013;66:1165–1172
+until July 2021. No funding was received for this article. None of
+13. Kuruoglu D, Harless CA, Tran NV, Yan M, Martinez-Jorge J,
+the authors has a financial interest in any of the products,
+Nguyen MT. Implant malposition in prepectoral breast
+devices, or drugs mentioned in this manuscript.
+reconstruction: experience with Natrelle(R) cohesive implants
+over 6.5 years. J Plast Reconstr Aesthet Surg 2022;75:2561–2568
+Supplementary material 14. Ahern S, Herbert D, Garduce P, Kalbasi S, Earnest A, Heriot N et
+al. The Australian Breast Device Registry 2023 Annual Report.
+Supplementary materialis available at BJS online.
+Monash University, School of Public Health and Preventive
+Medicine December 2024. Report No. 8. https://abdr.org.au/
+Data availability wp-content/uploads/2024/12/ABDR_2023_Annual-Report.pdf
+(accessed 13 April 2025)
+Data are not openly available, because they originate from a
+15. National Breast Implant Registry. Annual Report 2020. https://
+national registry (DBIR).
+www.thepsf.org/documents/Research/Registries/NBIR/NBIR-
+Annual-Report-2020.pdf(accessed 13 April 2025)
+Assistance with the study 16. National Breast Implant Registry. Annual Report 2021. https://
+www.thepsf.org/documents/Research/Registries/NBIR/NBIR-
+None. Annual-Report-2021.pdf(accessed 13 April 2025)
+17. Gopie JP, Timman R, Hilhorst MT, Hofer SO, Mureau MA, Tibben
+A. The short-term psychological impact of complications after
+References
+breast reconstruction. Psychooncology 2013;22:290–298
+1. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, 18. Kouwenberg CAE, Kranenburg LW, Visser MS, Busschbach JJ,
+Jemal A et al. Global cancer statistics 2020: GLOBOCAN Mureau MAM. The validity of the EQ-5D-5L in measuring
+estimates of incidence and mortality worldwide for 36 cancers quality of life benefits of breast reconstruction. J Plast Reconstr
+in 185 countries. CA Cancer J Clin 2021;71:209–249 Aesthet Surg 2019;72:52–61
+2. Dutch Institute for Clinical Auditing. NABON Breast Cancer 19. Barnsley GP, Sigurdson LJ, Barnsley SE. Textured surface breast
+Audit (NBCA) Jaarverslag Uitkomsten 2023 [September 2024]. implants in the prevention of capsular contracture among
+https://dica.nl/wp-content/uploads/2024/09/NBCA-infographic- breast augmentation patients: a meta-analysis of randomized
+2024-met-links-en-CA.pdf(accessed 13 April 2025) controlled trials. Plast Reconstr Surg 2006;117:2182–2190
+3. Carbine NE, Lostumbo L, Wallace J, Ko H. Risk-reducing 20. Liu X, Zhou L, Pan F, Gao Y, Yuan X, Fan D. Comparison of the
+mastectomy for the prevention of primary breast cancer. postoperative incidence rate of capsular contracture among
+Cochrane Database Syst Rev 2018;4:CD002748 different breast implants: a cumulative meta-analysis. PLoS
+4. Henry DA, Lee MC, Almanza D, Ahmed KA, Sun W, Boulware DC One 2015;10:e0116071
+et al. Trends in use of bilateral prophylactic mastectomy vs 21. Rocco N, Rispoli C, Moja L, Amato B, Iannone L, Testa S et al.
+high-risk surveillance in unaffected carriers of inherited Different types of implants for reconstructive breast surgery.
+breast cancer syndromes in the Inherited Cancer Registry Cochrane Database Syst Rev 2016;2016:CD010895
+(ICARE). Breast Cancer Res Treat 2019;174:39–45 22. Wong CH, Samuel M, Tan BK, Song C. Capsular contracture in
+5. Lim DW, Metcalfe KA, Narod SA. Bilateral mastectomy in subglandular breast augmentation with textured versus
+women with unilateral breast cancer: a review. JAMA Surg smooth breast implants: a systematic review. Plast Reconstr
+2021;156:569–576 Surg 2006;118:1224–1236
+6. Kouwenberg CAE, de Ligt KM, Kranenburg LW, Rakhorst H, de 23. Wixtrom RN, Garadi V, Leopold J, Canady JW. Device-specific
+Leeuw D, Siesling S et al. Long-term health-related quality of findings of imprinted-texture breast implants: characteristics,
+life after four common surgical treatment options for breast risks, and benefits. Aesthet Surg J 2020;40:167–173
+cancer and the effect of complications: a retrospective 24. Duxbury PJ, Harvey JR. Systematic review of the effectiveness of
+patient-reported survey among 1871 patients. Plast Reconstr polyurethane-coated compared with textured silicone implants
+Surg 2020;146:1–13 in breast surgery. J Plast Reconstr Aesthet Surg 2016;69:452–460
+7. Mureau MAM, Breast Reconstruction Guideline Working Group. 25. Pompei S, Arelli F, Labardi L, Marcasciano F, Evangelidou D,
+Dutch breast reconstruction guideline. J Plast Reconstr Aesthet Ferrante G. Polyurethane implants in 2-stage breast
+Surg 2018;71:290–304 reconstruction: 9-year clinical experience. Aesthet Surg J 2017;
+8. Panchal H, Matros E. Current trends in postmastectomy breast 37:171–176
+reconstruction. Plast Reconstr Surg 2017;140:7S–13S 26. Loreti A, Siri G, De Carli M, Fanelli B, Arelli F, Spallone D et al.
+9. Munhoz AM, Clemens MW, Nahabedian MY. Breast implant Immediate breast reconstruction after mastectomy with
+surfaces and their impact on current practices: where we are polyurethane implants versus textured implants: a
+now and where are we going? Plast Reconstr Surg Glob Open retrospective study with focus on capsular contracture. Breast
+2019;7:e2466 2020;54:127–132
+10. di Pompeo FS, Paolini G, Firmani G, Sorotos M. History of breast 27. Doren EL, Pierpont YN, Shivers SC, Berger LH. Comparison of
+implants: back to the future. JPRAS Open 2022;32:166–177 Allergan, Mentor, and Sientra contoured cohesive gel breast
+11. Jones P, Mempin M, Hu H, Chowdhury D, Foley M, Cooter R et al. implants: a single surgeon’s 10-year experience. Plast Reconstr
+The functional influence of breast implant outer shell Surg 2015;136:957–966
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 9 ---
+Harmeling et al. | 9
+28. Hvilsom GB, Holmich LR, Steding-Jessen M, Frederiksen K, 44. SCHEER (Scientific Committee on Health, Environmental and
+Henriksen TF, Lipworth L et al. Delayed breast implant Emerging Risks). Scientific Opinion on the safety of breast
+reconstruction: a 10-year prospective study. J Plast Reconstr implants in relation to anaplastic large cell lymphoma. 2021.
+Aesthet Surg 2011;64:1466–1474 https://health.ec.europa.eu/publications/final-opinion-safety-
+29. Maxwell GP, Van Natta BW, Bengtson BP, Murphy DK. Ten-year breast-implants-relation-anaplastic-large-cell-lymphoma_en
+results from the Natrelle 410 anatomical form-stable silicone (accessed 6 May 2025)
+breast implant core study. Aesthet Surg J 2015;35:145–155 45. International Organization for Standardization (ISO). Non-active
+30. Spear SL, Murphy DK, Allergan Silicone Breast Implant US Core surgical implants—Mammary implants—Particular requirements
+Clinical Study Group. Natrelle round silicone breast implants: (ISO 14607:2024). 2018. https://www.iso.org/obp/ui/en/#iso:std:
+core study results at 10 years. Plast Reconstr Surg 2014;133: iso:14607:ed-4:v1:en(accessed 13 April 2025)
+1354–1361 46. Becherer BE, Marang-van de Mheen PJ, Young-Afat DA, van der
+31. Caplin DA. Indications for the use of MemoryShape breast Hulst R, Keuter XHA, Rakhorst HA et al. Variation in the use of
+implants in aesthetic and reconstructive breast surgery: infection control measures and infection-related revision
+long-term clinical outcomes of shaped versus round silicone incidence after breast implant surgery in The Netherlands.
+breast implants. Plast Reconstr Surg 2014;134:27S–37S JPRAS Open 2022;34:226–238
+32. Hammond DC, Canady JW, Love TR, Wixtrom RN, Caplin DA. 47. Putter H, Fiocco M, Geskus RB. Tutorial in biostatistics: competing
+Mentor contour profile gel implants: clinical outcomes at 10 risks and multi-state models. Stat Med 2007;26:2389–2430
+years. Plast Reconstr Surg 2017;140:1142–1150 48. Gray RJ. A class of K-sample tests for comparing the cumulative
+33. Rakhorst HA, Mureau MAM, Cooter RD, McNeil J, van Hooff M, incidence of a competing risk. Ann Stat 1988;16:1141–1154
+van der Hulst R et al. The new opt-out Dutch national 49. Greenland S. Modeling and variable selection in epidemiologic
+breast implant registry—lessons learnt from the road to analysis. Am J Public Health 1989;79:340–349
+implementation. J Plast Reconstr Aesthet Surg 2017;70:1354–1360 50. Walter S, Tiemeier H. Variable selection: current practice in
+34. Spronk PER, Becherer BE, Hommes J, Keuter XHA, Young-Afat epidemiological studies. Eur J Epidemiol 2009;24:733–736
+DA, Hoornweg MJ et al. How to improve patient safety and 51. Therneau TM. A Package for Survival Analysis in R. 3.2–7 ed2020.
+quality of care in breast implant surgery? First outcomes from https://cran.r-project.org/web/packages/survival/vignettes/
+the Dutch Breast Implant Registry (2015–2017). J Plast Reconstr survival.pdf(accessed 13 April 2025)
+Aesthet Surg 2019;72:1607–1615 52. de Wreede LC, Fiocco M, Putter H. Mstate: an R package for the
+35. Vrolijk JJ, Becherer BE, van Bommel ACM, Hommes JE, Hoornweg analysis of competing risks and multi-state models. J Stat Softw
+MJ, Keuter XHA et al. Dutch Breast Implant Registry (DBIR) Annual 2011;38:1–30
+Report 2020: Version 2021.01. Leiden (NL): Dutch Institute for 53. Bengtson BP, Van Natta BW, Murphy DK, Slicton A, Maxwell GP,
+Clinical Auditing, 2021 Oct. Style 410 US Core Clinical Study Group. Style 410 highly
+36. Vrolijk JJ, Becherer BE, Hommes JE, Hoornweg MJ, Keuter XHA, cohesive silicone breast implant core study results at 3 years.
+Young-Afat DA et al. Dutch Breast Implant Registry (DBIR) Annual Plast Reconstr Surg 2007;120:40S–48S
+Report 2019: Version 2020.01. Leiden (NL): Dutch Institute for 54. Duteille F, Rouif M, Laurent S, Cannon M. Five-year safety data
+Clinical Auditing, 2020 Oct. for Eurosilicone’s round and anatomical silicone gel breast
+37. Melse PE, Vrolijk JJ, Becherer BE, Stangenberger VA, implants. Plast Reconstr Surg Glob Open 2014;2:e138
+Winkelmolen C, Hommes JE et al. Data quality assessment of 55. Acea Nebril B, Garcia Novoa A, Garcia Jimenez L, Diaz
+the Dutch Breast Implant Registry by automated data Carballada C, Bouzon Alejandro A, Conde Iglesias C.
+verification using medical billing data. J Plast Reconstr Aesthet Immediate breast reconstruction by prepectoral polyurethane
+Surg 2024;99:96–102 implant: preliminary results of the prospective study PreQ-20.
+38. Fischer JP, Wes AM, Tuggle CT, 3rd, Serletti JM, Wu LC. Risk Cir Esp (Engl Ed) 2023;101:187–197
+analysis of early implant loss after immediate breast 56. Doherty C, McClure JA, Baxter NN, Brackstone M. Complications
+reconstruction: a review of 14,585 patients. J Am Coll Surg. from postmastectomy radiation therapy in patients undergoing
+2013;217:983–990 immediate breast reconstruction: a population-based study.
+39. Piper ML, Roussel LO, Koltz PF, Wang F, Singh K, Chin R et al. Adv Radiat Oncol 2023;8:101104
+Characterizing infections in prosthetic breast reconstruction: 57. Cunningham B. The mentor core study on silicone MemoryGel
+a validity assessment of national health databases. J Plast breast implants. Plast Reconstr Surg 2007;120:19S–29S
+Reconstr Aesthet Surg 2017;70:1345–1353 58. Catanuto G, Virzi D, Latino M, Musmeci N, Fichera D, Balafa K
+40. Deutschen Register Klinischer Studien (DRKS). Registration et al. One-stage implant-based breast reconstruction with
+number: DRKS00033421. https://drks.de/search/en/trial/ polyurethane-coated device: standardized assessment of
+DRKS00033421(accessed 13 April 2025) outcomes. Aesthet Surg J 2023;44:491–498
+41. Mathew G, Agha R, Albrecht J, Goel P, Mukherjee I, Pai P et al. 59. Gumuscu R, Warnberg F, de Boniface J, Sund M, Ahsberg K,
+STROCSS 2021: strengthening the reporting of cohort, Hansson E et al. Timing and type of breast reconstruction in
+cross-sectional and case-control studies in surgery. Int J Surg SweBRO 3: long-term outcomes. Br J Surg 2024;111:znae240
+2021;96:106165 60. Johnson L, White P, Jeevan R, Browne J, Gulliver-Clarke C,
+42. Atlan M, Bigerelle M, Larreta-garde V, Hindie M, Heden P. O’Donoghue J et al. Long-term patient-reported outcomes of
+Characterization of breast implant surfaces, shapes, and immediate breast reconstruction after mastectomy for breast
+biomechanics: a comparison of high cohesive anatomically cancer: population-based cohort study. Br J Surg 2023;110:
+shaped textured silicone, breast implants from three different 1815–1823
+manufacturers. Aesthetic Plast Surg 2016;40:89–97 61. Browne JP, Jeevan R, Gulliver-Clarke C, Pereira J, Caddy CM, van
+43. Barr S, Hill EW, Bayat A. Functional biocompatibility testing of der Meulen JHP. The association between complications and
+silicone breast implants and a novel classification system based quality of life after mastectomy and breast reconstruction for
+on surface roughness. J Mech Behav Biomed Mater 2017;75:75–81 breast cancer. Cancer 2017;123:3460–3467
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 10 ---
+10 | BJS, 2025, Vol. 112, No. 5
+62. Mohiuddin S, Hollingworth W, Glynn J, Jones T, Johnson L, Potter 64. Harmeling JX, Cinca KP, Andrinopoulou ER, Corten EML, Mureau
+S et al. Secondary healthcare costs after mastectomy and MA. Long-term outcomes of two-stage, immediate and delayed
+immediate breast reconstruction for women with breast breast reconstruction with polyurethane-covered versus
+cancer in England: population-based cohort study. Br J Surg textured implants: protocol of a prospective, multicentre
+2023;110:1171–1179 randomised controlled trial (TIPI trial). BMJ Open 2021;11:e044219
+63. Kouwenberg CAE, Mureau MAM, Kranenburg LW, Rakhorst H, 65. Becherer BE, Hopper I, Cooter RD, Couturaud B, von Fritschen U,
+de Leeuw D, Klem T et al. Cost–utility analysis of four common Mullen E et al. Comparing 200,000 breast implants and 85,000
+surgical treatment pathways for breast cancer. Eur J Surg Oncol patients over four national breast implant registries. Plast
+2021;47:1299–1308 Reconstr Surg 2023;152:307–318
+Downloaded
+from
+https://academic.oup.com/bjs/article/112/5/znaf082/8134046
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026

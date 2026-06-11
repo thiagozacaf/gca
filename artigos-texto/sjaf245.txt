@@ -1,0 +1,757 @@
+--- PÁGINA 1 ---
+Aesthetic Breast Surgery
+The Study of the Safety and Effectiveness Aesthetic Surgery Journal
+2026, Vol 46(3) 319–328
+of Motiva SmoothSilk Silicone Gel-filled Accepted date: November 17, 2025; online
+publish-ahead-of-print November 20, 2025.
+© The Author(s) 2025. Published by Oxford
+Breast Implants in Patients Undergoing
+University Press on behalf of The Aesthetic
+Society.
+Primary and Revisional Breast Augmentation: This is an Open Access article distributed under
+the terms of the Creative Commons Attribution-
+5-Year Clinical Data NonCommercial-NoDerivs licence (https://
+creativecommons.org/licenses/by-nc-nd/4.0/),
+which permits non-commercial reproduction and
+distribution of the work, in any medium, provided
+the original work is not altered or transformed in
+any way, and that the work is properly cited. For
+Caroline Glicksman, MD, MSJ ; Andrew Wolfe, MD; commercial re-use, please contact
+reprints@oup.com for reprints and translation
+and Patricia McGuire, MD
+rights for reprints. All other permissions can be
+obtained through our RightsLink service via the
+Permissions link on the article page on our site—
+for further information please contact
+journals.permissions@oup.com.
+https://doi.org/10.1093/asj/sjaf245
+www.aestheticsurgeryjournal.com
+Abstract
+Background: The FDA requires implant manufacturers to continue collecting safety and efficacy data annually through Year 10. Investigators
+are encouraged to follow their enrolled patients in person to obtain the most accurate and complete data.
+Objectives: The authors reviewed the 5-year data on the safety and effectiveness of Motiva SmoothSilk silicone gel-filled breast implants sub-
+mitted to the FDA. The reported data include both the primary and revisional breast augmentation cohorts.
+Methods: The 5-year clinical data from the breast augmentation cohorts of the Motiva IDE 10-year pivotal study were submitted to the FDA in
+2024. Data were collected on adverse events, reoperation, patient and physician satisfaction, connective tissue and rheumatologic diseases,
+and quality-of-life instruments. MRIs were obtained at Years 1, 2, 3, and 5 for patients enrolled in the MRI substudy.
+Results: There were 451 primary augmentation patients and 109 revisional augmentation patients enrolled in the pivotal study. Follow-up rates
+were 87% of expected patients at both Years 4 and 5. Of the 218 patients enrolled in the MRI cohort, 152 underwent MRI screening at Year 5, an
+overall compliance of 79.2% of expected screenings. The reported reoperation rates for any reason were 8.8% in the primary augmentation
+cohort and 36.0% in the revisional augmentation cohort.
+Conclusions: The 5-year data from the primary and revisional breast augmentation cohorts reveal low rates of device rupture. Size change and
+malposition were the most common causes of reoperation in the primary augmentation cohort, and capsular contracture and size change were
+the leading drivers of reoperation in the revisional augmentation cohort.
+Level of Evidence: 2 (Therapeutic)
+Breast implants were first introduced in the 1960s. Since that time, ad- topography of the Motiva SmoothSilk surface. They demonstrated
+vances in materials science, chemical engineering, and implant biol- the potential benefits of the 4-micron surface’s reduced inflammation
+ogy have led to significant improvements in implants and their use. and foreign body response.5
+Establishment Labs, the maker of Motiva (Establishment Labs The US pivotal study began enrollment in 2018 and included 2 op-
+tions of gel implants for study patients. Motiva Implant SmoothSilk
+Holdings, Inc., Alajuela, Costa Rica) implants, is 1 of more than 13 man-
+ufacturers of silicone breast implants worldwide. Motiva SmoothSilk
+Dr Glicksman is an assistant clinical professor, Hackensack Meridian
+implants have been available outside of the United States since
+School of Medicine, Nutley, NJ; and is a clinical editor for Aesthetic
+2010 and have undergone updates in shell structure and gel technol-
+Surgery Journal. Dr Wolfe is a plastic surgeon in private practice in
+ogy since then. Much of the pre–FDA trial literature on the safety and Golden, CO. Dr McGuire is a clinical instructor of surgery, Washington
+efficacy of Motiva implants was based on the real-world experience University, St. Louis, MO; and is a clinical editor for Aesthetic Surgery
+of the initial adopters of the new implant technology. These early pa- Journal.
+pers, documenting the initial experiences of surgeons in Korea,
+Corresponding Author:
+Brazil, Italy, Germany, and the UK, were retrospective, single-arm
+Dr Caroline Glicksman, 2164 State Highway 35, Building A, Sea Girt, NJ
+studies or had small numbers of patients included.1,2,3,4 In 2021, 08750, USA.
+Doloff et al published their preclinical animal research on the E-mail: docmomcag@gmail.com
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 2 ---
+320 Aesthetic Surgery Journal 46(3)
+Round with ProgressiveGel has a slightly firmer gel and a thicker shell Data Collection and Statistical Analysis
+than the Motiva Implants SmoothSilk Round Ergonomix
+ProgressiveGel Ultima, referred to as Round Ergonomix implant Safety Assessment
+(Ergonomix1). The SilkSurface of the Motiva implant is created by 3-di- Safety assessment was performed by cohort at both patient and im-
+mensional (3D) inverted negative imprinting. A textured mandrel is plant levels. Kaplan-Meier analysis with 95% confidence intervals of
+dipped in silicone during the manufacturing process, transferring a any patient complications included adverse events, severe adverse
+negative image of the 3D mandrel surface to the inside of the shell events, and reoperations. Data collected at each annual visit includ-
+as the silicone cures. The shell is then inverted before being filled ed annual mammography and ultrasound when indicated, photogra-
+with silicone gel, reorienting the surface architecture to the outside phy, manual measurements, Vectra 3D simulations (Canfield
+of the implant. In 2024, the International Organization for Scientific, Parsippany, NJ), adverse events, and any new-onset con-
+Standardization (ISO) updated their classification of implant surfaces nective tissue disease (CTD) signs and symptoms or diagnosis.
+based on the surface finish technique. The ISO reclassified the (Patients with diagnosed CTD at baseline were excluded from the
+SilkSurface as an “intentionally modified surface with a surface tex- study.) The BREAST-Q (Version 2.0) has been included in data collec-
+ture of 4 microns.” In contrast, the macrotextured implants associated tion since 2021. Additional data were collected on new-onset breast
+with breast implant–associated anaplastic large cell lymphoma cancer and BIA-ALCL. A Cox regression analysis was performed for
+(BIA-ALCL) have a surface texture of over 100 microns.6 complications, reoperations, and adverse events. Explanatory vari-
+Establishment Labs has developed additional modifications to their ables, including age, race, smoking status, weight, surgical approach,
+implants, found in the Ergonomix2 SmoothSilk implant, currently implant pocket location, incision size, implant volume, irrigation, and
+not available in the United States. Motiva SmoothSilk breast implants type of SmoothSilk device, were previously described in the Motiva
+received FDA approval for primary augmentation and revisional aug- 3-year clinical data.7
+mentation in September 2024, becoming the fifth breast implant
+manufacturer to enter the US market.7
+Effective Analysis
+Effectiveness out to 5 years was calculated based on a performance
+METHODS
+goal, using a 5-point Likert scale to rate both physician and patient
+satisfaction. Quality-of-life questionnaires were completed by pa-
+This prospective, multicenter study included 451 patients enrolled
+tients at Years 1, 2, 3 and 5. The BREAST-Q has been completed at
+in the primary augmentation cohort and 109 patients in the revisio-
+each annual visit since 2021.
+nal augmentation cohort at 21 investigator sites. The study includ-
+ed genetic females ages 22 years and over, willing to follow all
+study requirements. Patients were enrolled for primary breast aug- RESULTS
+mentation to increase breast size and revisional procedures to cor-
+Follow-up By Cohort
+rect or improve the results of a previous breast augmentation
+procedure, primary breast reconstruction, or revisional breast re-
+The augmentation cohorts enrolled 560 genetic females, with 451 pri-
+construction. Patients were excluded for a history of any breast dis-
+mary augmentation patients and 109 revisional augmentation patients.
+ease considered to be premalignant in 1 or both breasts, a history
+The age range was 22 to 69 in both cohorts with a mean age of 33.5 in
+of connective tissue or autoimmune disorders or rheumatologic
+the primary augmentation cohort and 44.5 in the revisional augmenta-
+disease, or any medical condition that might result in elevated or
+tion cohort. Patient compliance in the primary augmentation cohort
+significant postoperative complications. Patient demographic
+was 88.9% at Year 4 and 88.5% at Year 5, and compliance in the revi-
+data were collected at study enrollment (Supplemental Table 1,
+sional augmentation cohort was 79.2% at Year 4 and 84.8% in Year
+available online at https://doi.org/10.1093/asj/sjaf245). Enrollment
+5. Overall, the expected patient compliance (560 patients minus pa-
+started in April 2018 and was completed in August 2019. The study
+tients who removed study devices, exited the study, or died) was
+design was first posted on clinicaltrials.gov(NCT03579901) in July
+87.8% at 5 years. There were 3 deaths in Year 5; 2 in the primary aug-
+2018 and last updated on October 31, 2024. Study investigators
+mentation cohort and 1 in the revisional cohort. Seven patients were
+were given the option to select from 2 styles of implants; the
+explanted and replaced with nonstudy devices and 3 patients in
+Motiva SmoothSilk Ergonomix and the SmoothSilk Round. For the
+each cohort exited the study at their own request (Table 1). The MRI
+clinical trial, both styles were available with an optional passive ra-
+subgroup follow-up included breast MRIs at Years 1, 2, 3, and 5. MRI
+dio frequency identification (RFID) transponder. The MRI subgroup
+compliance at Year 5 was 79.2% for primary augmentation patients
+consists of treated patients, willing to undergo MRI, invited to par-
+and 78.8% for revisional augmentation patients. The leading reasons
+ticipate in the MRI cohort. Patients are scheduled for breast MRI at
+for MRI discontinuation were removal of the primary device (19.8%)
+Years 1, 2, 3, 5, 7, and 10. Two hundred and eighteen patients en-
+and patients unavailable for study, which included medical conditions
+rolled in the MRI cohort, with 152 completing scheduled MRI at Year
+such as pregnancy (4%) and claustrophobia (2%). Among the MRI
+5 (79.2% out of the expected due). Patients are required to obtain
+cohort, 33 participants received RFID-enabled devices. There were
+the MRI at a local radiological facility specifically trained on the
+no adverse events reported related to RFID devices or
+study protocol. All MRIs were performed and evaluated by 2 radi-
+radiologist-impaired detection of silent ruptures (Table 2).
+ologists who were masked to each other’s reading. An indepen-
+dent radiologist reading was employed if there was a
+disagreement on the MRI, and an explantation was not performed. Complications and Reoperations
+Patients with and without the RFID transponder were included in
+the MRI cohort. Clinical data were predominantly collected at in- A 5-year Kaplan-Meier risk analysis was performed for local breast
+person visits, although virtual patient monitoring was approved implant complications and was reported by patient and implant. For
+by the FDA in 2020 to facilitate study continuation through the the primary augmentation cohort, the overall reported reoperation
+COVID-19 pandemic. rate at Year 5 was 8.8%. Breast implant complications included
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 3 ---
+Glicksman et al 321
+Table 1. Participant Follow-up Compliance: Primary and Revisional Augmentation Cohorts
+By patient
+Accounting by window Primary augmentation (n = 451) Revisional augmentation (n = 109) Overall augmentation (n = 560)
+Week 3-6
+Duea 451 109 560
+Discontinued
+Deaths 0 0 0
+Explanted with non-study replacement 0 0 0
+Patient request 0 0 0
+Lost to follow-up 0 0 0
+Other 0 0 0
+Seen 446 109 555
+Expectedb 451 109 560
+% compliant out of expected 98.9% 100.0% 99.1%
+Year 1
+Duea 451 109 560
+Discontinued
+Deaths 0 1 1
+Explanted with non-study replacement 1 0 1
+Patient request 1 1 2
+Lost to follow-up 0 0 0
+Other 0 0 0
+Seen 437 101 538
+Expectedb 450 108 558
+% compliant out of expected 97.1% 93.5% 96.4%
+Year 2
+Duea 451 109 560
+Discontinued
+Deaths 1 1 2
+Explanted with non-study replacement 1 2 3
+Patient request 2 2 4
+Lost to follow-up 1 0 1
+Other 0 0 0
+Seen 428 94 522
+Expectedb 449 106 555
+% compliant out of expected 95.3% 88.7% 94.1%
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 4 ---
+322 Aesthetic Surgery Journal 46(3)
+Table 1. Continued
+By patient
+Accounting by window Primary augmentation (n = 451) Revisional augmentation (n = 109) Overall augmentation (n = 560)
+Year 3
+Duea 451 109 560
+Discontinued
+Deaths 1 1 2
+Explanted with non-study replacement 1 2 3
+Patient request 2 2 4
+Lost to follow-up 2 0 2
+Other 0 0 0
+Seen 415 94 509
+Expectedb 449 106 555
+% compliant out of expected 92.4% 88.7% 91.7%
+Year 4
+Duea 451 109 560
+Discontinued
+Deaths 1 1 2
+Explanted with non-study replacement 1 2 3
+Patient request 3 3 6
+Lost to follow-up 3 1 4
+Other 0 0 0
+Seen 399 84 483
+Expectedb 449 106 555
+% compliant out of expected 88.9% 79.2% 87.0%
+Year 5
+Duea 451 109 560
+Discontinued
+Deaths 2 1 3
+Explanted with non-study replacement 4 3 7
+Patient request 3 3 6
+Lost to follow-up 14 5 19
+Other 0 0 0
+Seen 394 89 483
+Expectedb 445 105 550
+% compliant out of expected 88.5% 84.8% 87.8%
+aPatients due for annual study follow-up with the protocol window. bExpected patients are the number of patients expected within their study window, minus subjects who
+were explanted, lost to follow-up, deaths, or discontinued.
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 5 ---
+Glicksman et al 323
+Table 2. MRI Follow-up Compliance: Primary and Revisional Augmentation Patients
+By patient
+Accounting by window Primary augmentation (n = 176) Revisional augmentation (n = 42) Overall augmentation (n = 218)
+Year 1
+Due 176 42 218
+Discontinued
+Claustrophobic 2 1 3
+Deaths 0 0 0
+Primary devices removed 1 0 1
+Unavailablea 2 2 4
+Patient decision 2 0 2
+Seen 160 37 197
+Expectedb 171 39 210
+% compliant out of expected 93.6% 94.9% 93.8%
+Year 2
+Due 176 42 218
+Discontinued
+Claustrophobic 3 2 5
+Deaths 0 0 0
+Primary devices removed 2 4 6
+Unavailablea 7 0 7
+Patient decision 2 0 2
+Seen 149 32 181
+Expectedb 164 36 200
+% compliant out of expected 90.9% 88.9% 90.5%
+Year 3
+Due 176 42 218
+Discontinued
+Claustrophobic 5 2 7
+Deaths 0 0 0
+Primary devices removed 2 5 7
+Unavailablea 7 2 9
+Patient decision 2 0 2
+Seen 142 30 172
+Expectedb 162 33 195
+% compliant out of expected 87.7% 90.9% 88.2%
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 6 ---
+324 Aesthetic Surgery Journal 46(3)
+Table 2. Continued
+By patient
+Accounting by window Primary augmentation (n = 176) Revisional augmentation (n = 42) Overall augmentation (n = 218)
+Year 5
+Due 176 42 218
+Discontinued
+Claustrophobic 3 2 5
+Deaths 1 0 1
+Primary devices removed 5 6 11
+Unavailablea 8 1 9
+Patient decision 2 1 3
+Seen 126 26 152
+Expectedb 159 33 192
+% compliant out of expected 79.2% 78.8% 79.2%
+aUnavailable includes patients who were pregnant or who had other temporary medical conditions/circumstances preventing an MRI. These patients will return to the
+denominator for compliance calculations after resolution of the medical condition/circumstance. bExpected indicates the number due minus all discontinuations except
+patient decision.
+Table 3. Kaplan-Meier Risk Analysis at Year 5 for Key Events by Table 3. Continued
+Patient
+Event Primary Revisional
+Event Primary Revisional augmentation augmentation
+augmentation augmentation (n = 451) (n = 109)
+(n = 451) (n = 109)
+Size change 4 (10.0%) 11 (27.5%)
+Reoperation 38 (8.8%) 37 (36.0%)
+Delayed wound healing 1 (0.2%) 0
+Explantation 13 (3.1%) 23 (22.8%)
+Hematoma 3 (0.7%) 2 (1.8%)
+Explantation with replacement 11 (2.6%) 19 (19.2%)
+Iatrogenic injury to implant 0 1 (1.0%)
+Explantation without replacement 2 (0.5%) 4 (4.1%)
+Implant extrusion 0 1 (1.0%)
+Number of patients with at least 1 38 (8.4%) 37 (33.9%)
+reoperation Malposition 17 (3.9%) 6 (6.0%)
+Risk of any complicationa 52 (12.0%) 41 (39.5%) Palpability/visibility 2 (0.5%) 0
+Breast pain 5 (1.2%) 2 (2.2%) Breast mass/cyst/lump 3 (0.7%) 2 (2.2%)
+Animation deformity 1 (0.2%) 0 Ptosis 1 (0.2%) 6 (6.0%)
+Asymmetry 1 (0.2%) 4 (3.9%) Nipple complication 1 (0.2%) 0
+Cancer-breast (new) 1 (0.3%) 0 Skin rash 1 (0.2%) 0
+Capsular contracture Grade II with 1 (0.2%) 2 (1.9%) Seroma (late > 1 year) 0 0
+surgical intervention
+Wrinkling/rippling 2 (0.5%) 0
+Capsular contracture III/IV 2 (0.5%) 8 (7.9%)
+BIA-ALCL, breast implant–associated anaplastic large cell lymphoma. aDoes not
+BIA-ALCL 0 0 include complications assessed as mild severity, except for capsular contracture
+III/IV, implant extrusion, and suspected or confirmed rupture.
+Double capsule 0 1 (1.0%)
+revision for size change (10%), implant malposition (3.9%), capsular
+Infection 4 (0.9%) 1 (0.9%) contracture Grade III/IV (0.5%), suspected or confirmed rupture
+(0.6%), glandular ptosis (0.2%), and asymmetry (0.2%). In the revisio-
+Rupture-suspected/confirmed 1 (0.6%) 0
+nal augmentation cohort, the 5-year reported reoperation rate for any
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 7 ---
+Glicksman et al 325
+Table 4. Risk of Non-local Complications at Each Time Point: Table 4. Continued
+Connective Tissue Diseases and Rheumatologic Illness
+Complication/time Number of Kaplan-Meier 95% CI
+Complication/time Number of Kaplan-Meier 95% CI point events risk
+point events risk (cumulative)
+(cumulative)
+Year 4 0 (0) NA
+Primary breast augmentation
+Year 5 0 (0) NA
+Rheumatic disease, anya
+Revisional breast augmentation
+Week 6 0 (0) NA
+Rheumatic disease, anya
+Year 1 0 (0) NA
+Week 6 0 (0) NA
+Year 2 1 (1) 0.2% (0.0%, 1.6%)
+Year 1 0 (0) NA
+Year 3 0 (1) 0.2% (0.0%, 1.6%)
+Year 2 0 (0) NA
+Year 4 0 (1) 0.2% (0.0%, 1.6%)
+Year 3 0 (0) NA
+Year 5 0 (1) 0.2% (0.0%, 1.6%)
+Year 4 0 (0) NA
+Hashimoto thyroiditis
+Year 5 0 (0) NA
+Week 6 0 (0) NA
+Rheumatoid arthritis
+Year 1 0 (0) NA
+Week 6 0 (0) NA
+Year 2 1 (1) 0.2% (0.0%, 1.6%)
+Year 1 0 (0) NA
+Year 3 0 (1) 0.2% (0.0%, 1.6%)
+Year 2 0 (0) NA
+Year 4 0 (1) 0.2% (0.0%, 1.6%)
+Year 3 0 (0) NA
+Year 5 0 (1) 0.2% (0.0%, 1.6%)
+Year 4 0 (0) NA
+Rheumatoid arthritis
+Year 5 0 (0) NA
+Week 6 0 (0) NA
+Systemic lupus
+Year 1 0 (0) NA
+Week 6 0 (0) NA
+Year 2 0 (0) NA
+Year 1 0 (0) NA
+Year 3 0 (0) NA
+Year 2 0 (0) NA
+Year 4 0 (0) NA
+Year 3 0 (0) NA
+Year 5 0 (0) NA
+Year 4 0 (0) NA
+Systemic lupus
+Year 5 0 (0) NA
+Week 6 0 (0) NA
+Other rheumatologic
+Year 1 0 (0) NA
+Week 6 0 (0) NA
+Year 2 0 (0) NA
+Year 1 0 (0) NA
+Year 3 0 (0) NA
+Year 2 0 (0) NA
+Year 4 0 (0) NA
+Year 3 0 (0) NA
+Year 5 0 (0) NA
+Year 4 0 (0) NA
+Other rheumatologic
+Year 5 0 (0) NA
+Week 6 0 (0) NA
+CI, confidence interval; NA, not applicable. aRheumatologic and connective tissue
+Year 1 0 (0) NA diseases include rheumatoid arthritis, systemic lupus erythematosus, discoid
+lupus, scleroderma, vasculitis, dermatomyositis, Raynaud’s phenomenon,
+Year 2 0 (0) NA Sjogren’s syndrome, CREST syndrome, carpal tunnel syndrome, multiple
+sclerosis–like syndrome, multiple myeloma–like syndrome, chronic fatigue
+Year 3 0 (0) NA syndrome, and fibromyalgia.
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 8 ---
+326 Aesthetic Surgery Journal 46(3)
+Table 5. Satisfaction with Breast Implants on Breast-Q at Year 5: Table 6. Satisfaction With Breast Implants on Breast-Q at Year 5:
+Primary Augmentation Revisional Augmentation
+By patient n Dissatisfied Satisfied By patient n Dissatisfied Satisfied
+Amount of cleavage when wearing a bra 359 5.0% 95.0% Amount of cleavage when wearing a bra 76 3.9% 96.1%
+Bra fit 360 5.0% 95.0% Bra fit 75 4.0% 96.0%
+Breast firmness 360 4.2% 95.8% Breast firmness 75 4.0% 96.0%
+Breast shape without a bra 359 5.8% 94.2% Breast shape without a bra 76 11.8% 88.2%
+Breast size 359 6.4% 93.6% Breast size 76 6.6% 93.4%
+Breast size matches the rest of the body 360 4.2% 95.8% Breast size matches the rest of the body 76 1.3% 98.7%
+Breast feels to touch 358 3.4% 96.6% Breast feels to touch 76 3.9% 96.1%
+How close breasts are when not wearing a 358 9.5% 90.5% How close breasts are when not wearing a bra 76 11.8% 88.2%
+bra
+How close breasts match with each other 76 10.5% 89.5%
+How close breasts match with each other 359 7.5% 92.5%
+Implant evenness/position relative to each 76 10.5% 89.5%
+Implant evenness/position relative to each 359 7.0% 93.0% other
+other
+Implant position on the chest 76 9.2% 90.8%
+Implant position on the chest 358 8.1% 91.9%
+Look in the mirror clothed 76 3.9% 96.1%
+Look in the mirror clothed 360 4.4% 95.6%
+Look in the mirror unclothed 76 11.8% 88.2%
+Look in the mirror unclothed 356 9.8% 90.2%
+Natural look of breasts 76 7.9% 92.1%
+Natural look of breasts 357 4.5% 95.5%
+How naturally breasts sit/hang 76 11.8% 88.2%
+How naturally breasts sit/hang 359 6.7% 93.3%
+reason was 36.0%, and the number of patients who underwent at demonstrated satisfaction rates of 90.2 to 96.6% in the primary aug-
+least 1 reoperation was 33.9%. This included explantation with re- mentation cohort and 88.2% to 98.7% in the revisional augmentation
+placement (19.2%) and explantation without replacement (4.1%). The cohort (Tables 5, 6) Patient satisfaction also was measured with a
+overall risk of any complication (39.5%) included revision for size 5-point Likert Scale, and demonstrated high overall satisfaction by
+change (27.5%), capsular contracture Grade III/IV (7.9%), implant mal- patient at 5 years in both the primary augmentation (96.1%) and in re-
+position (6.0%), ptosis (6.0%), and asymmetry (3.9%). In the revisional visional augmentation (91.3%) cohorts (Tables 7, 8).
+augmentation cohort there was 1 documented iatrogenic rupture of a
+breast implant (1.0%) and 1 patient with an implant extrusion (1.0%)
+(Table 3). DISCUSSION
+Similar to other pivotal studies, patients with a known medical his-
+This report includes the 5-year data from the US multicenter clinical
+tory of connective tissue disease (CTD) and rheumatologic disease,
+trial. To encourage a high rate of follow-up compliance, both patients
+including lupus and scleroderma, were excluded from enrollment in
+and investigators receive financial incentives at fair market value
+the clinical trial. Patients were asked to document any new diagnosis
+(FMV). In addition, those patients that complete the full 10-year study
+of CTD or rheumatologic illness at each annual visit. There was 1 pa-
+will receive a unique additional incentive for their participation.
+tient diagnosed with Hashimoto thyroiditis at Year 2 (0.2%). There
+Including financial incentives was not novel in this trial and continues
+were no additional reports in either cohort of new onset of CTD or
+to be an effective mechanism to encourage high patient and physi-
+rheumatologic illness at Years 4 or 5. The FDA has not identified a
+cian compliance. The FDA’s acceptance of virtual consultations
+clear association between CTD and silicone breast implants (Table 4).
+when absolutely necessary, initiated during the COVID pandemic, al-
+lowed many patients to remain in the 10-year trial despite missing an
+BIA-ALCL, BIA-SCC, Breast Cancer
+in-person consultation. Patients were able to attend a virtual meeting
+with the investigator and complete all necessary quality-of-life and
+There were no reports of BIA-ALCL or breast implant–associated
+health questionnaires, returning to in-person visits the following year.
+squamous cell cancer (BIA-SCC) through Year 5. There was 1 (0.3%)
+MRI provides valuable data on device integrity not achieved in
+new breast cancer diagnosis (invasive ductal carcinoma) reported
+some earlier clinical trials. The MRI cohort has maintained high pa-
+in the primary augmentation cohort.
+tient compliance (79%) at Year 5. Patients were considered unavail-
+able for MRI if they were pregnant or had temporary medical
+Clinical Effectiveness and Patient conditions or circumstances preventing MRI. The suspected or con-
+Satisfaction firmed rupture rate of 0.6% in the primary augmentation cohort has
+remained unchanged from Year 3 to Year 5. There were no ruptures
+Physician and patient satisfaction rates remained high through Year reported in the revisional augmentation cohort through Year 5. The
+5. Patient satisfaction data collected using the BREAST-Q category of iatrogenic implant rupture has been added to the rupture
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 9 ---
+Glicksman et al 327
+Table 7. Patient Satisfaction at Year 5: 5-Point Likert Scale
+Satisfaction by patienta Augmentation (n = 387) Revisional augmentation (n = 80) Overall augmentation (n = 467)
+Satisfaction
+Very satisfied 311 (80.4%) 57 (71.3%) 368 (78.8%)
+Satisfied 61 (15.8%) 16 (20.0%) 77 (16.5%)
+Neither dissatisfied nor satisfied 8 (2.1%) 5 (6.3%) 13 (2.8%)
+Dissatisfied 6 (1.6%) 2 (2.5%) 8 (1.7%)
+Very dissatisfied 1 (0.3%) 0 1 (0.2%)
+Satisfaction summary
+Satisfied 372 (96.1%) 73 (91.3%) 445 (95.3%)
+Neither 8 (2.1%) 5 (6.3%) 13 (2.8%)
+Dissatisfied 7 (1.8%) 2 (2.5%) 9 (1.9%)
+Satisfaction analysis
+Percent satisfied 96.1% 91.3% 95.3%
+95% CI (93.7%, 97.8%) (82.8%, 96.4%) (93.0%, 97.0%)
+CI, confidence interval. aIncludes only patients with non-missing responses for primary implants at this follow-up year (5).
+Table 8. Investigator Satisfaction at Year 5: 5-Point Likert Scale
+Satisfaction by investigatora Augmentation (n = 387) Revisional augmentation (n = 80) Overall augmentation (n = 467)
+Satisfaction
+Very satisfied 338 (87.3%) 66 (82.5%) 404 (86.5%)
+Satisfied 44 (11.4%) 12 (15.0%) 56 (12.0%)
+Neither dissatisfied nor satisfied 3 (0.8%) 0 3 (0.6%)
+Dissatisfied 0 2 (2.5%) 2 (0.4%)
+Very dissatisfied 2 (0.5%) 0 2 (0.4%)
+Satisfaction summary
+Satisfied 382 (98.7%) 78 (97.5%) 460 (98.5%)
+Neither 3 (0.8%) 0 3 (0.6%)
+Dissatisfied 2 (0.5%) 2 (2.5%) 4 (0.9%)
+Satisfaction analysis
+Percent satisfied 98.7% 97.5% 98.5%
+95% CI (97.0%, 99.6%) (91.3%, 99.7%) (96.9%, 99.4%)
+CI, confidence interval. aIncludes only patients with non-missing investigator responses for primary implants at this follow-up year (5).
+data, documented only when the investigator surgeon confirms that of surface characteristics on the local inflammatory process.
+there was inadvertent damage to the device during a surgical The early cellular response to the presence of an implant and poten-
+procedure. tial bacterial attachment and biofilm formation is affected by a combi-
+There were 2 patients who underwent a reoperation for capsular nation of surface technology and regimented bacterial mitigation
+contracture (Grade III/IV) in the primary augmentation cohort by strategies.8
+Year 5. The low capsular contracture rates observed in this pivotal There were 10 reoperations in the revisional augmentation cohort
+study validate the resurgence in research focused on the influence for recurrent capsular contracture. In this cohort, 15 patients were
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026
+
+--- PÁGINA 10 ---
+328 Aesthetic Surgery Journal 46(3)
+enrolled due to implant rupture and 20 patients for Grade III/IV capsu- Acknowledgments
+lar contracture. Of the patients enrolled with previous implant rupture,
+The authors again wish to acknowledge the considerable contri-
+4 of 15 (27.0%) developed a subsequent capsular contracture requiring
+butions of Dr Scott Spear (1948-2017) in the design of the study
+a revision. Of the patients enrolled for capsular contracture, 4 of the 20
+protocol and the selection of the clinical investigators.
+(20%) developed a recurrent capsular contracture requiring surgical in-
+tervention. The recurrent capsular contractures occurred at 5 investi-
+Disclosures
+gator sites. Each of the investigators reported that they performed a
+total capsulectomy at the time of initial Motiva placement. Dr Glicksman is a clinical investigator and the medical director for
+Recurrent capsular contracture rates in patients treated for estab- the Motiva US Breast Implant Clinical Trial (Establishment Labs
+lished capsular contracture have been documented in previous piv- Holdings, Inc., Alejuela Costa Rica); and is the national principal
+otal studies to range from 20% to 21%.9,10 Capsular contracture investigator for the Becton Dickinson STANCE GalaFlex Clinical
+(Grade III/IV) after revisional augmentation surgery is documented Trial (Becton, Dickinson and Company, Franklin Lakes, NJ).
+to have a high rate of recurrence with capsulectomy alone Dr McGuire is a clinical investigator for Establishment Labs.
+(27.2%).11Recently published studies described revisional protocols Dr Wolfe is a clinical investigator for Establishment Labs. The au-
+that include capsulectomy (total or partial), site change, implant ex- thors have no financial interest to declare in Establishment Labs.
+change, antibiotics and povodine solutions, and specify the use of
+acellular dermal matrix (ADM) or scaffold.12,13The Motiva pivotal trial Funding
+protocol did not permit scaffold or ADM in the management of recur- The authors received no financial support for the research, au-
+rent capsular contracture. thorship, and publication of this article.
+Data were collected after implantation to document any new onset
+of CTD or autoimmune disorders. Over 5 years, 1 patient reported a
+REFERENCES
+diagnosis of Hashimoto’s thyroiditis. There have been no other
+new diagnoses of lupus, rheumatoid arthritis, scleroderma or other 1. Hong P, Kim SS, Jeong C, et al. Four-year interim results of the safety of aug-
+rheumatologic illness in either cohort. Patients will continue to be mentation mammaplasty using the Motiva Ergonomix™ Round SilkSurface: a
+monitored for CTD and rheumatologic disorders for the full 10 years. multicenter, retrospective study. Aesthet Surg J. 2021;45:895-903. doi: 10.
+1007/s00266-021-02152-3
+Size change remains the leading reason for reoperation in both the
+2. Munhoz A, de Azevedo Marques Neto A, Maximiliano J. Subfascial ergonomic
+primary augmentation (10%) and revisional augmentation (27%) co- axillary hybrid (SEAH) breast augmentation: a surgical approach combining the
+horts at 5 years. Revision for size change remains a subjective deci- advantages of incision, pocket, silicone gel, and fat grafting in primary and re-
+sion between the investigator surgeon and the patient and is not vision breast augmentation surgery. Aesthet Surg J. 2021;41:NP364-NP384.
+doi: 10.1093/asj/sjab029 considered device related.
+3. Botti G, Botti C, Ciancio F. A single center’s clinical experience with Ergonomix
+The limitations of this study include the fact that the investigators
+(breast implants. Aesthet Surg J. 2022;42:NP312-NP318. doi: 10.1093/asj/sjab422
+were experienced plastic surgeons with previous involvement in clin- 4. Quirós MC, Bolaños MC, Fassero JJ. Six-year prospective outcomes of primary
+ical trials and that they selected patients who were suitable candi- breast augmentation with nano surface implants. Aesthet Surg J. 2019;39:
+dates for surgery and willing to participate in a 10-year study. 495-508. doi: 10.1093/asj/sjy196
+5. Doloff JC, Veiseh O, de Mezerville R, et al. The surface topography of silicone
+Furthermore, because 94% of the participants received implants
+breast implants mediates the foreign body response in mice, rabbits and hu-
+placed in a dual-plane pocket, the reported 5-year results may not mans. Nat Biomed Eng. 2021:5:1115-1130. doi: 10.1038/s41551-021-00739-4
+be applicable to patients undergoing subfascial or subglandular im- 6. International Standardization Organization. ISO 14607:2024: Non-active surgi-
+plant placement. cal implants, Mammary Implants, Specific Requirements. ISO 14607:2024—
+Non-active surgical implants—Mammary implants—Specific requirements.
+Published Edition 4, 2024. Accessed September 19, 2025.
+7. Glicksman C, Wolfe A, McGuire P. The study of the safety and effectiveness of
+Motiva SmoothSilk (silicone gel-filled breast implants in patients undergoing
+CONCLUSIONS
+primary and revisional breast augmentation: three-year clinical data. Aesthet
+Surg J. 2024;44:1273-1285. doi: 10.1093/asj/sjae134
+The Motiva clinical trial began patient enrollment in 2018, with some 8. Munhoz AM, Clemens MW, Nahabedian MY. Breast implant surfaces and their im-
+sites now in their seventh year of patient follow-up. These data rep- pact on current practices: where we are now and where are we going? Plast
+Reconstr Surg Glob Open. 2019;7:e2466. doi: 10.1097/GOX.0000000000002466
+resent the 5-year submission to the FDA in the primary augmentation
+9. Cunningham B, McCue J. Safety and effectiveness of Mentor’s MemoryGel im-
+and revisional augmentation cohorts. The Motiva clinical trial intro-
+plants at 6 years. Aesthet Plast Surg. 2009;33:440-444. doi: 10.1007/s00266-
+duced US surgeons to several new modifications, including the 009-9364-6
+Motiva SmoothSilk surface, which was intentionally designed to low- 10. Spear SL, Murphy DK, Slicton A, Walker PS. Inamed silicone breast implant
+er rupture and capsular contracture rates. Clinical trial evidence con- core study results at 6 years. Plast Reconstr Surg. 2007;120:8S-16S. doi: 10.
+1097/01.prs.0000286580.93214.df
+tinues to demonstrate very low rupture rates and low capsular
+11. Hidalgo D, Weinstein A. Surgical treatment for capsular contracture: a new par-
+contracture rates, with high levels of satisfaction reported by patients adigm and algorithm. Plast Reconstr Surg. 2020;146:516-525. doi: 10.1097/
+and surgeons alike. PRS.0000000000007079
+12. Bassetto F, Pandis L, Azzena GP, et al. Complete implant wrapping with
+porcine-derived acellular dermal matrix for the treatment of capsular contrac-
+ture in breast reconstruction: a case-control study. Aesthet Plast Surg.
+Supplemental Material 2022;46:1575-1584. doi: 10.1007/s00266-022-02826-6
+13. Wagner D, Mirhaidari S. Capsulectomy, implant exchange, and placement of
+This article contains supplemental material located online at
+acellular dermal matrix is effective in treating capsular contracture in breast aug-
+https://doi.org/10.1093/asj/sjaf245. mentation patients. Aesthet Surg J. 2021;41:304-312. doi: 10.1093/asj/sjz358
+Downloaded
+from
+https://academic.oup.com/asj/article/46/3/319/8332341
+by
+ESCOLA
+SUPERIOR
+DE
+PROPAGANDA
+E
+MARKETING
+user
+on
+11
+June
+2026

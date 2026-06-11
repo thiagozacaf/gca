@@ -1,0 +1,982 @@
+--- PÁGINA 1 ---
+Breast Implant-Associated Anaplastic Large Cell
+Lymphoma in Australia: A Longitudinal Study of
+Implant and Other Related Risk Factors
+Anand K Deva, BSc (Med), MBBS, MS, FRACS, Anna Loch-Wilkinson, MBBS,
+FRACS, H Miles Prince, MD, FRACP, FRACPA, ADRACMA, MACD, James
+French, MBBS, FRACS, Karen Shaw, MBBS, FRACS, Karen Vickery, BVsc, PhD,
+Kenneth J Beath, PhD, Mark R Magnusson, MBBS, FRACS, Rodney Cooter, MD,
+FRACS
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 2 ---
+Breast Implant-Associated Anaplastic Large Cell Lymphoma in Australia: A
+Longitudinal Study of Implant and Other Related Risk Factors
+Anna Loch-Wilkinson, MBBS, FRACS; Kenneth J. Beath, PhD; Mark R. Magnusson,
+MBBS, FRACS; Rodney Cooter, MD, FRACS; Karen Shaw, MBBS, FRACS; James French,
+MBBS, FRACS; Karen Vickery, BVsc, PhD; H. Miles Prince, MD, FRACP, FRACPA,
+ADRACMA, MACD; and Anand K. Deva, BSc (Med), MBBS, MS, FRACS;
+t
+p
+Dr Loch-Wilkinson is a Plastic Surgeon, Dr Beath is a Statistician, Dr Shaw is a Breast
+and Oncoplastic Surgeon, and Prof Vickery is Co-director of the Surgical Infection
+i
+Group, Macquarie University, Sydney, Australia. Prof Magnussonr is a Plastic Surgeon,
+Griffith University, Sydney, Australia; and is a member ofc the Global Alliance for
+Aesthetic Breast Surgery. Prof Cooter is a Plastic Surgeon, Monash University,
+s
+Melbourne, Australia. Prof French is a Breast and Oncoplastic Surgeon, Westmead
+u
+Breast Cancer Institute, University of Sydney, Sydney, Australia. Prof Prince is a
+Haematologist/Oncologist, Peter MacCallum Cancer Center, Melbourne, Australia.
+n
+Prof Deva is a Plastic Surgeon and Head of Department of Plastic and Reconstructive
+Surgery, Co-director of the Surgical Infecation Group, Macquarie University, Sydney,
+Australia; is a member of the Global Alliance for Aesthetic Breast Surgery; and is a
+M
+director of the Integrated Specialist Healthcare Education and Research Foundation.
+Corresponding Author: Prof Anand K. Deva, Department of Plastic and
+Reconstructive Surgery, Sudite 301, 2 Technology Place, Macquarie Park NSW 2109,
+Sydney, Australia
+e
+E-mail: anand.deva@mq.edu.au; Twitter: @saferimplants
+t
+Disclosures: Prpof Deva is an advisor, research coordinator, and educator for Mentor
+(Johnson & Johnson), Allergan, Sientra. and Motiva (Establishment labs). Prof
+e
+Magnusson is an advisor and speaker for Allergan and Mentor (Johnson & Johnson).
+Prof Pcrince is an advisor and research coordinator for Allergan. The other authors
+declared no potential conflicts of interest with respect to the research, authorship,
+c
+and publication of this article.
+A
+Funding: The authors received no financial support for the research, authorship, and
+publication of this article.
+Level of Evidence: 2 (Risk)
+© 2019 The American Society for Aesthetic Plastic Surgery, Inc. Reprints and
+permission: journals.permissions@oup.com
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 3 ---
+Abstract
+Background: Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL) is
+an emerging cancer that has been linked to the use of textured devices. Recent
+increase in number and frequency of cases has led to worldwide regulatory action.
+Objective: We aimed to longitudinally study the disease in Australia since the index
+case was first reported in 2007.
+t
+p
+Methods: Confirmed historical cases were collected and then prospectively analyzed
+i
+from October 2015 to May 2019. Clinical and implant exposure data was determined
+r
+and compared with company sales data for four devices to gcenerate implant-specific
+risk. s
+u
+Results: A total of 104 cases of BIA-ALCL were diagnosed in Australia with exposure
+to 149 unique breast implants. The mean ange of patients was 48.2 years (range,
+22.4-78.5 years). They had an average taime from implantation to diagnosis of 6.8
+years. 51.7% of implants utilizedM in this cohort were Allergan Biocell devices. The
+indication for implant usage was for primary cosmetic augmentation in 70%, post
+breast cancer reconstruction in 23% and following weight loss/pregnancy in 7%. The
+d
+majority of women presented with early (stage 1) disease (87.5%). The risk for
+e
+developing BIA-ALCL ranged from 1 in 1947 sales (95% CI 1199-3406) for Silimed
+t
+Polyurethane pdevices to 1 in 36730 (95% CI 12568-178107) for Siltex imprinted
+textured deevices.
+Conclcusions: Implants with higher surface area/texture seem to be more associated
+wcith BIA-ALCL in Australia. Recent regulatory action to suspend, cancel, or recall
+Asome of these higher risk devices is supported by these findings.
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 4 ---
+The development of a unique T cell anaplastic non-Hodgkin’s lymphoma related to
+breast implants, breast implant-associated anaplastic large cell lymphoma (BIA-ALCL)
+was first reported in 1997.1 In recent years, the number and frequency of diagnosed
+cases appears to be increasing with over 700 confirmed cases2 and 33 deaths
+reported globally.3 The epidemiology of BIA-ALCL shows some unique features with a
+predilection for Caucasian women.2 There are only 3 known cases in women with
+t
+Asian descent and 1 case in a woman from African descent.2 The tu p mor presents in
+i
+most cases with an effusion in the space between breast implant and capsule
+r
+between 7-9 years following insertion of the implant.4 It ccan occur both following
+breast implant surgery for breast cancer reconstrucstion or following cosmetic
+u
+augmentation. Whilst the majority of patients present in early stage disease, some
+can present with solid tumor invading the nperi-implant capsule to subsequently
+spread to adjacent tissue and draining laymph nodes.5 A number of countries have
+reported their series and confirmMed a higher risk for textured breast implants.6-8
+Textured implants were introduced as early as the late 1960s in an attempt to
+provide stability and reduce encapsulation. The first texture to be introduced was
+d
+Polyurethane (Surgitek) followed by other technologies designed to alter the outer
+e
+silicone shell.9 There are a number of varying surface textures, classified by Jones et
+t
+al into 4 gradpes using measurement of surface area and surface roughness.10
+Analysis beased on tally of confirmed cases and implant sales have shown that
+implacnts with higher surface area and surface roughness confer significantly higher
+rcisk to patients.6,11 A unifying hypothesis that BIA-ALCL is caused by a combination of
+Atexture, contamination by bacteria and stimulation of genetically susceptible T cells
+over time has been proposed for pathogenesis of this cancer.12,13 Other triggers of
+chronic inflammation including particulates, friction and allergy have also been
+proposed.2
+We have previously published epidemiology of this disease in Australia and
+New Zealand6,11 and now include the most updated case details and implant-specific
+risk calculations for four distinct types of textured implant.
+METHODS
+Case Collection
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 5 ---
+This study was approved by the Macquarie University Ethics Secretariat and
+complied with guidelines for the conduction of human research. All known cases of
+BIA-ALCL in Australia have been collected since the index case was diagnosed in 2007.
+From 2007 to 2015, forensic analysis and self-reporting were utilized to collect data.
+A partnership between clinicians utilizing breast implants, hematology/oncology,
+pathology, the Australian Breast Device Registry and Cancer Registries has ensured
+t
+p
+that since October 1, 2015, prospective notification and data collection of new cases
+i
+has been undertaken. Demographic, treatment and implant type and exposure times
+r
+were collected both retrospectively beginning in October 2c015 for cases prior and
+prospectively for cases from this time to May 2019. sAll patients have confirmed
+u
+pathology and clinical and pathological staging. Patients were followed up 6 monthly
+for ongoing surveillance by their treating mnulti-disciplinary team and any disease
+progression or recurrence was recorded. a
+M
+Sales Data
+Data on sales of respective textured implants associated with diagnosed cases were
+d
+obtained on a yearly basis from Allergan, Mentor (Johnson & Johnson), Nagor, and
+e
+Silimed from 1999 to 2019. For Silimed, the sales of implants did not increase
+t
+significantly upntil after 2008, following Australian regulatory approval. These
+implants ewere also withdrawn from use in 2015, following regulatory action. For
+analycsis, these data were converted to integral years to allow a discrete time analysis,
+wcith analysis restricted to subjects who underwent implantation during or after 1999
+Awithin Australia and who had been exposed to a single type of texture only. For
+comparison, we also performed the risk calculation adding the last implant for
+patients with multiple implants. We did not include smooth implant exposure in our
+analysis, as there were no single implant or last implant exposure cases for smooth
+implants in our cohort. Incidence was calculated using the Poisson distribution and
+exact confidence intervals. The cumulative proportion of subjects with ALCL exposed
+to these implants was determined using the Kaplan-Meier estimate, with confidence
+intervals obtained using a parametric bootstrap. Comparison between groups was
+performed using discrete-time survival analysis14 using exact-like logistic regression.
+All calculations were performed using the R language15 and packages boot elrm16
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 6 ---
+and epitools.17
+Comparison of Surface Area/Roughness to Risk
+Previously published data on the surface area/roughness of the 4 available implants
+(Allergan, Mentor, Nagor, and Silimed)10 were compared to calculated implant-
+specific risk.
+t
+p
+i
+Clinical Indication and Assignment
+r
+Patients were assigned as to indication for breast implantc surgery. These included
+patients following cancer reconstruction, patients who shad breast surgery following
+u
+weight loss/breast ptosis, and patients who underwent primary cosmetic breast
+augmentation. n
+For cosmetic breast augmentatioan, the procedure was classified into those
+performed by board certified (Mmembers of the Royal Australasian College of
+Surgeons) (C) versus those performed by non-certified (NC) practitioners. Until 2018,
+with the change of regulation in two States, cosmetic augmentation by NC
+d
+practitioners was not necessarily performed in a licensed operating facility.
+e
+Frequency of sales of Nagor, Mentor, and Silimed to C vs. NC practitioners were
+t
+obtained and pcompared to the frequency of BIA-ALCL cases in primary cosmetic
+augmentaetion cases. Only cases where a single implant led to development of BIA-
+ALCL cwere included in this analysis.
+c
+ARESULTS
+A total of 104 patients have been diagnosed with BIA-ALCL since 2007 in Australia.
+These women have been exposed to a total of 149 implants. The mean age of
+patients was 48.2 years (range, 22.4-78.5 years). They had an average time from
+implantation to diagnosis of 6.8 years (range, 0.1-27.0 years). Forty-nine women had
+BIA-ALCL on the left side (47.1%) whilst 55 (52.9%) had the diagnosis on the right.
+There were no patients with bilateral disease. Seventy-seven patients (74%) had
+exposure to a single implant only with the remaining 27 (26%) having exposure to
+multiple implants. Table 1 details the multi-implant exposure patients and reports
+the number of implants (range, 2-5) and details the last implant type in these
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 7 ---
+patients prior to development of BIA-ALCL. None of these patients had smooth
+implants as the last implant of exposure prior to developing BIA-ALCL. Eleven
+patients from the reconstructive group had prior tissue expansion before implant
+placement. Of these nine had subsequent exposure to a single implant whilst the
+remaining two had multiple implants prior to developing BIA-ALCL.
+143 implants were inserted in Australia whilst 6 were inserted overseas (5
+t
+p
+Thailand, 1 Peru) (Table 2). A total of 99 of the 104 patients had implantation in
+i
+Australia and these cases were included in the risk assessment.
+r
+c
+Indication for Surgery s
+u
+A total of 95 patients had recorded indications for surgery and information available
+on their treating practitioner. The majority of nthese patients (67) had breast implants
+for cosmetic augmentation (71%). Twentay-one (22%) had implants for breast cancer
+reconstruction and the remaininMg 7 (7%) had implants for weight loss surgery
+(augmentation mastopexy). All procedures performed for breast cancer
+reconstruction and weight loss (augmentation mastopexy) were performed by
+d
+Australian certified surgeons.
+e
+For the cosmetic only indication, there were 49 cases accounting for 73% of
+t
+the total numbper of cases of BIA-ALCL whose primary procedure was performed by a
+non-certifeied practitioner. This compares with only 18 cases (27%) whose primary
+cosmcetic augmentation was performed by an Australian certified surgeon.
+c
+AStaging, Clinical Outcome, Mortality
+Table 3 lists presentation and clinical staging of patients with BIA-ALCL with
+comparison to previously reported data. The majority of women (87.5%) presented
+with Stage 1 disease with 57.7% presenting with stage 1a (neg) disease. This group
+had tumor cells detectable only in the seroma but with no detectable tumor in the
+capsule or capsular lining.
+There was an additional death reported during this last review, bringing the
+total number of deaths in Australia from BIA-ALCL to 4. Three were related to
+disease progression and 1 was related to iatrogenic complications of treatment for
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 8 ---
+BIA-ALCL. The percentage rise in new cases is 43.8% from December 2016 to March
+2018 and 57.6% from April 2018 to May 2019.
+Implant-Specific Risk
+Single Implant Calculation
+Collectively implants from the four companies that provided access to sales data
+t
+p
+(Mentor, Allergan, Nagor, and Silimed) comprised 87% of implants used in patients
+i
+with BIA-ALCL. Figure 1 summarizes cumulative proportion of BIA-ALCL for these
+r
+four implant types per 10,000 implants. c
+Table 4 outlines the implant-specific risk bassed in patients with single
+u
+textured implant exposure only. The highest risk was calculated for Silimed
+Polyurethane implants at 1 case for every 25n96 implants sold (95% CI 1486-5024).
+The odds ratios for developing ALCL werea as follows: Biocell vs. Siltex was 6.28 (95%
+CI 2.30,25.92) p<0.0001; SilimedM PU vs. Siltex was 12.46 (95% CI 3.40,80.14),
+p<0.0001; and Nagor vs. Siltex was 4.12 (95% CI 1.08,19.74), p<0.04.
+d
+Last Implant Calculation
+e
+Table 5 outlines the implant-specific risk based in patients based on the last implant
+t
+type. These inpcluded patients with both single and multiple implant exposure. The
+highest riesk was calculated for Silimed PU at 1 case for every 1947 implants sold
+(95% cCI 1199-3406).
+cThe odds ratios for developing ALCL were as follows; Biocell vs. Siltex 3.77
+A(95% CI 1.84,9.10) p=0.0001, Silimed PU vs. Siltex 6.87 (95% CI 2.68, 21.08),
+p=<0.0001 and Nagor vs. Siltex 2.02 (95% CI 0.69, 5.95), p=0.2.
+Surface Area/Roughness and Relation to Implant-Specific Risk
+Both parameters were fitted separately using the survival model to delineate if there
+was a relationship between increasing surface area and surface roughness with
+increasing risk of BIA-ALCL and shown in Table 6.
+The effect of roughness was highly significant (p=0.0001) for incidence of BIA-
+ALCL. The effect of surface area was also similarly highly significant (p=0.0007).
+These findings confirm that higher surface roughness and area are correlated with
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 9 ---
+increasing risk of BIA-ALCL for these 4 implant types. Figure 2 shows the increasing
+level of risk with increasing roughness/surface area for both single and last implant
+for the 4 implant types studied.
+Impact of Certification
+We were able to confirm the proportion of implants sold to non-certified vs. certified
+t
+p
+practitioners for 3 implant types – Nagor, Silimed PU, and Mentor for the period of
+i
+study. Table 7 summarizes analysis of frequency of BIA-ALCL cases arising from non-
+r
+certified vs. certified practitioners following primary cosmetcic augmentation where a
+single implant was utilized prior to development ofs BIA-ALCL. For these three
+u
+manufacturers, we can conclude that the proportion of BIA-ALCL from non-certified
+practitioners is significantly higher as compnared to the sale of implants to non-
+certified practitioners (p = 0.002 Mentor;a p=0.0004 Nagor; p=0.007 Silimed PU).
+M
+DISCUSSION
+The latest analysis of risk of BIA-ALCL in the Australian population has confirmed that
+d
+implants with higher surface area/roughness carry higher risk. The majority (87.5%)
+e
+of patients are now being diagnosed in early stage through better awareness and
+t
+improved survpeillance. These patients are treated with surgical removal of implant
+and capsuele alone, without the need for adjuvant therapy and have an excellent
+progncosis.4
+cThese updated risk data support the recent regulatory action to suspend or
+Acancel devices that have higher-grade texture in order to reduce the forward
+incidence of this cancer. The French regulator, the ANSM, was the first to suspend a
+range of textured devices based on published and independent risk analysis for the
+French cohort.18 This was followed by the FDA decision to initiate a recall of the
+Biocell product, reversing their earlier decision, based on a rise in the number of
+deaths related to this device.3 Allergan then chose to initiate a voluntary global recall
+of their Biocell textured implants and tissue expanders.19 This action is supported by
+our findings that the risk for Allergan Biocell (Grade 3) device has been steadily
+increasing since the time of our first publication. The previous cancellation of the
+Silimed PU device by regulators, albeit for other reasons,9 also ensures that the two
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 10 ---
+highest risk devices are now no longer available for implantation in Australia. The
+recent decision by the Therapeutic Good Administration to suspend products that
+have been associated with cases of BIA-ALCL in Australia was made independently of
+our risk calculation and with access to unique case load, sales data combined with
+statistical and internal laboratory analysis.20 The suspension of Grade 3 and 4 devices
+(Eurosilicone, Polytech Polyurethane) is consistent with our findings with respect to
+t
+p
+risk of BIA-ALCL in devices with high surface area/roughness. The suspension of the
+i
+Nagor textured device (Grade 2, open salt loss manufacturing method) is also
+r
+supported by our findings that the risk and confidence intercvals are within the range
+of other higher risk devices. Their decision for permitsting the ongoing use of the
+u
+Siltex (Grade 2, imprinted texture) device can also be justified based on the lower
+level risk calculated by comparison to other dnevices. It is possible, however, that for
+Grade 2 devices, the signal for BIA-ALCLa may be delayed and that over time, the
+difference between various gradeMs of textured device may normalize and approach a
+more consistent range. Further analysis of the latency before developing BIA-ALCL
+for varying grades of implant are required to verify this hypothesis and to ensure the
+d
+safety of other textured devices with respect to the risk of BIA-ALCL.
+e
+We chose to report two methods of implant risk calculation in this study. We
+t
+have previousply utilized single implant exposure only in our risk calculation,6,11
+concedinge that this method most likely underestimates the true risk of BIA-ALCL
+whenc using sales data as it does not reflect the actual type and number of implants
+tchat are implanted in patients. We have previously outlined the limitations of this
+Amethod11 including underreporting and/or errors in reporting of cases and the use of
+sales data as a substitute for actual implantation numbers. The use of sales data to
+derive denominators, however, is a valuable proxy to the true risk. The use of last
+implant of exposure includes patients who develop BIA-ALCL after multi-implant
+exposure into the risk calculation and does yield a higher risk as compared with the
+single implant calculation. The difficulty with using last implant is that the relative
+weighting or risk for patients with multiple implant exposure is ascribed to a single
+implant type and therefore may over-represent one device as compared to others.
+What was consistent, however, using both methods, is the relative rates risk of each
+of the devices studied remains the same, with the Grade 4 surface imparting the
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 11 ---
+highest risk. We have previously discussed the relevance of this finding with respect
+to the unifying hypothesis of BIA-ALCL.11 Whilst our initial analysis suggested a
+higher frequency of Ralstonia picketii in BIA-ALCL specimens,21 further microbiome
+analysis from prospective sample collection is ongoing and will further elucidate the
+frequency of these and other bacteria utilizing fresh tumor samples. Prospective
+clinical data collated by maturing breast implants registries will be key in delineating
+t
+p
+the true incidence and implant-specific risk. The International Collaboration of
+i
+Clinical Quality Breast implant Registries (ICOBRA) aims to harmonize and combine
+r
+collective implant outcomes and will, in time, provide a bettcer estimation of forward
+risk.22 s
+u
+The confirmation that increasing surface area and surface roughness are
+significantly associated with risk of BIA-ALCnL across these four varying textured
+devices is consistent with previous publisahed data.6,11,23,24
+For cases arising out of pMrimary cosmetic augmentation, subset analysis of
+the impact of certification has yielded an unexpected finding, with a higher
+frequency of observed cases for practitioners who are non-certified by our national
+d
+body as specialist surgeons. The observation of clusters of multiple cases of BIA-ALCL
+e
+cases arising from single surgeons has hinted at the potential impact of perioperative
+t
+and intraoperaptive factors.11 Additionally, many of these cases were, until recently,
+performede in unlicensed facilities, potentially compounding the risk by failure to
+regulacte consistent standards of safety and infection control. Further study is
+rcequired to investigate the relative impact of certification/training and licensing of
+Afacilities on the risk of developing BIA-ALCL. It is timely that we look to ensure that
+the highest standards of clinical practice (implant choice, informed educated consent,
+shared decision making, cooling off period prior to elective breast implant surgery,
+bacterial mitigation25 and ongoing surveillance post implantation) are outlined and
+enforced so as to promote patient safety. Attention should also be focused on
+ensuring appropriate training, practice and certification are attained before clinicians
+are permitted access to these Class 3 medical devices. These findings echo
+experience with pelvic and vaginal mesh, where lack of practitioner education,
+training and certification have been associated with a higher rate of adverse
+events.26,27
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 12 ---
+CONCLUSIONS
+The risk of BIA-ALCL in Australia is rising and is significantly more associated with
+breast implants of higher surface area/roughness. The levels of risk reported for
+Australia justifies recent worldwide regulatory action. The training, experience and
+certification of the practitioner using these devices and the facilities where these
+t
+p
+procedures are performed may impact on the risk of BIA-ALCL and requires further
+i
+study. The use of sales data analysis in Australia has provided a clearer picture of the
+r
+emerging patterns of this disease and valuable risk vs. bencefit information to guide
+clinicians, regulators and patients to ensure ongoing safsety and efficacy.
+u
+REFERENCES n
+1. Keech JA Jr, Creech BJ. Anaplastic aT-cell lymphoma in proximity to a saline-
+filled breast implant. Plast ReconsMtr Surg. 1997;100(2):554-555.
+2. Collett DJ, Rakhorst H, Lennox P, Magnusson M, Cooter R, Deva AK. Current
+risk estimate of breast implant-associated anaplastic large cell lymphoma in textured
+d
+breast implants. Plast Reconstr Surg. 2019;143(3S A Review of Breast Implant-
+e
+Associated Anaplastic Large Cell Lymphoma):30S-40S.
+t
+3. FDA. Mpedical Device Reports of Breast Implant-Associated Anaplastic Large
+Cell Lympehoma. 2019; https://www.fda.gov/medical-devices/breast-
+implacnts/medical-device-reports-breast-implant-associated-anaplastic-large-cell-
+lycmphoma. Accessed September 24, 2019.
+A4. Clemens MW, Brody GS, Mahabir RC, Miranda RN. How to diagnose and treat
+breast implant-associated anaplastic large cell lymphoma. Plast Reconstr Surg.
+2018;141(4):586e-599e.
+5. Ferrufino-Schmidt MC, Medeiros LJ, Liu H, et al. Clinicopathologic features
+and prognostic impact of lymph node involvement in patients with breast implant-
+associated anaplastic large cell lymphoma. Am J Surg Pathol. 2018;42(3):293-305.
+6. Loch-Wilkinson A, Beath KJ, Knight RJW, et al. Breast implant-associated
+anaplastic large cell lymphoma in Australia and New Zealand: high-surface-area
+textured implants are associated with increased risk. Plast Reconstr Surg.
+2017;140(4):645-654.
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 13 ---
+7. de Boer M, van Leeuwen FE, Hauptmann M, et al. Breast implants and the
+risk of anaplastic large-cell lymphoma in the breast. JAMA Oncol. 2018;4(3):335-341.
+8. Doren EL, Miranda RN, Selber JC, et al. United Stated epidemiology of breast
+implant-associated anaplastic large cell lymphoma. Plast Reconstr Surg. 2016;in
+press.
+9. Deva AK, Cuss A, Magnusson M, Cooter R. The "game of implants": a
+t
+p
+perspective on the crisis-prone history of breast implants. Aesthet Surg J.
+i
+2019;39(Supplement_1):S55-S65.
+r
+10. Jones P, Mempin M, Hu H, et al. The functional influecnce of breast implant
+outer shell morphology on bacterial attachment and groswth. Plast Reconstr Surg.
+u
+2018;142(4):837-849.
+11. Magnusson M, Beath K, Cooter R, et aln. The epidemiology of breast implant-
+associated anaplastic large cell lymphomaa in Australia and New Zealand confirms the
+highest risk for grade 4 surface breMast implants. Plast Reconstr Surg.
+2019;143(5):1285-1292.
+12. Rastogi P, Riordan E, Moon D, Deva AK. Theories of etiopathogenesis of
+d
+breast implant-associated anaplastic large cell lymphoma. Plast Reconstr Surg.
+e
+2019;143(3S A Review of Breast Implant-Associated Anaplastic Large Cell
+t
+Lymphoma):23pS-29S.
+13. Raestogi P, Deva AK, Prince HM. Breast implant-associated anaplastic large cell
+lymphcoma. Curr Hematol Malig Rep. 2018;13(6):516-524.
+1c4. Singer J, Willett J. Applied longitudinal data analysis: modeling change and
+Aevent occurrence. New York: Oxford University Press; 2003.
+15. boot: Bootstrap R (S-plus) Functions [computer program]. 2016.
+16. Team RC. A language and environment for statistical computing. R
+Foundation for Statistical Computing. https://www.r-project.org. Accessed August
+28, 2016.
+17. Zamar D, McNeney B, Graham J. erlm: Software implementing exact-like
+inference for logistic regression models. J Stat Software. 2007;21:118.
+18. Vaysse C, Laurent C, Ysebaert L, Chantalat E, Chaput B. France: the first
+country to ban a type of breast implant linked to anaplastic large cell lymphoma.
+Aesthet Surg J. 2019;39(8):NP352-NP353.
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 14 ---
+19. McGuire PA, Deva AK, Glicksman CA, Adams WP Jr, Haws MJ. Management of
+asymptomatic patients with textured surface breast implants. Aesthet Surg J Open
+Forum. 2019;1(3): doi: 10.1093/asjof/ojz025.
+20. TGA. Update - Outcomes from the TGA's review of breast implants and breast
+tissue expanders. 2019; https://www.tga.gov.au/alert/breast-implants-and-
+anaplastic-large-cell-lymphoma. Accessed September 26, 2019.
+t
+p
+21. Hu H, Johani K, Almatroudi A, et al. Bacterial biofilm infection detected in
+i
+breast implant-associated anaplastic large-cell lymphoma. Plast Reconstr Surg.
+r
+2016;137(6):1659-1669. c
+22. Cooter RD, Barker S, Carroll SM, et al. Internationsal importance of robust
+u
+breast device registries. Plast Reconstr Surg. 2015;135(2):330-336.
+23. Hu H, Jacombs A, Vickery K, Merten SL,n Pennington DG, Deva AK. Chronic
+biofilm infection in breast implants is assoaciated with an increased T-cell lymphocytic
+infiltrate: implications for breast imMplant-associated lymphoma. Plast Reconstr Surg.
+2015;135(2):319-329.
+24. Jacombs A, Tahir S, Hu H, et al. In vitro and in vivo investigation of the
+d
+influence of implant surface on the formation of bacterial biofilm in mammary
+e
+implants. Plast Reconstr Surg. 2014;133(4):471e-480e.
+t
+25. Deva ApK, Adams WP Jr., Vickery K. The role of bacterial biofilms in device-
+associatede infection. Plast Reconstr Surg. 2013;132(5):1319-1328.
+26. cMowat A, Maher C, Ballard E. Surgical outcomes for low-volume vs high-
+vcolume surgeons in gynecology surgery: a systematic review and meta-analysis. Am J
+AObstet Gynecol. 2016;215(1):21-33.
+27. Comittee CAR. Number of women in Australia who have had transvaginal
+mesh implants and related matters. Commonwealth Government of Australia:
+Senate; 2018.
+https://www.aph.gov.au/parliamentary_business/committees/senate/community_a
+ffairs/meshimplants/report. Accessed November 12, 2019.
+‘[AQ: Please review the URLs in References #16 and 27 for accuracy.]
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 15 ---
+Table 1. Number of Patients with BIA-ALCL with Single vs. Multiple Implant Exposure
+No. of patients Percentage
+Implant exposure
+Single 77 74%
+Multiple 27 26%
+No. of implants
+2 17 16.3%
+t
+3 5 4.8%
+p
+4 2 1.9%
+5 3 i2.0%
+r
+Last implant in patients with
+c
+multiple implants
+Allergan Biocell 14 s51.9%
+Silimed Polyurethane 6 22.2%
+u
+Mentor Siltex 5 18.5%
+Nagor 1 n 3.7%
+Polytech Polyurethane 1 3.7%
+a
+M
+Table 2. Type and Number of Implants Utilized in the 2019 Patient Cohort and
+Comparison with Previous Years
+d
+Manufacturer Seurface Grade10 2016 2018 2019 Percentage
+Silimed Polyurethane 4 12 20 28 18.8%
+t
+Polytech Polyurethane 4 0 1 2 1.3%
+p
+Surgitek Polyurethane 4 1 1 1 0.7%
+Allergan/Inamed Biocell (Salt loss) 3 26 51 77 51.7%
+e
+Eurosilicone Salt Loss 3 0 0 1 0.7%
+Nagor Nagotex (Salt Loss) 3 4 6 8 5.4%
+c
+Mentor Siltex 2 2 6 17 11.4%
+PcIP Textured 2 0 4 6 4.0%
+Mentor Smooth 1 2 2 2 1.3%
+A
+Unknown Smooth 1 2 2 5 3.4%
+Unknown Texture Unknown 0 0 2 1.3%
+Total 50 93 149
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 16 ---
+Table 3. TNM Staging and Deaths for Patients Over 3-Year Time Period with
+Percentage Increase in Number of Cases
+TNM Stage 2016 2018 2019 Percentage Deaths
+T1N0M0 1A(neg) 28 38 60 57.7% 0
+T1N0M0 1A(pos) 7 15 25 24.0% 0
+T3N0M0 1C 6 6 6 5.8% 0
+T4N0M0 2A 3 5 8 7.7% 3
+T4N1M0 3 1 1 1 1.0% 1
+t
+T4N2M0 3 1 1 3 2.9%p 0
+T4N2M1 4 0 0 1 1.0% 0
+Percent increase in cases 43.8 57.6 i
+r
+c
+s
+u
+Table 4. Risk of BIA-ALCL for 4 Implant Types Based on Sales Data and Single Implant
+Exposure. Mean and 95% Confidence Intervalsn Shown.
+a
+Mean no. of implant sales Rate per 10,000 implant
+Implant perM single case of BIA-ALCL years
+(95% CI) (95% CI)
+Silimed PU 2596 0.59
+d
+95% CI (1486-5024) (0.30-1.02)
+e
+Biocell 3194 0.38
+95% CI (2387-4379) (0.27-0.50)
+t
+p
+Nagor 6024 0.22
+95% CI e (2768-16417) (0.08-0.47)
+Siltecx 36730 0.050
+95% CI (12568-178107) (0.010-0.147)
+c
+A
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 17 ---
+Table 5. Risk of BIA-ALCL for 4 Implant Types Based on Sales Data and Last Implant
+Exposure. Mean and 95% Confidence Intervals Shown.
+Implant Mean no. of implant sales Rate per 10,000 implant
+per single case of BIA-ALCL years
+(95% CI) (95% CI)
+Silimed PU 1947 0.78
+t
+95% CI (1199-3406) (0.45-1.27)
+p
+Biocell 2436 0.49
+i
+95% CI (1888-3200) (0.37-0.64)
+r
+c
+Nagor 5164 0.25
+95% CI (2506-12844) s(0.10-0.52)
+Siltex 15741 u 0.117
+95% CI (7640-39153) (0.047-0.241)
+n
+a
+M
+Table 6. Relationship Between Surface Area/Risk and Risk of BIA-ALCL
+Odds ratio
+d p value
+(95% CI)
+e 1.071
+Surface roughness Per 10 units 0.0001
+(1.036,1.104)
+t
+1.201
+Surface area pPer 10 units 0.0007
+(1.085,1.318)
+e
+c
+Table 7. Percentage of BIA-ALCL Cases Generated by Non-Certified Practitioners with
+c
+Confidence Intervals Compared with Sale Proportion of Implants to Non-Certified
+A
+Practitioners
+Proportion non-certified
+Sale proportion p value
+(95% CI)
+80.0%
+Mentor 15.0% 0.002
+(28.4%, 99.5%)
+83.3%
+Nagor 15.0% 0.0004
+(35.9%, 99.6%)
+91.7%
+Silimed 52.0% 0.007
+(61.5%, 99.8%)
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 18 ---
+Figure Legend
+Figure 1. Kaplan Meier plots for each of the 4 implants outlining cumulative
+proportion of patients with ALCL per 10,000 implants.
+Figure 2. Risk of BIA-ALCL per 10,000 implant years versus various implant types. The
+relationship between surface area/roughness is significant.
+t
+p
+i
+r
+c
+s
+u
+n
+a
+M
+d
+e
+t
+p
+e
+c
+c
+A
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 19 ---
+Figure 1
+t
+p
+i
+r
+c
+s
+u
+n
+a
+M
+d
+e
+t
+p
+e
+c
+c
+A
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
+
+--- PÁGINA 20 ---
+Figure 2
+t
+p
+i
+r
+c
+s
+u
+n
+a
+M
+d
+e
+t
+p
+e
+c
+c
+A
+Downloaded
+from
+https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjz333/5628192
+by
+Karolinska
+Institutet
+Library
+user
+on
+19
+November
+2019
